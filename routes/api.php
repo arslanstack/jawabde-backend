@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Api\AppDataController;
 use App\Http\Controllers\Api\AuthController;
 use App\Http\Controllers\Api\ComplaintApiController;
 use App\Http\Controllers\Api\ComplaintTypeApiController;
@@ -19,6 +20,10 @@ Route::prefix('v1')->group(function () {
     Route::post('auth/forgot-password', [AuthController::class, 'forgotPassword']);
     Route::post('auth/verify-otp',      [AuthController::class, 'verifyOtp']);
     Route::post('auth/reset-password',  [AuthController::class, 'resetPassword']);
+
+    // App data (local SQLite seed)
+    Route::get('app-data/version', [AppDataController::class, 'version']);
+    Route::get('app-data/seed',    [AppDataController::class, 'seed']);
 
     // Public data
     Route::post('locate',                       [LocateController::class, 'locate'])->middleware('throttle:10,1');

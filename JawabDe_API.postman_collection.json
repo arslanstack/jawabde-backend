@@ -388,6 +388,27 @@
       ]
     },
     {
+      "name": "App Data",
+      "item": [
+        {
+          "name": "Version Check",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/app-data/version", "host": ["{{base_url}}"], "path": ["app-data", "version"] }
+          }
+        },
+        {
+          "name": "Full Seed Payload",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/app-data/seed", "host": ["{{base_url}}"], "path": ["app-data", "seed"] }
+          }
+        }
+      ]
+    },
+    {
       "name": "Stats",
       "item": [
         {
