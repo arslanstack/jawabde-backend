@@ -1,0 +1,410 @@
+[
+  {
+    "constituency_code": "PB-1",
+    "constituency_name": "Sherani-Cum-Zhob",
+    "member_name": "Nawaz Kibzai",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Sherani-Cum"
+  },
+  {
+    "constituency_code": "PB-2",
+    "constituency_name": "Zhob",
+    "member_name": "Fazal Qadir Mandokhail",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Zhob"
+  },
+  {
+    "constituency_code": "PB-3",
+    "constituency_name": "Killa Saifullah",
+    "member_name": "Maulana Noorullah",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Killa Saifullah"
+  },
+  {
+    "constituency_code": "PB-4",
+    "constituency_name": "Musakhel-cum-Barkhan",
+    "member_name": "Abdul Rehman Khetran",
+    "party": "NP",
+    "province": "Balochistan",
+    "district": "Musakhel-cum"
+  },
+  {
+    "constituency_code": "PB-5",
+    "constituency_name": "Loralai",
+    "member_name": "Muhammad Khan Toor Utmankhel",
+    "party": "HDTB",
+    "province": "Balochistan",
+    "district": "Loralai"
+  },
+  {
+    "constituency_code": "PB-6",
+    "constituency_name": "Duki",
+    "member_name": "Sardar Masood Ali Khan Luni",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Duki"
+  },
+  {
+    "constituency_code": "PB-7",
+    "constituency_name": "Ziarat cum Harnai",
+    "member_name": "Noor Muhammad Dummar",
+    "party": "JIP",
+    "province": "Balochistan",
+    "district": "Ziarat cum Harnai"
+  },
+  {
+    "constituency_code": "PB-8",
+    "constituency_name": "Sibi",
+    "member_name": "Mir Kohyar Khan Domki",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Sibi"
+  },
+  {
+    "constituency_code": "PB-9",
+    "constituency_name": "Kohlu",
+    "member_name": "Changez Khan Marri",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Kohlu"
+  },
+  {
+    "constituency_code": "PB-10",
+    "constituency_name": "Dera Bugti",
+    "member_name": "Sarfraz Bugti",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Dera Bugti"
+  },
+  {
+    "constituency_code": "PB-11",
+    "constituency_name": "Jhal Magsi",
+    "member_name": "Nawabzada Tariq Magsi",
+    "party": "BAP",
+    "province": "Balochistan",
+    "district": "Jhal Magsi"
+  },
+  {
+    "constituency_code": "PB-12",
+    "constituency_name": "Kachhi",
+    "member_name": "Mir Mohammad Asim Kurd Gello",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Kachhi"
+  },
+  {
+    "constituency_code": "PB-13",
+    "constituency_name": "Nasirabad-I",
+    "member_name": "Mir Muhammad Sadiq Umrani",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Nasirabad"
+  },
+  {
+    "constituency_code": "PB-14",
+    "constituency_name": "Nasirabad-II",
+    "member_name": "Muhammad Khan Lehri",
+    "party": "ANP",
+    "province": "Balochistan",
+    "district": "Nasirabad"
+  },
+  {
+    "constituency_code": "PB-15",
+    "constituency_name": "Sohbatpur",
+    "member_name": "Mir Saleem Ahmed Khoso",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Sohbatpur"
+  },
+  {
+    "constituency_code": "PB-16",
+    "constituency_name": "Jafarabad",
+    "member_name": "Abdul Majeed Badini",
+    "party": "JIP",
+    "province": "Balochistan",
+    "district": "Jafarabad"
+  },
+  {
+    "constituency_code": "PB-17",
+    "constituency_name": "Usta Muhammad",
+    "member_name": "Faisal Khan Jamali",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Usta Muhammad"
+  },
+  {
+    "constituency_code": "PB-18",
+    "constituency_name": "Khuzdar-I",
+    "member_name": "Sanaullah Khan Zehri",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Khuzdar"
+  },
+  {
+    "constituency_code": "PB-19",
+    "constituency_name": "Khuzdar-II",
+    "member_name": "Mir Younus Aziz Zehri",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Khuzdar"
+  },
+  {
+    "constituency_code": "PB-20",
+    "constituency_name": "Khuzdar-III",
+    "member_name": "Mir Jahanzaib Mengal",
+    "party": "BNP(M)",
+    "province": "Balochistan",
+    "district": "Khuzdar"
+  },
+  {
+    "constituency_code": "PB-21",
+    "constituency_name": "Hub",
+    "member_name": "Mohammad Saleh Bhootani",
+    "party": "BAP",
+    "province": "Balochistan",
+    "district": "Hub"
+  },
+  {
+    "constituency_code": "PB-22",
+    "constituency_name": "Lasbela",
+    "member_name": "Nawabzada Mir Muhammad Zarain Khan Magsi",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Lasbela"
+  },
+  {
+    "constituency_code": "PB-23",
+    "constituency_name": "Awaran",
+    "member_name": "Khair Jan Baloch",
+    "party": "NP",
+    "province": "Balochistan",
+    "district": "Awaran"
+  },
+  {
+    "constituency_code": "PB-24",
+    "constituency_name": "Gwadar",
+    "member_name": "Hidayat ur Rehman Baloch",
+    "party": "HDT",
+    "province": "Balochistan",
+    "district": "Gwadar"
+  },
+  {
+    "constituency_code": "PB-25",
+    "constituency_name": "Kech-I",
+    "member_name": "Zahoor Ahmed Buledi",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Kech"
+  },
+  {
+    "constituency_code": "PB-26",
+    "constituency_name": "Kech-II",
+    "member_name": "Abdul Malik Baloch",
+    "party": "NP",
+    "province": "Balochistan",
+    "district": "Kech"
+  },
+  {
+    "constituency_code": "PB-27",
+    "constituency_name": "Kech-III",
+    "member_name": "Barkat Ali Rind",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Kech"
+  },
+  {
+    "constituency_code": "PB-28",
+    "constituency_name": "Kech-IV",
+    "member_name": "Mir Asghar Rind",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Kech"
+  },
+  {
+    "constituency_code": "PB-29",
+    "constituency_name": "Panjgur-I",
+    "member_name": "Mir Asadullah Baloch",
+    "party": "BNP(A)",
+    "province": "Balochistan",
+    "district": "Panjgur"
+  },
+  {
+    "constituency_code": "PB-30",
+    "constituency_name": "Panjgur-II",
+    "member_name": "Rahmat Saleh Baloch",
+    "party": "NP",
+    "province": "Balochistan",
+    "district": "Panjgur"
+  },
+  {
+    "constituency_code": "PB-31",
+    "constituency_name": "Washuk",
+    "member_name": "Mir Zabid Ali Reki",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Washuk"
+  },
+  {
+    "constituency_code": "PB-32",
+    "constituency_name": "Chagai",
+    "member_name": "Sadiq Sanjrani",
+    "party": "BAP",
+    "province": "Balochistan",
+    "district": "Chagai"
+  },
+  {
+    "constituency_code": "PB-33",
+    "constituency_name": "Kharan",
+    "member_name": "Mir Shoaib Nosherwani",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Kharan"
+  },
+  {
+    "constituency_code": "PB-34",
+    "constituency_name": "Nushki",
+    "member_name": "Haji Ghulam Dastagir Badeni",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Nushki"
+  },
+  {
+    "constituency_code": "PB-35",
+    "constituency_name": "Surab",
+    "member_name": "Mir Zafarullah Khan Zehri",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Surab"
+  },
+  {
+    "constituency_code": "PB-36",
+    "constituency_name": "Kalat",
+    "member_name": "Mir Ziaullah Langau",
+    "party": "BAP",
+    "province": "Balochistan",
+    "district": "Kalat"
+  },
+  {
+    "constituency_code": "PB-37",
+    "constituency_name": "Mastung",
+    "member_name": "Aslam Raisani",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Mastung"
+  },
+  {
+    "constituency_code": "PB-38",
+    "constituency_name": "Quetta-I",
+    "member_name": "Malik Naeem Khan Bazai",
+    "party": "ANP",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-39",
+    "constituency_name": "Quetta-II",
+    "member_name": "Bakht Muhammad Kakar",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-40",
+    "constituency_name": "Quetta-III",
+    "member_name": "Samad Khan Gorgage",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-41",
+    "constituency_name": "Quetta-IV",
+    "member_name": "Wali Muhammad Noorzai",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-42",
+    "constituency_name": "Quetta-V",
+    "member_name": "Sheikh Zarak Khan Mandokhail",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-43",
+    "constituency_name": "Quetta-VI",
+    "member_name": "Mir Liaquat Ali Lehri",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-44",
+    "constituency_name": "Quetta-VII",
+    "member_name": "Mir Ubaidullah Gorgage",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-45",
+    "constituency_name": "Quetta-VIII",
+    "member_name": "Ali Madad Jattak",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-46",
+    "constituency_name": "Quetta-IX",
+    "member_name": "Prince Ahmed Umer Ahmedzai",
+    "party": "BAP",
+    "province": "Balochistan",
+    "district": "Quetta"
+  },
+  {
+    "constituency_code": "PB-47",
+    "constituency_name": "Pishin-I",
+    "member_name": "Asfand Yar Khan Kakar",
+    "party": "PPP",
+    "province": "Balochistan",
+    "district": "Pishin"
+  },
+  {
+    "constituency_code": "PB-48",
+    "constituency_name": "Pishin-II",
+    "member_name": "Asghar Ali Tareen",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Pishin"
+  },
+  {
+    "constituency_code": "PB-49",
+    "constituency_name": "Pishin-II",
+    "member_name": "Syed Zafar Ali Agha",
+    "party": "JUI(F)",
+    "province": "Balochistan",
+    "district": "Pishin"
+  },
+  {
+    "constituency_code": "PB-50",
+    "constituency_name": "Killa Abdullah",
+    "member_name": "Zmarak Khan Achakzai",
+    "party": "ANP",
+    "province": "Balochistan",
+    "district": "Killa Abdullah"
+  },
+  {
+    "constituency_code": "PB-51",
+    "constituency_name": "Chaman",
+    "member_name": "Abdul Khaliq Khan Achakzai",
+    "party": "PML(N)",
+    "province": "Balochistan",
+    "district": "Chaman"
+  }
+]

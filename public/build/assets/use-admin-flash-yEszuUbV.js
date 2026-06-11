@@ -1,0 +1,1 @@
+import{d as e,g as t,p as n}from"./wayfinder-BCeSq7h6.js";import{J as r}from"./app-DK4gFiF-.js";var i=t(n(),1);function a(){let t=e().props.flash;(0,i.useEffect)(()=>{t?.success&&r.success(t.success),t?.error&&r.error(t.error)},[t?.success,t?.error])}export{a as t};

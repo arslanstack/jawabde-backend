@@ -1,0 +1,9 @@
+=== UNMATCHED POLITICIANS NEEDING MANUAL DISTRICT ASSIGNMENT ===
+Generated: 2026-06-10T18:09:27.218Z
+Total: 0
+
+
+Instructions:
+For each entry, find the correct district name from chittar_data/districts.json
+and update chittar_data/politicians/mnas.json or the relevant mpa file manually.
+Then re-run scripts/task4_district_map.js to regenerate the master map.

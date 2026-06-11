@@ -1,0 +1,2378 @@
+[
+  {
+    "constituency_code": "PP-1",
+    "constituency_name": "Attock-I",
+    "member_name": "Qazi Ahmed Akbar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Attock"
+  },
+  {
+    "constituency_code": "PP-2",
+    "constituency_name": "Attock-II",
+    "member_name": "Sardar Mohammad Ali Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Attock"
+  },
+  {
+    "constituency_code": "PP-3",
+    "constituency_name": "Attock-III",
+    "member_name": "Ejaz Hussain Bukhari",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Attock"
+  },
+  {
+    "constituency_code": "PP-4",
+    "constituency_name": "Attock-IV",
+    "member_name": "Chaudhry Sher Ali Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Attock"
+  },
+  {
+    "constituency_code": "PP-5",
+    "constituency_name": "Attock-V",
+    "member_name": "Malik Aitbar Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Attock"
+  },
+  {
+    "constituency_code": "PP-6",
+    "constituency_name": "Murree",
+    "member_name": "Muhammad Bilal Yamin",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Murree"
+  },
+  {
+    "constituency_code": "PP-7",
+    "constituency_name": "Rawalpindi-I",
+    "member_name": "Raja Sagheer Ahmed",
+    "party": "Pakistan People’s Party",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-8",
+    "constituency_name": "Rawalpindi-II",
+    "member_name": "Chaudhary Javed Kausar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-9",
+    "constituency_name": "Rawalpindi-III",
+    "member_name": "Raja Shoukat Aziz Bhatti",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-10",
+    "constituency_name": "Rawalpindi-IV",
+    "member_name": "Naeem Ejaz",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-11",
+    "constituency_name": "Rawalpindi-V",
+    "member_name": "Imran Ilyas Chaudhry",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-12",
+    "constituency_name": "Rawalpindi-VI",
+    "member_name": "Mohsin Ayub Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-13",
+    "constituency_name": "Rawalpindi-VII",
+    "member_name": "Malik Fahad Masood",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-14",
+    "constituency_name": "Rawalpindi-VIII",
+    "member_name": "Malik Iftikhar Ahmed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-15",
+    "constituency_name": "Rawalpindi-IX",
+    "member_name": "Malik Mansoor Afsar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-16",
+    "constituency_name": "Rawalpindi-X",
+    "member_name": "Zia Ullah Shah",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-17",
+    "constituency_name": "Rawalpindi-XI",
+    "member_name": "Raja Abdul Hanif",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-18",
+    "constituency_name": "Rawalpindi-XII",
+    "member_name": "Asad Abbas",
+    "party": "Majlis Wahdat-e-Muslimeen",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-19",
+    "constituency_name": "Rawalpindi-XIII",
+    "member_name": "Muhammad Tanveer Aslam",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rawalpindi"
+  },
+  {
+    "constituency_code": "PP-20",
+    "constituency_name": "Chakwal-I",
+    "member_name": "Sultan Haider Ali Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Chakwal"
+  },
+  {
+    "constituency_code": "PP-21",
+    "constituency_name": "Chakwal-II",
+    "member_name": "Tanveer Aslam Malik",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Chakwal"
+  },
+  {
+    "constituency_code": "PP-22",
+    "constituency_name": "Chakwal-cum-Talagang",
+    "member_name": "Malik Falak Sher Awan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Chakwal-cum"
+  },
+  {
+    "constituency_code": "PP-23",
+    "constituency_name": "Talagang",
+    "member_name": "Shehryar Malik",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Talagang"
+  },
+  {
+    "constituency_code": "PP-24",
+    "constituency_name": "Jhelum-I",
+    "member_name": "Syed Riffat Mehmood",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhelum"
+  },
+  {
+    "constituency_code": "PP-25",
+    "constituency_name": "Jhelum-II",
+    "member_name": "Yasir Mehmood Qureshi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhelum"
+  },
+  {
+    "constituency_code": "PP-26",
+    "constituency_name": "Jhelum-III",
+    "member_name": "Mushtaq Ahmed",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhelum"
+  },
+  {
+    "constituency_code": "PP-27",
+    "constituency_name": "Gujrat-I",
+    "member_name": "Raja Muhammad Aslam Khan",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-28",
+    "constituency_name": "Gujrat-II",
+    "member_name": "Shahid Raza",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-29",
+    "constituency_name": "Gujrat-III",
+    "member_name": "Khalid Javed Asghar Ghural",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-30",
+    "constituency_name": "Gujrat-IV",
+    "member_name": "Muhammad Abdullah Warraich",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-31",
+    "constituency_name": "Gujrat-V",
+    "member_name": "Shafay Hussain",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-32",
+    "constituency_name": "Gujrat-VI",
+    "member_name": "Chaudhry Musa Elahi",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-33",
+    "constituency_name": "Gujrat-VII",
+    "member_name": "Syed Madad Ali Shah",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-34",
+    "constituency_name": "Gujrat-VIII",
+    "member_name": "Chaudhry ljaz Ahmad",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Gujrat"
+  },
+  {
+    "constituency_code": "PP-35",
+    "constituency_name": "Wazirabad-I",
+    "member_name": "Waqar Ahmad Cheema",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Wazirabad"
+  },
+  {
+    "constituency_code": "PP-36",
+    "constituency_name": "Wazirabad-II",
+    "member_name": "Adnan Afzal Chattha",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Wazirabad"
+  },
+  {
+    "constituency_code": "PP-37",
+    "constituency_name": "Hafizabad-I",
+    "member_name": "Shahid Hussain Bhatti",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Hafizabad"
+  },
+  {
+    "constituency_code": "PP-38",
+    "constituency_name": "Hafizabad-II",
+    "member_name": "Zameer Ul Hassan Bhatti",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Hafizabad"
+  },
+  {
+    "constituency_code": "PP-39",
+    "constituency_name": "Hafizabad-III",
+    "member_name": "Muhammad Aoun Jahangir",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Hafizabad"
+  },
+  {
+    "constituency_code": "PP-40",
+    "constituency_name": "Mandi Bahauddin-I",
+    "member_name": "Zarnab Sher",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Mandi Bahauddin"
+  },
+  {
+    "constituency_code": "PP-41",
+    "constituency_name": "Mandi Bahauddin-II",
+    "member_name": "Basma Riaz Choudhry",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Mandi Bahauddin"
+  },
+  {
+    "constituency_code": "PP-42",
+    "constituency_name": "Mandi Bahauddin-III",
+    "member_name": "Khalid Mahmood Ranjha",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Mandi Bahauddin"
+  },
+  {
+    "constituency_code": "PP-43",
+    "constituency_name": "Mandi Bahauddin-IV",
+    "member_name": "Chaudhry Akhtar Abbas Bosal",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Mandi Bahauddin"
+  },
+  {
+    "constituency_code": "PP-44",
+    "constituency_name": "Sialkot-I",
+    "member_name": "Rana Muhammad Arif Iqbal Harnah",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-45",
+    "constituency_name": "Sialkot-II",
+    "member_name": "Tariq Subhani",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-46",
+    "constituency_name": "Sialkot-III",
+    "member_name": "Faisal Akram",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-47",
+    "constituency_name": "Sialkot-IV",
+    "member_name": "Muhammad Mansha Ullah Butt",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-48",
+    "constituency_name": "Sialkot-V",
+    "member_name": "Khurram Khan Virk",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-49",
+    "constituency_name": "Sialkot-VI",
+    "member_name": "Muhammad Fiaz",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-50",
+    "constituency_name": "Sialkot-VII",
+    "member_name": "Chaudhry Naveed Ashraf",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-51",
+    "constituency_name": "Sialkot-VIII",
+    "member_name": "Zeeshan Rafiq",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-52",
+    "constituency_name": "Sialkot-IX",
+    "member_name": "Hina Arshad Warraich",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-53",
+    "constituency_name": "Sialkot-X",
+    "member_name": "Rana Abdul Sattar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sialkot"
+  },
+  {
+    "constituency_code": "PP-54",
+    "constituency_name": "Narowal-I",
+    "member_name": "Ahmad Iqbal Chaudhary",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Narowal"
+  },
+  {
+    "constituency_code": "PP-55",
+    "constituency_name": "Narowal-II",
+    "member_name": "Chaudhry Mehmood Ahmad Sungran",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Narowal"
+  },
+  {
+    "constituency_code": "PP-56",
+    "constituency_name": "Narowal-III",
+    "member_name": "Rana Mannan Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Narowal"
+  },
+  {
+    "constituency_code": "PP-57",
+    "constituency_name": "Narowal-IV",
+    "member_name": "Khawaja Muhammad Waseem",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Narowal"
+  },
+  {
+    "constituency_code": "PP-58",
+    "constituency_name": "Narowal-V",
+    "member_name": "Bilal Akbar Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Narowal"
+  },
+  {
+    "constituency_code": "PP-59",
+    "constituency_name": "Gujranwala-I",
+    "member_name": "Muhammad Nasir Cheema",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-60",
+    "constituency_name": "Gujranwala-II",
+    "member_name": "Kaleem Ullah Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-61",
+    "constituency_name": "Gujranwala-III",
+    "member_name": "Imran Khalid Butt",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-62",
+    "constituency_name": "Gujranwala-IV",
+    "member_name": "Muhammad Nawaz Chohan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-63",
+    "constituency_name": "Gujranwala-V",
+    "member_name": "Chaudhry Muhammad Tariq",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-64",
+    "constituency_name": "Gujranwala-VI",
+    "member_name": "Umar Farooq Dar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-65",
+    "constituency_name": "Gujranwala-VII",
+    "member_name": "Hassan Ali",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-66",
+    "constituency_name": "Gujranwala-VIII",
+    "member_name": "Qaiser Iqbal Sindhu",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-67",
+    "constituency_name": "Gujranwala-IX",
+    "member_name": "Chaudhry Akhtar Ali Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-68",
+    "constituency_name": "Gujranwala-X",
+    "member_name": "Mian Arqam Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-69",
+    "constituency_name": "Gujranwala-XI",
+    "member_name": "Irfan Bashir",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-70",
+    "constituency_name": "Gujranwala-XII",
+    "member_name": "Tashakul Abbas Warraich",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Gujranwala"
+  },
+  {
+    "constituency_code": "PP-71",
+    "constituency_name": "Sargodha-I",
+    "member_name": "Sohaib Ahmad Malik",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-72",
+    "constituency_name": "Sargodha-II",
+    "member_name": "Mansoor Azam",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-73",
+    "constituency_name": "Sargodha-III",
+    "member_name": "Mian Sultan Ali Ranjha",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-74",
+    "constituency_name": "Sargodha-IV",
+    "member_name": "Ikram Ul Haq",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-75",
+    "constituency_name": "Sargodha-V",
+    "member_name": "Ali Asif",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-76",
+    "constituency_name": "Sargodha-VI",
+    "member_name": "Zulfiqar Ali Bhatti",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-77",
+    "constituency_name": "Sargodha-VII",
+    "member_name": "Safdar Hussain Sahi",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-78",
+    "constituency_name": "Sargodha-VIII",
+    "member_name": "Rana Munawar Hussain",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-79",
+    "constituency_name": "Sargodha-IX",
+    "member_name": "Taimur Ali Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-80",
+    "constituency_name": "Sargodha-X",
+    "member_name": "Sardar Muhammad Asim Sher Maken",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sargodha"
+  },
+  {
+    "constituency_code": "PP-81",
+    "constituency_name": "Khushab-I",
+    "member_name": "Hassan Malik",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Khushab"
+  },
+  {
+    "constituency_code": "PP-82",
+    "constituency_name": "Khushab-II",
+    "member_name": "Muhammad Asif Malik",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khushab"
+  },
+  {
+    "constituency_code": "PP-83",
+    "constituency_name": "Khushab-III",
+    "member_name": "Ali Hussain Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khushab"
+  },
+  {
+    "constituency_code": "PP-84",
+    "constituency_name": "Khushab-IV",
+    "member_name": "Fateh Khaliq",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Khushab"
+  },
+  {
+    "constituency_code": "PP-85",
+    "constituency_name": "Mianwali-I",
+    "member_name": "Muhammad Iqbal",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Mianwali"
+  },
+  {
+    "constituency_code": "PP-86",
+    "constituency_name": "Mianwali-II",
+    "member_name": "Amin Ullah Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Mianwali"
+  },
+  {
+    "constituency_code": "PP-87",
+    "constituency_name": "Mianwali-III",
+    "member_name": "Ali Haider Noor Khan Niazi",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Mianwali"
+  },
+  {
+    "constituency_code": "PP-88",
+    "constituency_name": "Mianwali-IV",
+    "member_name": "Mumtaz Ahmad",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Mianwali"
+  },
+  {
+    "constituency_code": "PP-89",
+    "constituency_name": "Bhakkar-I",
+    "member_name": "Ameer Muhammad Khan",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Bhakkar"
+  },
+  {
+    "constituency_code": "PP-90",
+    "constituency_name": "Bhakkar-II",
+    "member_name": "Ahmad Nawaz Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bhakkar"
+  },
+  {
+    "constituency_code": "PP-91",
+    "constituency_name": "Bhakkar-III",
+    "member_name": "Ghazanfar Abbas Cheena",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Bhakkar"
+  },
+  {
+    "constituency_code": "PP-92",
+    "constituency_name": "Bhakkar-IV",
+    "member_name": "Amir Inayat Khan Shahani",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Bhakkar"
+  },
+  {
+    "constituency_code": "PP-93",
+    "constituency_name": "Bhakkar-V",
+    "member_name": "Saeed Akbar Khan Nawani",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Bhakkar"
+  },
+  {
+    "constituency_code": "PP-94",
+    "constituency_name": "Chiniot-I",
+    "member_name": "Taimoor Ali Lali",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Chiniot"
+  },
+  {
+    "constituency_code": "PP-95",
+    "constituency_name": "Chiniot-II",
+    "member_name": "Ilyas Chinioti",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Chiniot"
+  },
+  {
+    "constituency_code": "PP-96",
+    "constituency_name": "Chiniot-III",
+    "member_name": "Zulfiqar Ali Shah",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Chiniot"
+  },
+  {
+    "constituency_code": "PP-97",
+    "constituency_name": "Chiniot-IV",
+    "member_name": "Saqib Khan Chadhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Chiniot"
+  },
+  {
+    "constituency_code": "PP-98",
+    "constituency_name": "Faisalabad-I",
+    "member_name": "Azad Ali Tabassum",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-99",
+    "constituency_name": "Faisalabad-II",
+    "member_name": "Ahmad Mujtaba Chaudhry",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-100",
+    "constituency_name": "Faisalabad-III",
+    "member_name": "Sardar Khan Bahadur Dogar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-101",
+    "constituency_name": "Faisalabad-IV",
+    "member_name": "Muhammad Akram Chaudhary",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-102",
+    "constituency_name": "Faisalabad-V",
+    "member_name": "Jafar Ali Hocha",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-103",
+    "constituency_name": "Faisalabad-VI",
+    "member_name": "Noor Shahid Noor",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-104",
+    "constituency_name": "Faisalabad-VII",
+    "member_name": "Arif Mahmood Gill",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-105",
+    "constituency_name": "Faisalabad-VIII",
+    "member_name": "Rao Kashif Raheem Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-106",
+    "constituency_name": "Faisalabad-IX",
+    "member_name": "Ahsan Raza",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-107",
+    "constituency_name": "Faisalabad-X",
+    "member_name": "Javed Niaz Manj",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-108",
+    "constituency_name": "Faisalabad-XI",
+    "member_name": "Rana Aftab Ahmad Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-109",
+    "constituency_name": "Faisalabad-XII",
+    "member_name": "Chaudhry Zafar Iqbal Nagra",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-110",
+    "constituency_name": "Faisalabad-XIII",
+    "member_name": "Hassan Zaka",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-111",
+    "constituency_name": "Faisalabad-XIV",
+    "member_name": "Basharat Ali",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-112",
+    "constituency_name": "Faisalabad-XV",
+    "member_name": "Asad Mehmood",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-113",
+    "constituency_name": "Faisalabad-XVI",
+    "member_name": "Nadeem Sadiq Dogar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-114",
+    "constituency_name": "Faisalabad-XVII",
+    "member_name": "Chaudhry Latif Nazar Gujjar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-115",
+    "constituency_name": "Faisalabad-XVIII",
+    "member_name": "Mian Tahir Pervaz",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-116",
+    "constituency_name": "Faisalabad-XIX",
+    "member_name": "Rana Ahmad Sheheryar Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-117",
+    "constituency_name": "Faisalabad-XX",
+    "member_name": "Abdul Razzaq Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-118",
+    "constituency_name": "Faisalabad-XXI",
+    "member_name": "Khayal Ahmad Kastro",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Faisalabad"
+  },
+  {
+    "constituency_code": "PP-119",
+    "constituency_name": "Toba Tek Singh-I",
+    "member_name": "Asad Zaman",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Toba Tek Singh"
+  },
+  {
+    "constituency_code": "PP-120",
+    "constituency_name": "Toba Tek Singh-II",
+    "member_name": "Muhammad Ahsan Ihsan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Toba Tek Singh"
+  },
+  {
+    "constituency_code": "PP-121",
+    "constituency_name": "Toba Tek Singh-III",
+    "member_name": "Chaudhry Amjad Ali Javed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Toba Tek Singh"
+  },
+  {
+    "constituency_code": "PP-122",
+    "constituency_name": "Toba Tek Singh-IV",
+    "member_name": "Sardar Muhammad Ayub Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Toba Tek Singh"
+  },
+  {
+    "constituency_code": "PP-123",
+    "constituency_name": "Toba Tek Singh-V",
+    "member_name": "Ashifa Riaz Fatyana",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Toba Tek Singh"
+  },
+  {
+    "constituency_code": "PP-124",
+    "constituency_name": "Toba Tek Singh-VI",
+    "member_name": "Syeda Sonia Ali Raza Shah",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Toba Tek Singh"
+  },
+  {
+    "constituency_code": "PP-125",
+    "constituency_name": "Jhang-I",
+    "member_name": "Ghulam Ahmed Khan Gadi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-126",
+    "constituency_name": "Jhang-II",
+    "member_name": "Mehar Muhammad Nawaz",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-127",
+    "constituency_name": "Jhang-III",
+    "member_name": "Sheikh Muhammad Akram",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-128",
+    "constituency_name": "Jhang-IV",
+    "member_name": "Ghazanfar Abbas Shah",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-129",
+    "constituency_name": "Jhang-V",
+    "member_name": "Mian Muhammad Asif Kathia",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-130",
+    "constituency_name": "Jhang-VI",
+    "member_name": "Rana Shahbaz Ahmad",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-131",
+    "constituency_name": "Jhang-VII",
+    "member_name": "Mian Muhammad Azam",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Jhang"
+  },
+  {
+    "constituency_code": "PP-132",
+    "constituency_name": "Nankana Sahib-I",
+    "member_name": "Sultan Bajwa",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Nankana Sahib"
+  },
+  {
+    "constituency_code": "PP-133",
+    "constituency_name": "Nankana Sahib-II",
+    "member_name": "Rana Muhammad Arshad",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Nankana Sahib"
+  },
+  {
+    "constituency_code": "PP-134",
+    "constituency_name": "Nankana Sahib-III",
+    "member_name": "Mahr Muhammad Kashif",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Nankana Sahib"
+  },
+  {
+    "constituency_code": "PP-135",
+    "constituency_name": "Nankana Sahib-IV",
+    "member_name": "Agha Ali Haidar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Nankana Sahib"
+  },
+  {
+    "constituency_code": "PP-136",
+    "constituency_name": "Sheikhupura-I",
+    "member_name": "Hassaan Riaz",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-137",
+    "constituency_name": "Sheikhupura-II",
+    "member_name": "Khurram Ijaz Chattha",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-138",
+    "constituency_name": "Sheikhupura-III",
+    "member_name": "Pir Muhammad Ashraf Rasool",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-139",
+    "constituency_name": "Sheikhupura-IV",
+    "member_name": "Rana Tahir Iqbal",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-140",
+    "constituency_name": "Sheikhupura-V",
+    "member_name": "Muhammad Awais",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-141",
+    "constituency_name": "Sheikhupura-VI",
+    "member_name": "Tayyab Rashid",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-142",
+    "constituency_name": "Sheikhupura-VII",
+    "member_name": "Waqas Mahmood Maan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-143",
+    "constituency_name": "Sheikhupura-VIII",
+    "member_name": "Khan Sher Akbar Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-144",
+    "constituency_name": "Sheikhupura-IX",
+    "member_name": "Muhammad Sarfraz Dogar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sheikhupura"
+  },
+  {
+    "constituency_code": "PP-145",
+    "constituency_name": "Lahore-I",
+    "member_name": "Sami Ullah Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-146",
+    "constituency_name": "Lahore-II",
+    "member_name": "Ghazali Saleem Butt",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-147",
+    "constituency_name": "Lahore-III",
+    "member_name": "Muhammad Riaz Malik",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-148",
+    "constituency_name": "Lahore-IV",
+    "member_name": "Mian Mujtaba Shuja-ur-Rehman",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-149",
+    "constituency_name": "Lahore-V",
+    "member_name": "Muhammad Shoaib Siddiqui",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-150",
+    "constituency_name": "Lahore-VI",
+    "member_name": "Khawaja Imran Nazir",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-151",
+    "constituency_name": "Lahore-VII",
+    "member_name": "Sohail Shaukat Butt",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-152",
+    "constituency_name": "Lahore-VIII",
+    "member_name": "Malik Muhammad Waheed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-153",
+    "constituency_name": "Lahore-IX",
+    "member_name": "Khawaja Salman Rafique",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-154",
+    "constituency_name": "Lahore-X",
+    "member_name": "Malik Ghulam Habib Awan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-155",
+    "constituency_name": "Lahore-XI",
+    "member_name": "Imtiaz Mehmood",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-156",
+    "constituency_name": "Lahore-XII",
+    "member_name": "Ali Imtiaz",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-157",
+    "constituency_name": "Lahore-XIII",
+    "member_name": "Hafiz Farhat Abbas",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-158",
+    "constituency_name": "Lahore-XIV",
+    "member_name": "Chaudhary Muhammad Nawaz Ladhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-159",
+    "constituency_name": "Lahore-XV",
+    "member_name": "Maryam Nawaz",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-160",
+    "constituency_name": "Lahore-XVI",
+    "member_name": "Malik Asad Ali Khokhar",
+    "party": "Pakistan Muslim League (Z)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-161",
+    "constituency_name": "Lahore-XVII",
+    "member_name": "Farrukh Javaid",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-162",
+    "constituency_name": "Lahore-XVIII",
+    "member_name": "Shahbaz Ali Khokhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-163",
+    "constituency_name": "Lahore-XIX",
+    "member_name": "Imran Javed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-164",
+    "constituency_name": "Lahore-XX",
+    "member_name": "Rana Rashid Minhas",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-165",
+    "constituency_name": "Lahore-XXI",
+    "member_name": "Ahmer Rasheed Bhatti",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-166",
+    "constituency_name": "Lahore-XXII",
+    "member_name": "Muhammad Anas Mehmood",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-167",
+    "constituency_name": "Lahore-XXIII",
+    "member_name": "Irfan Shafi Khokhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-168",
+    "constituency_name": "Lahore-XXIV",
+    "member_name": "Faisal Ayub Khokhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-169",
+    "constituency_name": "Lahore-XXV",
+    "member_name": "Malik Khalid Pervaz Khokhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-170",
+    "constituency_name": "Lahore-XXVI",
+    "member_name": "Mian Muhammad Haroon Akbar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-171",
+    "constituency_name": "Lahore-XXVII",
+    "member_name": "Mian Aslam Iqbal",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-172",
+    "constituency_name": "Lahore-XXVIII",
+    "member_name": "Misbah Wajid",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-173",
+    "constituency_name": "Lahore-XXIX",
+    "member_name": "Mian Marghoob Ahmad",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-174",
+    "constituency_name": "Lahore-XXX",
+    "member_name": "Bilal Yasin",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lahore"
+  },
+  {
+    "constituency_code": "PP-175",
+    "constituency_name": "Kasur-I",
+    "member_name": "Rashid Tufail",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-176",
+    "constituency_name": "Kasur-II",
+    "member_name": "Muhammad Ilyas Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-177",
+    "constituency_name": "Kasur-III",
+    "member_name": "Muhammad Naeem Safdar Ansari",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-178",
+    "constituency_name": "Kasur-IV",
+    "member_name": "Malik Ahmad Saeed Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-179",
+    "constituency_name": "Kasur-V",
+    "member_name": "Malik Ahmad Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-180",
+    "constituency_name": "Kasur-VI",
+    "member_name": "Ahsan Raza Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-181",
+    "constituency_name": "Kasur-VII",
+    "member_name": "Mian Humble Sana Kareemi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-182",
+    "constituency_name": "Kasur-VIII",
+    "member_name": "Mehmood Anwar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-183",
+    "constituency_name": "Kasur-IX",
+    "member_name": "Rana Sikandar Hayat",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-184",
+    "constituency_name": "Kasur-X",
+    "member_name": "Rana Muhammad Iqbal Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Kasur"
+  },
+  {
+    "constituency_code": "PP-185",
+    "constituency_name": "Okara-I",
+    "member_name": "Javaid Alla-ud-Din Sajid",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-186",
+    "constituency_name": "Okara-II",
+    "member_name": "Ashiq Husain Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-187",
+    "constituency_name": "Okara-III",
+    "member_name": "Chaudry Iftikhar Hussain Chachar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-188",
+    "constituency_name": "Okara-IV",
+    "member_name": "Noor Ul Amin Wattoo",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-189",
+    "constituency_name": "Okara-V",
+    "member_name": "Malik Ali Abbas Khokhar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-190",
+    "constituency_name": "Okara-VI",
+    "member_name": "Mian Yawar Zaman",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-191",
+    "constituency_name": "Okara-VII",
+    "member_name": "Mian Muhammad Munir",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-192",
+    "constituency_name": "Okara-VIII",
+    "member_name": "Ghulam Raza",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Okara"
+  },
+  {
+    "constituency_code": "PP-193",
+    "constituency_name": "Pakpattan-I",
+    "member_name": "Farooq Ahmad Khan Maneka",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Pakpattan"
+  },
+  {
+    "constituency_code": "PP-194",
+    "constituency_name": "Pakpattan-II",
+    "member_name": "Chaudhry Javed Ahmad",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Pakpattan"
+  },
+  {
+    "constituency_code": "PP-195",
+    "constituency_name": "Pakpattan-III",
+    "member_name": "Imran Akram",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Pakpattan"
+  },
+  {
+    "constituency_code": "PP-196",
+    "constituency_name": "Pakpattan-IV",
+    "member_name": "Farrukh Javed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Pakpattan"
+  },
+  {
+    "constituency_code": "PP-197",
+    "constituency_name": "Pakpattan-V",
+    "member_name": "Sardar Mansab Ali Dogar",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Pakpattan"
+  },
+  {
+    "constituency_code": "PP-198",
+    "constituency_name": "Sahiwal-I",
+    "member_name": "Walayat Shah Khagga",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-199",
+    "constituency_name": "Sahiwal-II",
+    "member_name": "Qasim Nadeem",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-200",
+    "constituency_name": "Sahiwal-III",
+    "member_name": "Muhammad Arshad Malik",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-201",
+    "constituency_name": "Sahiwal-IV",
+    "member_name": "Naveed Aslam Khan Lodhi",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-202",
+    "constituency_name": "Sahiwal-V",
+    "member_name": "Rana Riaz Ahmad",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-203",
+    "constituency_name": "Sahiwal-VI",
+    "member_name": "Chaudhry Muhammad Hanif",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-204",
+    "constituency_name": "Sahiwal-VII",
+    "member_name": "Muhammad Ghulam Sarwar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Sahiwal"
+  },
+  {
+    "constituency_code": "PP-205",
+    "constituency_name": "Khanewal-I",
+    "member_name": "Muhammad Akbar Hayat Hiraj",
+    "party": "Pakistan People’s Party",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-206",
+    "constituency_name": "Khanewal-II",
+    "member_name": "Chaudhary Usama Fazal",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-207",
+    "constituency_name": "Khanewal-III",
+    "member_name": "Amir Hayat Hiraj",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-208",
+    "constituency_name": "Khanewal-IV",
+    "member_name": "Rana Babar Hussain Abid",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-209",
+    "constituency_name": "Khanewal-V",
+    "member_name": "Chaudhry Zia Ur Rehman",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-210",
+    "constituency_name": "Khanewal-VI",
+    "member_name": "Khalid Javed",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-211",
+    "constituency_name": "Khanewal-VII",
+    "member_name": "Rana Muhammad Saleem",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-212",
+    "constituency_name": "Khanewal-VIII",
+    "member_name": "Asghar Hayat",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Khanewal"
+  },
+  {
+    "constituency_code": "PP-213",
+    "constituency_name": "Multan-I",
+    "member_name": "Ali Haider Gillani",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-214",
+    "constituency_name": "Multan-II",
+    "member_name": "Nawabzada Waseem Khan Badozai",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-215",
+    "constituency_name": "Multan-III",
+    "member_name": "Muhammad Moeen Ud Din Riaz",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-216",
+    "constituency_name": "Multan-IV",
+    "member_name": "Muhammad Adnan Dogar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-217",
+    "constituency_name": "Multan-V",
+    "member_name": "Muhammad Nadeem Qureshi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-218",
+    "constituency_name": "Multan-VI",
+    "member_name": "Muhammad Salman Naeem",
+    "party": "Pakistan Muslim League (Z)",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-219",
+    "constituency_name": "Multan-VII",
+    "member_name": "Malik Wasif Mazhar Raan",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-220",
+    "constituency_name": "Multan-VIII",
+    "member_name": "Muhammad Iqbal",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-221",
+    "constituency_name": "Multan-IX",
+    "member_name": "Mian Kamran Muhammad Abdullah",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-222",
+    "constituency_name": "Multan-X",
+    "member_name": "Ayaz Ahmed",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-223",
+    "constituency_name": "Multan-XI",
+    "member_name": "Muhammad Nazik Kareem",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-224",
+    "constituency_name": "Multan-XII",
+    "member_name": "Malik Lal Muhammad",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Multan"
+  },
+  {
+    "constituency_code": "PP-225",
+    "constituency_name": "Lodhran-I",
+    "member_name": "Shazia Hayyat",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lodhran"
+  },
+  {
+    "constituency_code": "PP-226",
+    "constituency_name": "Lodhran-II",
+    "member_name": "Razi Ullah Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lodhran"
+  },
+  {
+    "constituency_code": "PP-227",
+    "constituency_name": "Lodhran-III",
+    "member_name": "Muhammad Zubair Khan Baloch",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Lodhran"
+  },
+  {
+    "constituency_code": "PP-228",
+    "constituency_name": "Lodhran-IV",
+    "member_name": "Izzat Javaid Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Lodhran"
+  },
+  {
+    "constituency_code": "PP-229",
+    "constituency_name": "Vehari-I",
+    "member_name": "Chaudhry Muhammad Yousaf Kaselya",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-230",
+    "constituency_name": "Vehari-II",
+    "member_name": "Salman Shahid",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-231",
+    "constituency_name": "Vehari-III",
+    "member_name": "Khalid Zubair Nisar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-232",
+    "constituency_name": "Vehari-IV",
+    "member_name": "Malik Nosher Khan Anjam Lungerial",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-233",
+    "constituency_name": "Vehari-V",
+    "member_name": "Mian Muhammad Saqib Khurshid",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-234",
+    "constituency_name": "Vehari-VI",
+    "member_name": "Muhammad Naeem Akhtar Khan Bhabha",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-235",
+    "constituency_name": "Vehari-VII",
+    "member_name": "Muhammad Jahanzaib Khan Khichi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-236",
+    "constituency_name": "Vehari-VIII",
+    "member_name": "Muhammad Ali Raza Khan Khakwani",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Vehari"
+  },
+  {
+    "constituency_code": "PP-237",
+    "constituency_name": "Bahawalnagar-I",
+    "member_name": "Mian Fida Hussain Wattoo",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-238",
+    "constituency_name": "Bahawalnagar-II",
+    "member_name": "Inam Bari",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-239",
+    "constituency_name": "Bahawalnagar-III",
+    "member_name": "Muhammad Atif Aurangzeb",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-240",
+    "constituency_name": "Bahawalnagar-IV",
+    "member_name": "Muhammad Sohail Khan Zahid",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-241",
+    "constituency_name": "Bahawalnagar-V",
+    "member_name": "Chaudhry Ghulam Murtaza",
+    "party": "Pakistan Muslim League (Z)",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-242",
+    "constituency_name": "Bahawalnagar-VI",
+    "member_name": "Kashif Naveed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-243",
+    "constituency_name": "Bahawalnagar-VII",
+    "member_name": "Chaudhry Zahid Akram",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-244",
+    "constituency_name": "Bahawalnagar-VIII",
+    "member_name": "Suryia Sultana",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Bahawalnagar"
+  },
+  {
+    "constituency_code": "PP-245",
+    "constituency_name": "Bahawalpur-I",
+    "member_name": "Kazim Ali Pirzada",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-246",
+    "constituency_name": "Bahawalpur-II",
+    "member_name": "Farzana Khalil",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-247",
+    "constituency_name": "Bahawalpur-III",
+    "member_name": "Chaudhry Khalid Mehmood Jajja",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-248",
+    "constituency_name": "Bahawalpur-IV",
+    "member_name": "Hassan Askari Sheikh",
+    "party": "Pakistan Muslim League (Q)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-249",
+    "constituency_name": "Bahawalpur-V",
+    "member_name": "Sahibzada Gazain Abbasi",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-250",
+    "constituency_name": "Bahawalpur-VI",
+    "member_name": "Syed Amir Ali Shah",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-251",
+    "constituency_name": "Bahawalpur-VII",
+    "member_name": "Malik Khalid Mehmood Babar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-252",
+    "constituency_name": "Bahawalpur-VIII",
+    "member_name": "Mian Muhammad Shoaib Awaisi",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-253",
+    "constituency_name": "Bahawalpur-IX",
+    "member_name": "Zaheer Iqbal Channar",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-254",
+    "constituency_name": "Bahawalpur-X",
+    "member_name": "Rana Muhammad Tariq Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Bahawalpur"
+  },
+  {
+    "constituency_code": "PP-255",
+    "constituency_name": "Rahim Yar Khan-I",
+    "member_name": "Ghazanfar Ali Khan",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-256",
+    "constituency_name": "Rahim Yar Khan-II",
+    "member_name": "Qazi Ahmad Saeed",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-257",
+    "constituency_name": "Rahim Yar Khan-III",
+    "member_name": "Chaudhry Mahmood Ahmed",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-258",
+    "constituency_name": "Rahim Yar Khan-IV",
+    "member_name": "Muhammad Ejaz Shafi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-259",
+    "constituency_name": "Rahim Yar Khan-V",
+    "member_name": "Faisal Jamil",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-260",
+    "constituency_name": "Rahim Yar Khan-VI",
+    "member_name": "Saima Kanwal",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-261",
+    "constituency_name": "Rahim Yar Khan-VII",
+    "member_name": "Jam Aman Ullah",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-262",
+    "constituency_name": "Rahim Yar Khan-VIII",
+    "member_name": "Chaudhry Asif Majeed",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-263",
+    "constituency_name": "Rahim Yar Khan-IX",
+    "member_name": "Chaudhary Naeem Shafiq",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-264",
+    "constituency_name": "Rahim Yar Khan-X",
+    "member_name": "Sardar Habib Ur Rehman Khan",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-265",
+    "constituency_name": "Rahim Yar Khan-XI",
+    "member_name": "Sajjad Ahmad",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-266",
+    "constituency_name": "Rahim Yar Khan-XII",
+    "member_name": "Mumtaz Ali Khan Chang",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-267",
+    "constituency_name": "Rahim Yar Khan-XIII",
+    "member_name": "Rais Nabeel Ahmad",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Rahim Yar Khan"
+  },
+  {
+    "constituency_code": "PP-268",
+    "constituency_name": "Muzaffargarh-I",
+    "member_name": "Muhammad Ajmal Khan Chandia",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-269",
+    "constituency_name": "Muzaffargarh-II",
+    "member_name": "Mian Alamdar Abbas Qureshi",
+    "party": "Pakistan People's Party",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-270",
+    "constituency_name": "Muzaffargarh-III",
+    "member_name": "Zahid Ismail Bhutta",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-271",
+    "constituency_name": "Muzaffargarh-IV",
+    "member_name": "Muhammad Aoon Hamid",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-272",
+    "constituency_name": "Muzaffargarh-V",
+    "member_name": "Rana Abdul Manan Sajid",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-273",
+    "constituency_name": "Muzaffargarh-VI",
+    "member_name": "Daud Khan Jatoi",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-274",
+    "constituency_name": "Muzaffargarh-VII",
+    "member_name": "Syed Muhammad Sibtain Raza",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-275",
+    "constituency_name": "Muzaffargarh-VIII",
+    "member_name": "Nawab Khan Gopang",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Muzaffargarh"
+  },
+  {
+    "constituency_code": "PP-276",
+    "constituency_name": "Kot Addu-I",
+    "member_name": "Rana Aurangzaib",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Kot Addu"
+  },
+  {
+    "constituency_code": "PP-277",
+    "constituency_name": "Kot Addu-II",
+    "member_name": "Nadia Khar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Kot Addu"
+  },
+  {
+    "constituency_code": "PP-278",
+    "constituency_name": "Kot Addu-III",
+    "member_name": "Muhammad Ahsan Ali",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Kot Addu"
+  },
+  {
+    "constituency_code": "PP-279",
+    "constituency_name": "Layyah-I",
+    "member_name": "Muhammad Athar Maqbool",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Layyah"
+  },
+  {
+    "constituency_code": "PP-280",
+    "constituency_name": "Layyah-II",
+    "member_name": "Sardar Shahab-ud-Din Khan",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Layyah"
+  },
+  {
+    "constituency_code": "PP-281",
+    "constituency_name": "Layyah-III",
+    "member_name": "Shoaib Ameer",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Layyah"
+  },
+  {
+    "constituency_code": "PP-282",
+    "constituency_name": "Layyah-IV",
+    "member_name": "Usama Asghar Ali Gujjar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Layyah"
+  },
+  {
+    "constituency_code": "PP-283",
+    "constituency_name": "Layyah-V",
+    "member_name": "Ghulam Asghar Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Layyah"
+  },
+  {
+    "constituency_code": "PP-284",
+    "constituency_name": "Tonsa-I",
+    "member_name": "Muhammad Tahir",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Tonsa"
+  },
+  {
+    "constituency_code": "PP-285",
+    "constituency_name": "Tonsa-II",
+    "member_name": "Khawaja Salah Ud Din Akbar",
+    "party": "Sunni Ittehad Council",
+    "province": "Punjab",
+    "district": "Tonsa"
+  },
+  {
+    "constituency_code": "PP-286",
+    "constituency_name": "Dera Ghazi Khan-I",
+    "member_name": "Salah Ud Din Khan",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Dera Ghazi Khan"
+  },
+  {
+    "constituency_code": "PP-287",
+    "constituency_name": "Dera Ghazi Khan-II",
+    "member_name": "Usama Leghari",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Dera Ghazi Khan"
+  },
+  {
+    "constituency_code": "PP-288",
+    "constituency_name": "Dera Ghazi Khan-III",
+    "member_name": "Hanif Khan Pitafi",
+    "party": "Pakistan People’s Party",
+    "province": "Punjab",
+    "district": "Dera Ghazi Khan"
+  },
+  {
+    "constituency_code": "PP-289",
+    "constituency_name": "Dera Ghazi Khan-IV",
+    "member_name": "Muhammad Taufeeq Butt",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Dera Ghazi Khan"
+  },
+  {
+    "constituency_code": "PP-290",
+    "constituency_name": "Dera Ghazi Khan-V",
+    "member_name": "Sardar Ali Ahmed Khan Leghari",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Dera Ghazi Khan"
+  },
+  {
+    "constituency_code": "PP-291",
+    "constituency_name": "Dera Ghazi Khan-VI",
+    "member_name": "Muhammad Ahmad Khan Leghari",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Dera Ghazi Khan"
+  },
+  {
+    "constituency_code": "PP-292",
+    "constituency_name": "Rajanpur-I",
+    "member_name": "Sardar Sher Afgan Gorchani",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rajanpur"
+  },
+  {
+    "constituency_code": "PP-293",
+    "constituency_name": "Rajanpur-II",
+    "member_name": "Sardar Sher Ali Gorchani",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rajanpur"
+  },
+  {
+    "constituency_code": "PP-294",
+    "constituency_name": "Rajanpur-III",
+    "member_name": "Sardar Pervaz Iqbal Gorchani",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rajanpur"
+  },
+  {
+    "constituency_code": "PP-295",
+    "constituency_name": "Rajanpur-IV",
+    "member_name": "Abdul Aziz Khan Dreshak",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rajanpur"
+  },
+  {
+    "constituency_code": "PP-296",
+    "constituency_name": "Rajanpur-V",
+    "member_name": "Awais Dareshak",
+    "party": "Istehkam-e-Pakistan Party",
+    "province": "Punjab",
+    "district": "Rajanpur"
+  },
+  {
+    "constituency_code": "PP-297",
+    "constituency_name": "Rajanpur-VI",
+    "member_name": "Khizer Hussain Mazari",
+    "party": "Pakistan Muslim League (N)",
+    "province": "Punjab",
+    "district": "Rajanpur"
+  }
+]

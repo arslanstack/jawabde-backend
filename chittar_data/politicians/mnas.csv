@@ -1,0 +1,267 @@
+constituency_code,constituency_name,member_name,party,province,district
+NA-1,Chitral,Abdul Latif,,SIC,Chitral
+NA-2,Swat-I,Amjad Ali Khan,,SIC[6],Swat
+NA-3,Swat-II,Salim Rehman,,SIC,Swat
+NA-4,Swat-III,Sohail Sultan,,SIC[6],Swat
+NA-5,Upper Dir,Sahibzada Sibghatullah,,SIC,Upper Dir
+NA-6,Lower Dir-I,Muhammad Bashir Khan,,SIC[6],Lower Dir
+NA-7,Lower Dir-II,Mehboob Shah,,SIC[6],Lower Dir
+NA-8,Bajaur,Mubarak Zeb Khan,,ANP,Bajaur
+NA-9,Malakand,Junaid Akbar,,SIC[6],Malakand
+NA-10,Buner,Gohar Ali Khan,,SIC,Buner
+NA-11,Shangla,Amir Muqam,,PML(N),Shangla
+NA-12,Kohistan,Malik Muhammad Idrees,,PML(N),Kohistan
+NA-13,Battagram,Muhammad Nawaz Khan Allai,,SIC,Battagram
+NA-14,Mansehra,Sardar Muhammad Yousuf,,PML(N),Mansehra
+NA-15,Mansehra-cum-Torghar,Shahzada Muhammad Gushtasap Khan,,SIC,Mansehra-cum
+NA-16,Abbottabad-I,Ali Asghar Khan,,SIC,Abbottabad
+NA-17,Abbottabad-II,Ali Khan Jadoon,,SIC[6],Abbottabad
+NA-18,Haripur,Omar Ayub,,SIC,Haripur
+NA-19,Swabi-I,Asad Qaiser,,SIC[6],Swabi
+NA-20,Swabi-II,Shahram Khan Tarakai,,SIC[6],Swabi
+NA-21,Mardan-I,Mujahid Ali,,SIC[6],Mardan
+NA-22,Mardan-II,Atif Khan,,SIC,Mardan
+NA-23,Mardan-III,Ali Muhammad Khan,,SIC,Mardan
+NA-24,Charsadda-I,Malik Anwar Taj,,SIC[6],Charsadda
+NA-25,Charsadda-II,Fazal Muhammad Khan,,SIC[6],Charsadda
+NA-26,Mohmand,Sajid Khan Mohmand,,SIC,Mohmand
+NA-27,Khyber,Mohammed Iqbal Khan Afridi,,SIC,Khyber
+NA-28,Peshawar-I,Noor Alam Khan,,JUI(F),Peshawar
+NA-29,Peshawar-II,Arbab Amir Ayub,,SIC[6],Peshawar
+NA-30,Peshawar-III,Shandana Gulzar,,SIC[6],Peshawar
+NA-31,Peshawar-IV,Sher Ali Arbab,,SIC[6],Peshawar
+NA-32,Peshawar-V,Asif Khan,,SIC[6],Peshawar
+NA-33,Nowshera-I,Syed Shah Ahad Ali Shah,,SIC[6],Nowshera
+NA-34,Nowshera-II,Zulfiqar Ali,,SIC,Nowshera
+NA-35,Kohat,Shehryar Afridi,,SIC,Kohat
+NA-36,Hangu,Yousuf Khan,,SIC,Hangu
+NA-37,Kurram-II,Hameed Hussain,,MWM,Kurram
+NA-38,Karak,Shahid Ahmed Khattak,,SIC[6],Karak
+NA-39,Bannu,Nasim Ali Shah,,SIC[6],Bannu
+NA-40,North Waziristan,Misbahuddin,,JUI(F),North Waziristan
+NA-41,Lakki Marwat,Sher Afzal Marwat,,SIC[6],Lakki Marwat
+NA-42,South Waziristan,Zubair Khan Wazir,,SIC,South Waziristan
+NA-43,Tank,Dawar Khan Kundi,,SIC,Tank
+NA-44,Dera Ismail Khan-I,Faisal Amin Khan Gandapur,,SIC,Dera Ismail Khan
+NA-45,D I Khan-II,Fatehullah Khan Miankhel,,PPP,D I Khan
+NA-46,Islamabad-I,Anjum Aqeel Khan,,PML(N),Islamabad
+NA-47,Islamabad-II,Tariq Fazal Chaudhry,,PML(N),Islamabad
+NA-48,Islamabad-III,Khurram Shehzad Nawaz,,PML(N),Islamabad
+NA-49,Attock-I,Sheikh Aftab Ahmed,,PML(N),Attock
+NA-50,Attock-II,Malik Sohail Khan,,PML(N),Attock
+NA-51,Murree-cum-Rawalpindi,Raja Usama Sarwar,,PML(N),Murree-cum
+NA-52,Rawalpindi-I,Raja Pervaiz Ashraf,,PPP,Rawalpindi
+NA-53,Rawalpindi-II,Qamar-ul-Islam Raja,,PML(N),Rawalpindi
+NA-54,Rawalpindi-III,Aqeel Malik,,PML(N),Rawalpindi
+NA-55,Rawalpindi-IV,Malik Ibrar Ahmed,,PML(N),Rawalpindi
+NA-56,Rawalpindi-V,Hanif Abbasi,,PML(N),Rawalpindi
+NA-57,Rawalpindi-VI,Daniyal Chaudhary,,PML(N),Rawalpindi
+NA-58,Chakwal,Tahir Iqbal,,PML(N),Chakwal
+NA-59,Chakwal-cum-Talagang,Sardar Ghulam Abbas,,PML(N),Chakwal-cum
+NA-60,Jhelum-I,Bilal Azhar Kayani,,PML(N),Jhelum
+NA-61,Jhelum-II,Chaudhry Farrukh Altaf,,PML(N),Jhelum
+NA-62,Gujrat-I,Muhammad Ilyas Chaudhary,,PML(Q),Gujrat
+NA-63,Gujrat-II,Chaudhry Hussain Elahi,,PML(Q),Gujrat
+NA-64,Gujrat-III,Chaudhry Salik Hussain,,PML(Q),Gujrat
+NA-65,Gujrat-IV,Chaudhary Naseer Ahmed Abbas,,PML(N),Gujrat
+NA-66,Wazirabad,Muhammad Ahmed Chattha,,SIC,Wazirabad
+NA-67,Hafizabad,Aneeqa Mehdi,,SIC,Hafizabad
+NA-68,Mandi Bahauddin-I,Imtiaz Ahmed Chaudhary,,SIC,Mandi Bahauddin
+NA-69,Mandi Bahauddin-II,Nasir Iqbal Bosal,,PML(N),Mandi Bahauddin
+NA-70,Sialkot-I,Armaghan Subhani,,PML(N),Sialkot
+NA-71,Sialkot-II,Khawaja Asif,,PML(N),Sialkot
+NA-72,Sialkot-III,Ali Zahid,,PML(N),Sialkot
+NA-73,Sialkot-IV,Syeda Nosheen Iftikhar,,PML(N),Sialkot
+NA-74,Sialkot-V,Muhammad Aslam Ghumman,,SIC,Sialkot
+NA-75,Narowal-I,Anwaarul Haq Chaudhary,,PML(N),Narowal
+NA-76,Narowal-II,Ahsan Iqbal,,PML(N),Narowal
+NA-77,Gujranwala-I,Chaudhry Mehmood Bashir,,PML(N),Gujranwala
+NA-78,Gujranwala-II,Chaudhary Mubeen Arif Jutt,,SIC,Gujranwala
+NA-79,Gujranwala-III,Chaudhary Ahsaanullah Virk,,SIC,Gujranwala
+NA-80,Gujranwala-IV,Shahid Usman Ibrahim,,PML(N),Gujranwala
+NA-81,Gujranwala-V,Chaudhry Bilal Ijaz,,SIC,Gujranwala
+NA-82,Sargodha-I,Mukhtar Ahmad Bharath,,PML(N),Sargodha
+NA-83,Sargodha-II,Usama Ghias Mela,,SIC[6],Sargodha
+NA-84,Sargodha-III,Malik Shafqat Abbas Awan,,SIC[6],Sargodha
+NA-85,Sargodha-IV,Zulfiqar Ali Bhatti,,PML(N),Sargodha
+NA-86,Sargodha-V,Miqdad Ali Khan Baloch,,SIC,Sargodha
+NA-87,Khushab-I,Malik Shakir Bashir Awan,,PML(N),Khushab
+NA-88,Khushab-II,Gul Asghar Khan Baghoor,,IPP,Khushab
+NA-89,Mianwali-I,Jamal Ahsan Khan Isakhel,,SIC,Mianwali
+NA-90,Mianwali-II,Umair Khan Niazi,,SIC,Mianwali
+NA-91,Bhakkar-I,Sanaullah Khan Mastikhel,,SIC,Bhakkar
+NA-92,Bhakkar-II,Rashid Akbar Khan Nawani,,PML(N),Bhakkar
+NA-93,Chiniot-I,Ghulam Muhammad Lali,,SIC,Chiniot
+NA-94,Chiniot-II,Qaiser Ahmed Sheikh,,PML(N),Chiniot
+NA-95,Faisalabad-I,Ali Afzal Sahi,,SIC[6],Faisalabad
+NA-96,Faisalabad-II,Rai Haider Ali Khan,,SIC[6],Faisalabad
+NA-97,Faisalabad-III,Saadullah Khan Baloch,,SIC,Faisalabad
+NA-98,Faisalabad-IV,Chaudhry Shehbaz Babar,,PML(N),Faisalabad
+NA-99,Faisalabad-V,Malik Umar Farooq Mushtaq,,SIC,Faisalabad
+NA-100,Faisalabad-VI,Nisar Ahmad Jutt,,SIC[6],Faisalabad
+NA-101,Faisalabad-VII,Rana Atif,,SIC[6],Faisalabad
+NA-102,Faisalabad-VIII,Changaiz Ahmed Khan Kakar,,SIC[6],Faisalabad
+NA-103,Faisalabad-IX,Muhammad Ali Sarfraz,,SIC[6],Faisalabad
+NA-104,Faisalabad-X,Sahibzada Hamid Raza,,SIC,Faisalabad
+NA-105,Toba Tek Singh-I,Usama Hamza,,SIC,Toba Tek Singh
+NA-106,Toba Tek Singh-II,Muhammad Junaid Anwar Chaudhry,,PML(N),Toba Tek Singh
+NA-107,Toba Tek Singh-III,Riaz Fatyana,,SIC,Toba Tek Singh
+NA-108,Jhang-I,Sahabzada Mehboob Sultan,,SIC,Jhang
+NA-109,Jhang-II,Sheikh Waqas Akram,,SIC,Jhang
+NA-110,Jhang-III,Muhammad Ameer Sultan,,SIC,Jhang
+NA-111,Nankana Sahib-I,Arshad Sahi,,SIC,Nankana Sahib
+NA-112,Nankana Sahib-II,Shizra Mansab Ali Khan,,PML(N),Nankana Sahib
+NA-113,Sheikhupura-I,Rana Ahmed Ateeq Anwar,,PML(N),Sheikhupura
+NA-114,Sheikhupura-II,Rana Tanveer Hussain,,PML(N),Sheikhupura
+NA-115,Sheikhupura-III,Khurram Shahzad Virk,,SIC[6],Sheikhupura
+NA-116,Sheikhupura-IV,Khurram Munawar Manj,,SIC,Sheikhupura
+NA-117,Lahore-I,Aleem Khan,,IPP,Lahore
+NA-118,Lahore-II,Hamza Shahbaz,,PML(N),Lahore
+NA-119,Lahore-III,Ali Pervaiz Malik,,PML(N),Lahore
+NA-120,Lahore-IV,Ayaz Sadiq,,PML(N),Lahore
+NA-121,Lahore-V,Waseem Qadir,,PML(N),Lahore
+NA-122,Lahore-VI,Latif Khosa,,SIC[6],Lahore
+NA-123,Lahore-VII,Shehbaz Sharif,,PML(N),Lahore
+NA-124,Lahore-VIII,Rana Mubashir Iqbal,,PML(N),Lahore
+NA-125,Lahore-IX,Afzal Khokhar,,PML(N),Lahore
+NA-126,Lahore-X,Malik Saif ul Malook Khokhar,,PML(N),Lahore
+NA-127,Lahore-XI,Attaullah Tarar,,PML(N),Lahore
+NA-128,Lahore-XII,Aun Chaudhry,,IPP,Lahore
+NA-129,Lahore-XIII,Mian Muhammad Azhar,,SIC,Lahore
+NA-130,Lahore-XIV,Nawaz Sharif,,PML(N),Lahore
+NA-131,Kasur-I,Saad Waseem Akhtar Sheikh,,PML(N),Kasur
+NA-132,Kasur-II,Malik Rasheed Ahmed Khan,,PML(N),Kasur
+NA-133,Kasur-III,Azeemuddin Zahid Lakhvi,,SIC,Kasur
+NA-134,Kasur-IV,Rana Muhammad Hayat,,PML(N),Kasur
+NA-135,Okara-I,Chaudhry Nadeem Abbas,,PML(N),Okara
+NA-136,Okara-II,Riaz-ul-Haq,,PML(N),Okara
+NA-137,Okara-III,Syed Raza Ali Gillani,,SIC,Okara
+NA-138,Okara-IV,Muhammad Moeen Wattoo,,PML(N),Okara
+NA-139,Pakpattan-I,Ahmad Raza Maneka,,PML(N),Pakpattan
+NA-140,Pakpattan-II,Rana Iradat Sharif Khan,,PML(N),Pakpattan
+NA-141,Sahiwal-I,Syed Imran Ahmed Shah,,PML(N),Sahiwal
+NA-142,Sahiwal-II,Chaudhary Usman Ali,,PML(N),Sahiwal
+NA-143,Sahiwal-III,Rai Hassan Nawaz,,SIC[6],Sahiwal
+NA-144,Khanewal-I,Raza Hayat Hiraj,,PML(N),Khanewal
+NA-145,Khanewal-II,Muhammad Khan Daha,,PML(N),Khanewal
+NA-146,Khanewal-III,Zahoor Hussain Qureshi,,SIC,Khanewal
+NA-147,Khanewal-IV,Chaudhry Iftikhar Nazir,,PML(N),Khanewal
+NA-148,Multan-I,Yusuf Raza Gilani,,PPP,Multan
+NA-149,Multan-II,Malik Aamir Dogar,,SIC[6],Multan
+NA-150,Multan-III,Zain Qureshi,,SIC[6],Multan
+NA-151,Multan-IV,Ali Musa Gilani,,PPP,Multan
+NA-152,Multan-V,Abdul Qadir Gillani,,PPP,Multan
+NA-153,Multan-VI,Rana Muhammad Qasim Noon,,PML(N),Multan
+NA-154,Lodhran-I,Rana Muhammad Faraz Noon,,SIC[6],Lodhran
+NA-155,Lodhran-II,Siddique Khan Baloch,,PML(N),Lodhran
+NA-156,Vehari-I,Ayesha Nazir Jutt,,SIC,Vehari
+NA-157,Vehari-II,Syed Sajid Mehdi,,PML(N),Vehari
+NA-158,Vehari-III,Tehmina Daultana,,PML(N),Vehari
+NA-159,Vehari-IV,Aurangzeb Khan Khichi,,PML(N),Vehari
+NA-160,Bahawalnagar-I,Abdul Ghaffar Wattoo,,PML(N),Bahawalnagar
+NA-161,Bahawalnagar-II,Alam Dad Lalika,,PML(N),Bahawalnagar
+NA-162,Bahawalnagar-III,Ehsan Ul Haq Bajwa,,PML(N),Bahawalnagar
+NA-163,Bahawalnagar-IV,Ijaz-ul-Haq,,PML(Z),Bahawalnagar
+NA-164,Bahawalpur-I,Riaz Hussain Pirzada,,PML(N),Bahawalpur
+NA-165,Bahawalpur-II,Tariq Bashir Cheema,,PML(Q),Bahawalpur
+NA-166,Bahawalpur-III,Makhdoom Syed Sami Ul Hassan Gillani,,PML(N),Bahawalpur
+NA-167,Bahawalpur-IV,Usman Owaisi,,PML(N),Bahawalpur
+NA-168,Bahawalpur-V,Malik Muhammad Iqbal Channar,,PML(N),Bahawalpur
+NA-169,Rahim Yar Khan-I,Makhdoom Syed Murtaza Mehmood,,PPP,Rahim Yar Khan
+NA-170,Rahim Yar Khan-II,Mian Ghous Muhammad,,SIC,Rahim Yar Khan
+NA-171,Rahim Yar Khan-III,Mumtaz Mustafa,,SIC[6],Rahim Yar Khan
+NA-172,Rahim Yar Khan-IV,Javed Iqbal Warraich,,SIC,Rahim Yar Khan
+NA-173,Rahim Yar Khan-V,Makhdoom Syed Mustafa Mehmood,,PPP,Rahim Yar Khan
+NA-174,Rahim Yar Khan-VI,Azhar Laghari,,PML(N),Rahim Yar Khan
+NA-175,Muzaffargarh-I,Jamshed Dasti,,SIC,Muzaffargarh
+NA-176,Muzaffargarh-II,Iftikhar Ahmed Khan Babar,,PPP,Muzaffargarh
+NA-177,Muzaffargarh-III,Moazam Ali Khan Jatoi,,SIC,Muzaffargarh
+NA-178,Muzaffargarh-IV,Sardar Aamir Talal Khan Gopang,,PML(N),Muzaffargarh
+NA-179,Kot Addu-I,Shabbir Ali Qureshi,,SIC[6],Kot Addu
+NA-180,Kot Addu-II,Mian Fayyaz Hussain Chhajrra,,SIC,Kot Addu
+NA-181,Layyah-I,Anbar Majeed Khan Niazi,,SIC[6],Layyah
+NA-182,Layyah-II,Malik Awais Jakhar,,SIC[6],Layyah
+NA-183,Taunsa,Khawaja Sheraz Mehmood,,SIC,Taunsa
+NA-184,Dera Ghazi Khan-I,Abdul Qadir Khan Khosa,,PML(N),Dera Ghazi Khan
+NA-185,Dera Ghazi Khan-II,Zartaj Gul,,SIC[6],Dera Ghazi Khan
+NA-186,Dera Ghazi Khan-III,Awais Leghari,,PML(N),Dera Ghazi Khan
+NA-187,Rajanpur-I,Ammar Ahmed Khan Laghari,,PML(N),Rajanpur
+NA-188,Rajanpur-II,Hafeez-ur-Rehman Dreshak,,PML(N),Rajanpur
+NA-189,Rajanpur-III,Shamsher Ali Mazari,,PML(N),Rajanpur
+NA-190,Jacobabad,Aijaz Hussain Jakhrani,,PPP,Jacobabad
+NA-191,Jacobabad-cum-Kashmore,Ali Jan Mazari,,PPP,Jacobabad-cum
+NA-192,Kashmore-cum-Shikarpur,Mir Shabbir Bijarani,,PPP,Kashmore-cum
+NA-193,Shikarpur,Muhammad Shaharyar Khan Mahar,,PPP,Shikarpur
+NA-194,Larkana-I,Bilawal Bhutto Zardari,,PPP,Larkana
+NA-195,Larkana-II,Nazeer Ahmed Baghio,,PPP,Larkana
+NA-196,Qambar Shahdadkot-I,Khursheed Ahmed Junejo,,PPP,Qambar Shahdadkot
+NA-197,Qambar Shahdadkot-II,Mir Aamir Ali Khan Magsi,,PPP,Qambar Shahdadkot
+NA-198,Ghotki-I,Khalid Ahmed Khan Lund,,PPP,Ghotki
+NA-199,Ghotki-II,Ali Gohar Khan Mahar,,PPP,Ghotki
+NA-200,Sukkur-I,Nauman Islam Shaikh,,PPP,Sukkur
+NA-201,Sukkur-II,Syed Khursheed Ahmed Shah,,PPP,Sukkur
+NA-202,Khairpur-I,Nafisa Shah,,PPP,Khairpur
+NA-203,Khairpur-II,Fazal Ali Shah,,PPP,Khairpur
+NA-204,Khairpur-III,Syed Javed Ali Shah Jillani,,PPP,Khairpur
+NA-205,Naushahro Feroze-I,Sayed Abrar Ali Shah,,PPP,Naushahro Feroze
+NA-206,Naushahro Feroze-II,Zulfiqar Ali Behan,,PPP,Naushahro Feroze
+NA-207,Nawabshah-I,Asif Ali Zardari,,PPP,Nawabshah
+NA-208,Nawabshah-II,Syed Ghulam Mustafa Shah,,PPP,Nawabshah
+NA-209,Sanghar-I,Shazia Marri,,PPP,Sanghar
+NA-210,Sanghar-II,Salahuddin Junejo,,PPP,Sanghar
+NA-211,Mirpur Khas-I,Aftab Hussain Shah Jillani,,PPP,Mirpur Khas
+NA-212,Mirpur Khas-II,Mir Munawar Ali Talpur,,PPP,Mirpur Khas
+NA-213,Umerkot,Nawab Yousuf Talpur,,PPP,Umerkot
+NA-214,Tharparkar-I,Pir Ameer Ali Shah Jeelani,,PPP,Tharparkar
+NA-215,Tharparkar-II,Mahesh Kumar Malani,,PPP,Tharparkar
+NA-216,Matiari,Makhdoom Jamiluzaman,,PPP,Matiari
+NA-217,Tando Allahyar,Zulfiqar Sattar Bachani,,PPP,Tando Allahyar
+NA-218,Hyderabad-I,Syed Hussain Tariq,,PPP,Hyderabad
+NA-219,Hyderabad-II,Abdul Aleem Khanzada,,MQM-P,Hyderabad
+NA-220,Hyderabad-III,Syed Waseem Hussain,,MQM-P,Hyderabad
+NA-221,Tando Muhammad Khan,Syed Naveed Qamar,,PPP,Tando Muhammad Khan
+NA-222,Badin-I,Mir Ghulam Ali Talpur,,PPP,Badin
+NA-223,Badin-II,Rasool Bakhsh Chandio,,PPP,Badin
+NA-224,Sujawal,Syed Ayaz Ali Shah Sheerazi,,PPP,Sujawal
+NA-225,Thatta,Sadiq Ali Memon,,PPP,Thatta
+NA-226,Jamshoro,Asad Sikandar,,PPP,Jamshoro
+NA-227,Dadu-I,Irfan Zafar Leghari,,PPP,Dadu
+NA-228,Dadu-II,Rafiq Ahmed Jamali,,PPP,Dadu
+NA-229,Malir-I,Jam Abdul Karim Bijar,,PPP,Malir
+NA-230,Malir-II,Syed Rafiullah,,PPP,Malir
+NA-231,Malir-III,Abdul Hakeem Baloch,,PPP,Malir
+NA-232,Karachi Korangi-I,Aasia Ishaque,,MQM-P,Karachi Korangi
+NA-233,Karachi Korangi-II,Muhammad Javed Hanif Khan,,MQM-P,Karachi Korangi
+NA-234,Karachi Korangi-III,Muhammad Moin Aamir Pirzada,,MQM-P,Karachi Korangi
+NA-235,Karachi East-I,Muhammad Iqbal Khan,,MQM-P,Karachi East
+NA-236,Karachi East-II,Hassaan Sabir,,MQM-P,Karachi East
+NA-237,Karachi East-III,Asad Alam Niazi,,PPP,Karachi East
+NA-238,Karachi East-IV,Sadiq Iftikhar,,MQM-P,Karachi East
+NA-239,Karachi South-I,Nabil Gabol,,MQM-P,Karachi South
+NA-240,Karachi South-II,Arshad Abdullah Vohra,,MQM-P,Karachi South
+NA-241,Karachi South-III,Mirza Ikhtiar Baig,,PPP,Karachi South
+NA-242,Karachi Keamari-I,Syed Mustafa Kamal,,MQM-P,Karachi Keamari
+NA-243,Karachi Keamari-II,Abdul Qadir Patel,,PPP,Karachi Keamari
+NA-244,Karachi West-I,Farooq Sattar,,MQM-P,Karachi West
+NA-245,Karachi West-II,Syed Hafeezuddin,,MQM-P,Karachi West
+NA-246,Karachi West-III,Syed Aminul Haque,,MQM-P,Karachi West
+NA-247,Karachi Central-I,Khawaja Izharul Hassan,,MQM-P,Karachi Central
+NA-248,Karachi Central-II,Khalid Maqbool Siddiqui,,MQM-P,Karachi Central
+NA-249,Karachi Central-III,Ahmed Salim Siddiqui,,MQM-P,Karachi Central
+NA-250,Karachi Central-IV,Farhan Chishti,,MQM-P,Karachi Central
+NA-251,Sherani-cum-Zhob-cum-Killa Saifullah,Syed Samiullah,,JUI(F),Sherani-cum-Zhob-cum
+NA-252,Musakhel-cum-Barkhan-cum-Loralai-cum-Duki,Sardar Yaqoob Nasir,,PML(N),Musakhel-cum-Barkhan-cum-Loralai-cum
+NA-253,Ziarat-cum-Harnai-cum-Sibbi-cum-Kohlu-cum-Dera Bugti,Mian Khan Mondrani,,PML(N),Ziarat-cum-Harnai-cum-Sibbi-cum-Kohlu-cum
+NA-254,Nasirabad-cum-Kachhi-cum-Jhal Magsi,Khalid Hussain Magsi,,BAP,Nasirabad-cum-Kachhi-cum
+NA-255,Sohbat Pur-cum-Jaffarabad-cum-Usta Muhammad-cum-Nasirabad,Mir Khan Muhammad Jamali,,PML(N),Sohbat Pur-cum-Jaffarabad-cum-Usta Muhammad-cum
+NA-256,Khuzdar,Akhtar Mengal,,BNP(M),Khuzdar
+NA-257,Hub-cum-Lasbela-cum-Awaran,Jam Kamal Khan,,PML(N),Hub-cum-Lasbela-cum
+NA-258,Panjgur-cum-Kech,Waja Pullain Baloch,,NP,Panjgur-cum
+NA-259,Kech-cum-Gwadar,Malik Shah Gorgaij,,PPP,Kech-cum
+NA-260,Chagai-cum-Nushki-cum-Kharan-cum-Washuk,Usman Badini,,JUI(F),Chagai-cum-Nushki-cum-Kharan-cum
+NA-261,Surab-cum-Kalat-cum-Mastung,Abdul Ghafoor Haideri,,JUI(F),Surab-cum-Kalat-cum
+NA-262,Quetta-I,Adil Khan Bazai,,SIC,Quetta
+NA-263,Quetta-II,Jamal Shah Kakar,,PML(N),Quetta
+NA-264,Quetta-IIi,Jamal Raisani,,PPP,Quetta
+NA-265,Pishin,Fazal-ur-Rehman,,JUI(F),Pishin
+NA-266,Killa Abdullah-cum-Chaman,Mehmood Khan Achakzai,,PkMAP,Killa Abdullah-cum

@@ -1,0 +1,553 @@
+{
+  "info": {
+    "_postman_id": "jawabde-api-v1",
+    "name": "Jawab De API v1",
+    "description": "Complete API collection for Jawab De — Pakistani civic accountability platform. Base URL: {{base_url}}. After login, the token is auto-saved to {{token}} via the test script on the Login and Register requests.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "base_url", "value": "https://jawabde.test/api/v1", "type": "string" },
+    { "key": "token", "value": "", "type": "string" },
+    { "key": "complaint_id", "value": "", "type": "string" },
+    { "key": "district_id", "value": "01ktsejntas8b9dac4mhxthdyt", "type": "string" },
+    { "key": "politician_id", "value": "01ktsejrt9pf1053mdb4sqp91a", "type": "string" },
+    { "key": "constituency_id", "value": "01ktsejp04gnpnyyb3my7qs778", "type": "string" },
+    { "key": "term_id", "value": "01ktsejva2yfh69j1bnb4e2yx5", "type": "string" }
+  ],
+  "item": [
+    {
+      "name": "Auth",
+      "item": [
+        {
+          "name": "Register",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const r = pm.response.json();",
+                  "if (r.token) pm.collectionVariables.set('token', r.token);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Test User\",\n  \"phone\": \"03009876543\",\n  \"password\": \"password\",\n  \"password_confirmation\": \"password\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/auth/register", "host": ["{{base_url}}"], "path": ["auth", "register"] }
+          }
+        },
+        {
+          "name": "Login",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const r = pm.response.json();",
+                  "if (r.token) pm.collectionVariables.set('token', r.token);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"phone\": \"03001234567\",\n  \"password\": \"password\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/auth/login", "host": ["{{base_url}}"], "path": ["auth", "login"] }
+          }
+        },
+        {
+          "name": "Get Profile (me)",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "url": { "raw": "{{base_url}}/auth/me", "host": ["{{base_url}}"], "path": ["auth", "me"] }
+          }
+        },
+        {
+          "name": "Update Profile",
+          "request": {
+            "method": "PUT",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Ali Hassan Updated\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/auth/profile", "host": ["{{base_url}}"], "path": ["auth", "profile"] }
+          }
+        },
+        {
+          "name": "Forgot Password",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"phone\": \"03001234567\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/auth/forgot-password", "host": ["{{base_url}}"], "path": ["auth", "forgot-password"] }
+          }
+        },
+        {
+          "name": "Verify OTP",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"phone\": \"03001234567\",\n  \"otp\": \"123456\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/auth/verify-otp", "host": ["{{base_url}}"], "path": ["auth", "verify-otp"] }
+          }
+        },
+        {
+          "name": "Reset Password",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"phone\": \"03001234567\",\n  \"otp\": \"123456\",\n  \"password\": \"newpassword\",\n  \"password_confirmation\": \"newpassword\"\n}"
+            },
+            "url": { "raw": "{{base_url}}/auth/reset-password", "host": ["{{base_url}}"], "path": ["auth", "reset-password"] }
+          }
+        },
+        {
+          "name": "Logout",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "url": { "raw": "{{base_url}}/auth/logout", "host": ["{{base_url}}"], "path": ["auth", "logout"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Locate",
+      "item": [
+        {
+          "name": "Locate by GPS (Lahore)",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"lat\": 31.5497,\n  \"lon\": 74.3436\n}"
+            },
+            "url": { "raw": "{{base_url}}/locate", "host": ["{{base_url}}"], "path": ["locate"] }
+          }
+        },
+        {
+          "name": "Locate by GPS (Karachi)",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"lat\": 24.8607,\n  \"lon\": 67.0011\n}"
+            },
+            "url": { "raw": "{{base_url}}/locate", "host": ["{{base_url}}"], "path": ["locate"] }
+          }
+        },
+        {
+          "name": "Locate — Out of Pakistan (should 422)",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Content-Type", "value": "application/json" }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"lat\": 28.6139,\n  \"lon\": 77.2090\n}"
+            },
+            "url": { "raw": "{{base_url}}/locate", "host": ["{{base_url}}"], "path": ["locate"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Complaint Types",
+      "item": [
+        {
+          "name": "List All Active Types",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/complaint-types", "host": ["{{base_url}}"], "path": ["complaint-types"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Districts",
+      "item": [
+        {
+          "name": "List Districts (page 1)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/districts?page=1",
+              "host": ["{{base_url}}"],
+              "path": ["districts"],
+              "query": [{ "key": "page", "value": "1" }]
+            }
+          }
+        },
+        {
+          "name": "Get District by ID",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/districts/{{district_id}}", "host": ["{{base_url}}"], "path": ["districts", "{{district_id}}"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Constituencies",
+      "item": [
+        {
+          "name": "List Constituencies (page 1)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/constituencies?page=1",
+              "host": ["{{base_url}}"],
+              "path": ["constituencies"],
+              "query": [{ "key": "page", "value": "1" }]
+            }
+          }
+        },
+        {
+          "name": "Get Constituency by ID",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/constituencies/{{constituency_id}}", "host": ["{{base_url}}"], "path": ["constituencies", "{{constituency_id}}"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Politicians",
+      "item": [
+        {
+          "name": "List Politicians",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/politicians?per_page=20",
+              "host": ["{{base_url}}"],
+              "path": ["politicians"],
+              "query": [{ "key": "per_page", "value": "20" }]
+            }
+          }
+        },
+        {
+          "name": "Search Politicians by Name",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/politicians?search=imran",
+              "host": ["{{base_url}}"],
+              "path": ["politicians"],
+              "query": [{ "key": "search", "value": "imran" }]
+            }
+          }
+        },
+        {
+          "name": "Filter by Party",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/politicians?party=PTI",
+              "host": ["{{base_url}}"],
+              "path": ["politicians"],
+              "query": [{ "key": "party", "value": "PTI" }]
+            }
+          }
+        },
+        {
+          "name": "Filter by Province + Assembly",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/politicians?province=Punjab&assembly=PP",
+              "host": ["{{base_url}}"],
+              "path": ["politicians"],
+              "query": [
+                { "key": "province", "value": "Punjab" },
+                { "key": "assembly", "value": "PP" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Politician by ID",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/politicians/{{politician_id}}", "host": ["{{base_url}}"], "path": ["politicians", "{{politician_id}}"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "item": [
+        {
+          "name": "Search — district name",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/search?q=lahore",
+              "host": ["{{base_url}}"],
+              "path": ["search"],
+              "query": [{ "key": "q", "value": "lahore" }]
+            }
+          }
+        },
+        {
+          "name": "Search — constituency code prefix",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/search?q=NA-1",
+              "host": ["{{base_url}}"],
+              "path": ["search"],
+              "query": [{ "key": "q", "value": "NA-1" }]
+            }
+          }
+        },
+        {
+          "name": "Search — politician name",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/search?q=bilawal&limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["search"],
+              "query": [
+                { "key": "q", "value": "bilawal" },
+                { "key": "limit", "value": "10" }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Stats",
+      "item": [
+        {
+          "name": "National Summary",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/stats/summary", "host": ["{{base_url}}"], "path": ["stats", "summary"] }
+          }
+        },
+        {
+          "name": "Leaderboard — All Time",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/stats/leaderboard?period=all&limit=20",
+              "host": ["{{base_url}}"],
+              "path": ["stats", "leaderboard"],
+              "query": [
+                { "key": "period", "value": "all" },
+                { "key": "limit", "value": "20" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Leaderboard — This Week",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/stats/leaderboard?period=week&limit=10",
+              "host": ["{{base_url}}"],
+              "path": ["stats", "leaderboard"],
+              "query": [
+                { "key": "period", "value": "week" },
+                { "key": "limit", "value": "10" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Leaderboard — Punjab NA (this month)",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": {
+              "raw": "{{base_url}}/stats/leaderboard?period=month&province=Punjab&assembly=NA",
+              "host": ["{{base_url}}"],
+              "path": ["stats", "leaderboard"],
+              "query": [
+                { "key": "period", "value": "month" },
+                { "key": "province", "value": "Punjab" },
+                { "key": "assembly", "value": "NA" }
+              ]
+            }
+          }
+        },
+        {
+          "name": "District Stats",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/stats/district/{{district_id}}", "host": ["{{base_url}}"], "path": ["stats", "district", "{{district_id}}"] }
+          }
+        },
+        {
+          "name": "Politician Stats",
+          "request": {
+            "method": "GET",
+            "header": [{ "key": "Accept", "value": "application/json" }],
+            "url": { "raw": "{{base_url}}/stats/politician/{{politician_id}}", "host": ["{{base_url}}"], "path": ["stats", "politician", "{{politician_id}}"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Complaints (Protected)",
+      "item": [
+        {
+          "name": "File a Complaint",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "const r = pm.response.json();",
+                  "if (r.data && r.data.id) pm.collectionVariables.set('complaint_id', r.data.id);"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "body": {
+              "mode": "formdata",
+              "formdata": [
+                { "key": "photo", "type": "file", "src": "" },
+                { "key": "description", "value": "Large pothole on main road near canal bridge", "type": "text" },
+                { "key": "latitude", "value": "31.5497", "type": "text" },
+                { "key": "longitude", "value": "74.3436", "type": "text" },
+                { "key": "district_id", "value": "{{district_id}}", "type": "text" },
+                { "key": "complaint_type_id", "value": "{{complaint_type_id}}", "type": "text" },
+                { "key": "term_ids[]", "value": "{{term_id}}", "type": "text" }
+              ]
+            },
+            "url": { "raw": "{{base_url}}/complaints", "host": ["{{base_url}}"], "path": ["complaints"] }
+          }
+        },
+        {
+          "name": "My Complaints",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "url": { "raw": "{{base_url}}/complaints/mine", "host": ["{{base_url}}"], "path": ["complaints", "mine"] }
+          }
+        },
+        {
+          "name": "Get Single Complaint",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "url": { "raw": "{{base_url}}/complaints/{{complaint_id}}", "host": ["{{base_url}}"], "path": ["complaints", "{{complaint_id}}"] }
+          }
+        },
+        {
+          "name": "Resolve Complaint",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "url": { "raw": "{{base_url}}/complaints/{{complaint_id}}/resolve", "host": ["{{base_url}}"], "path": ["complaints", "{{complaint_id}}", "resolve"] }
+          }
+        },
+        {
+          "name": "Withdraw Complaint",
+          "request": {
+            "method": "POST",
+            "header": [
+              { "key": "Accept", "value": "application/json" },
+              { "key": "Authorization", "value": "Bearer {{token}}" }
+            ],
+            "url": { "raw": "{{base_url}}/complaints/{{complaint_id}}/withdraw", "host": ["{{base_url}}"], "path": ["complaints", "{{complaint_id}}", "withdraw"] }
+          }
+        }
+      ]
+    }
+  ]
+}

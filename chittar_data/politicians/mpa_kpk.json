@@ -1,0 +1,922 @@
+[
+  {
+    "constituency_code": "PK-1",
+    "constituency_name": "Upper Chitral",
+    "member_name": "Suraya Bibi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Upper Chitral"
+  },
+  {
+    "constituency_code": "PK-2",
+    "constituency_name": "Lower Chitral",
+    "member_name": "Fateh-ul-Mulk Ali Nasir",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower Chitral"
+  },
+  {
+    "constituency_code": "PK-3",
+    "constituency_name": "Swat-I",
+    "member_name": "Sharafat Ali",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-4",
+    "constituency_name": "Swat-II",
+    "member_name": "Ali Shah",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-5",
+    "constituency_name": "Swat-III",
+    "member_name": "Akhtar Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-6",
+    "constituency_name": "Swat-IV",
+    "member_name": "Fazal Hakim",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-7",
+    "constituency_name": "Swat-V",
+    "member_name": "Amjad Ali",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-8",
+    "constituency_name": "Swat-VI",
+    "member_name": "Hamid Ur Rahman",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-9",
+    "constituency_name": "Swat-VII",
+    "member_name": "Sultan e Rum",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-10",
+    "constituency_name": "Swat-VIII",
+    "member_name": "Muhammad Naeem Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swat"
+  },
+  {
+    "constituency_code": "PK-11",
+    "constituency_name": "Upper Dir-I",
+    "member_name": "Gul Ibrahim Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Upper Dir"
+  },
+  {
+    "constituency_code": "PK-12",
+    "constituency_name": "Upper Dir-II",
+    "member_name": "Muhammad Yamin",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Upper Dir"
+  },
+  {
+    "constituency_code": "PK-13",
+    "constituency_name": "Upper Dir-III",
+    "member_name": "Muhammad Anwar Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Upper Dir"
+  },
+  {
+    "constituency_code": "PK-14",
+    "constituency_name": "Lower Dir-I",
+    "member_name": "Muhammad Azam Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower Dir"
+  },
+  {
+    "constituency_code": "PK-15",
+    "constituency_name": "Lower Dir-II",
+    "member_name": "Hamayun Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower Dir"
+  },
+  {
+    "constituency_code": "PK-16",
+    "constituency_name": "Lower Dir-III",
+    "member_name": "Shafi Ullah",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower Dir"
+  },
+  {
+    "constituency_code": "PK-17",
+    "constituency_name": "Lower Dir-IV",
+    "member_name": "Ubaidur Rahman",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower Dir"
+  },
+  {
+    "constituency_code": "PK-18",
+    "constituency_name": "Lower Dir-V",
+    "member_name": "Liaqat Ali Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower Dir"
+  },
+  {
+    "constituency_code": "PK-19",
+    "constituency_name": "Bajaur-I",
+    "member_name": "Hamid Ur Rehman",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bajaur"
+  },
+  {
+    "constituency_code": "PK-20",
+    "constituency_name": "Bajaur-II",
+    "member_name": "Anwar Zeb Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bajaur"
+  },
+  {
+    "constituency_code": "PK-21",
+    "constituency_name": "Bajaur-III",
+    "member_name": "Ajmal Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bajaur"
+  },
+  {
+    "constituency_code": "PK-22",
+    "constituency_name": "Bajaur-IV",
+    "member_name": "Nisar Baaz",
+    "party": "ANP",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bajaur"
+  },
+  {
+    "constituency_code": "PK-23",
+    "constituency_name": "Malakand-I",
+    "member_name": "Shakeel Ahmad",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Malakand"
+  },
+  {
+    "constituency_code": "PK-24",
+    "constituency_name": "Malakand-II",
+    "member_name": "Musavir Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Malakand"
+  },
+  {
+    "constituency_code": "PK-25",
+    "constituency_name": "Buner-I",
+    "member_name": "Riaz Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Buner"
+  },
+  {
+    "constituency_code": "PK-26",
+    "constituency_name": "Buner-II",
+    "member_name": "Syed Fakhr e Jehan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Buner"
+  },
+  {
+    "constituency_code": "PK-27",
+    "constituency_name": "Buner-III",
+    "member_name": "Abdul Kabir Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Buner"
+  },
+  {
+    "constituency_code": "PK-28",
+    "constituency_name": "Shangla-I",
+    "member_name": "Muhammad Rashad Khan",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Shangla"
+  },
+  {
+    "constituency_code": "PK-29",
+    "constituency_name": "Shangla-II",
+    "member_name": "Abdul Munim",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Shangla"
+  },
+  {
+    "constituency_code": "PK-30",
+    "constituency_name": "Shangla-III",
+    "member_name": "Ibadullah Khan",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Shangla"
+  },
+  {
+    "constituency_code": "PK-31",
+    "constituency_name": "Kohistan Upper",
+    "member_name": "Fazal-e Haq",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kohistan Upper"
+  },
+  {
+    "constituency_code": "PK-32",
+    "constituency_name": "Kohistan Lower",
+    "member_name": "Sajjad Ullah",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kohistan Lower"
+  },
+  {
+    "constituency_code": "PK-33",
+    "constituency_name": "Kolai Palas",
+    "member_name": "Muhammad Riaz",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kolai Palas"
+  },
+  {
+    "constituency_code": "PK-34",
+    "constituency_name": "Battagram-I",
+    "member_name": "Zubair Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Battagram"
+  },
+  {
+    "constituency_code": "PK-35",
+    "constituency_name": "Battagram-II",
+    "member_name": "Taj Muhammad",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Battagram"
+  },
+  {
+    "constituency_code": "PK-36",
+    "constituency_name": "Mansehra-I",
+    "member_name": "Munir Hussain",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mansehra"
+  },
+  {
+    "constituency_code": "PK-37",
+    "constituency_name": "Mansehra-II",
+    "member_name": "Babar Saleem Swati",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mansehra"
+  },
+  {
+    "constituency_code": "PK-38",
+    "constituency_name": "Mansehra-III",
+    "member_name": "Zahid Chanzeb",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mansehra"
+  },
+  {
+    "constituency_code": "PK-39",
+    "constituency_name": "Mansehra-IV",
+    "member_name": "Ikram Ullah",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mansehra"
+  },
+  {
+    "constituency_code": "PK-40",
+    "constituency_name": "Mansehra-V",
+    "member_name": "Shahjahan Yousuf",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mansehra"
+  },
+  {
+    "constituency_code": "PK-41",
+    "constituency_name": "Torghar",
+    "member_name": "Laiq Muhammad Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Torghar"
+  },
+  {
+    "constituency_code": "PK-42",
+    "constituency_name": "Abbottabad-I",
+    "member_name": "Nazir Ahmed Abbasi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Abbottabad"
+  },
+  {
+    "constituency_code": "PK-43",
+    "constituency_name": "Abbottabad-II",
+    "member_name": "Rajab Ali Khan Abbasi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Abbottabad"
+  },
+  {
+    "constituency_code": "PK-44",
+    "constituency_name": "Abbottabad-III",
+    "member_name": "Iftikhar Ahmad Khan Jadoon",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Abbottabad"
+  },
+  {
+    "constituency_code": "PK-45",
+    "constituency_name": "Abbottabad-IV",
+    "member_name": "Mushtaq Ahmed Ghani",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Abbottabad"
+  },
+  {
+    "constituency_code": "PK-46",
+    "constituency_name": "Haripur-I",
+    "member_name": "Akbar Ayub Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Haripur"
+  },
+  {
+    "constituency_code": "PK-47",
+    "constituency_name": "Haripur-II",
+    "member_name": "Arshad Ayub Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Haripur"
+  },
+  {
+    "constituency_code": "PK-48",
+    "constituency_name": "Haripur-III",
+    "member_name": "Malik Adeel Iqbal",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Haripur"
+  },
+  {
+    "constituency_code": "PK-49",
+    "constituency_name": "Swabi-I",
+    "member_name": "Rangez Ahmad",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swabi"
+  },
+  {
+    "constituency_code": "PK-50",
+    "constituency_name": "Swabi-II",
+    "member_name": "Aqibullah Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swabi"
+  },
+  {
+    "constituency_code": "PK-51",
+    "constituency_name": "Swabi-III",
+    "member_name": "Abdul Kareem",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swabi"
+  },
+  {
+    "constituency_code": "PK-52",
+    "constituency_name": "Swabi-IV",
+    "member_name": "Faisal Khan Tarakai",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swabi"
+  },
+  {
+    "constituency_code": "PK-53",
+    "constituency_name": "Swabi-V",
+    "member_name": "Murtaza Khan Tarakai",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Swabi"
+  },
+  {
+    "constituency_code": "PK-54",
+    "constituency_name": "Mardan-I",
+    "member_name": "Zarshad Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-55",
+    "constituency_name": "Mardan-II",
+    "member_name": "Tufail Anjum",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-56",
+    "constituency_name": "Mardan-III",
+    "member_name": "Amir Farzand Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-57",
+    "constituency_name": "Mardan-IV",
+    "member_name": "Muhammad Zahir Shah",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-58",
+    "constituency_name": "Mardan-V",
+    "member_name": "Muhammad Abdul Salam",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-59",
+    "constituency_name": "Mardan-VI",
+    "member_name": "Tariq Mehmood Aryani",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-60",
+    "constituency_name": "Mardan-VII",
+    "member_name": "Iftikhar Ali Mushwani",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-61",
+    "constituency_name": "Mardan-VIII",
+    "member_name": "Ihtisham Ali",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mardan"
+  },
+  {
+    "constituency_code": "PK-62",
+    "constituency_name": "Charsadda-I",
+    "member_name": "Khalid Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Charsadda"
+  },
+  {
+    "constituency_code": "PK-63",
+    "constituency_name": "Charsadda-II",
+    "member_name": "Arshad Ali",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Charsadda"
+  },
+  {
+    "constituency_code": "PK-64",
+    "constituency_name": "Charsadda-III",
+    "member_name": "Iftikhar Ullah Jan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Charsadda"
+  },
+  {
+    "constituency_code": "PK-65",
+    "constituency_name": "Charsadda-IV",
+    "member_name": "Fazle Shakoor Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Charsadda"
+  },
+  {
+    "constituency_code": "PK-66",
+    "constituency_name": "Charsadda-V",
+    "member_name": "Mohammad Arif",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Charsadda"
+  },
+  {
+    "constituency_code": "PK-67",
+    "constituency_name": "Mohmand-I",
+    "member_name": "Mehboob Sher",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mohmand"
+  },
+  {
+    "constituency_code": "PK-68",
+    "constituency_name": "Mohmand-II",
+    "member_name": "Muhammad Israr",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Mohmand"
+  },
+  {
+    "constituency_code": "PK-69",
+    "constituency_name": "Khyber-I",
+    "member_name": "Muhammad Adnan Qadri",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Khyber"
+  },
+  {
+    "constituency_code": "PK-70",
+    "constituency_name": "Khyber-II",
+    "member_name": "Muhammad Sohail Afridi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Khyber"
+  },
+  {
+    "constituency_code": "PK-71",
+    "constituency_name": "Khyber-III",
+    "member_name": "Abdul Ghani",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Khyber"
+  },
+  {
+    "constituency_code": "PK-72",
+    "constituency_name": "Peshawar-I",
+    "member_name": "Kiramat Ullah Khan",
+    "party": "PPP",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-73",
+    "constituency_name": "Peshawar-II",
+    "member_name": "Arbab Muhammad Wasim Khan",
+    "party": "PTI-P",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-74",
+    "constituency_name": "Peshawar-III",
+    "member_name": "Ijaz Muhammad",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-75",
+    "constituency_name": "Peshawar-IV",
+    "member_name": "Arbab Muhammad Usman Khan",
+    "party": "ANP",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-76",
+    "constituency_name": "Peshawar-V",
+    "member_name": "Samiullah Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-77",
+    "constituency_name": "Peshawar-VI",
+    "member_name": "Sher Ali Afridi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-78",
+    "constituency_name": "Peshawar-VII",
+    "member_name": "Zahir Khan",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-79",
+    "constituency_name": "Peshawar-VIII",
+    "member_name": "Jalal Khan",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-80",
+    "constituency_name": "Peshawar-IX",
+    "member_name": "Arbab Zarak Khan",
+    "party": "PPP",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-81",
+    "constituency_name": "Peshawar-X",
+    "member_name": "Syed Qasim Ali Shah",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-82",
+    "constituency_name": "Peshawar-XI",
+    "member_name": "Malik Tariq Awan",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-83",
+    "constituency_name": "Peshawar-XII",
+    "member_name": "Meena Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-84",
+    "constituency_name": "Peshawar-XIII",
+    "member_name": "Fazal Elahi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Peshawar"
+  },
+  {
+    "constituency_code": "PK-85",
+    "constituency_name": "Nowshera-I",
+    "member_name": "Zar Alam Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Nowshera"
+  },
+  {
+    "constituency_code": "PK-86",
+    "constituency_name": "Nowshera-II",
+    "member_name": "Muhammad Idrees",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Nowshera"
+  },
+  {
+    "constituency_code": "PK-87",
+    "constituency_name": "Nowshera-III",
+    "member_name": "Khaliq-ur-Rehman",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Nowshera"
+  },
+  {
+    "constituency_code": "PK-88",
+    "constituency_name": "Nowshera-IV",
+    "member_name": "Mian Muhammad Umar",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Nowshera"
+  },
+  {
+    "constituency_code": "PK-89",
+    "constituency_name": "Nowshera-V",
+    "member_name": "Ishfaq Ahmed",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Nowshera"
+  },
+  {
+    "constituency_code": "PK-90",
+    "constituency_name": "Kohat-I",
+    "member_name": "Aftab Alam Afridi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kohat"
+  },
+  {
+    "constituency_code": "PK-91",
+    "constituency_name": "Kohat-II",
+    "member_name": "Daud Shah Afridi",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kohat"
+  },
+  {
+    "constituency_code": "PK-92",
+    "constituency_name": "Kohat-III",
+    "member_name": "Shafi Ullah Jan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kohat"
+  },
+  {
+    "constituency_code": "PK-93",
+    "constituency_name": "Hangu",
+    "member_name": "Shah Abu Tarab Khan Bangash",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Hangu"
+  },
+  {
+    "constituency_code": "PK-94",
+    "constituency_name": "Orakzai",
+    "member_name": "Aurangzeb Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Orakzai"
+  },
+  {
+    "constituency_code": "PK-95",
+    "constituency_name": "Kurram-I",
+    "member_name": "Muhammad Riaz Shaheen",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kurram"
+  },
+  {
+    "constituency_code": "PK-96",
+    "constituency_name": "Kurram-II",
+    "member_name": "Ali Hadi",
+    "party": "PTI-P",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Kurram"
+  },
+  {
+    "constituency_code": "PK-97",
+    "constituency_name": "Karak-I",
+    "member_name": "Muhammad Khurshid",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Karak"
+  },
+  {
+    "constituency_code": "PK-98",
+    "constituency_name": "Karak-II",
+    "member_name": "Muhammad Sajjad",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Karak"
+  },
+  {
+    "constituency_code": "PK-99",
+    "constituency_name": "Bannu-I",
+    "member_name": "Zahid Ullah Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bannu"
+  },
+  {
+    "constituency_code": "PK-100",
+    "constituency_name": "Bannu-II",
+    "member_name": "Pakhtoon Yar Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bannu"
+  },
+  {
+    "constituency_code": "PK-101",
+    "constituency_name": "Bannu-III",
+    "member_name": "Adnan Wazir",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bannu"
+  },
+  {
+    "constituency_code": "PK-102",
+    "constituency_name": "Bannu-IV",
+    "member_name": "Akram Khan Durrani",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Bannu"
+  },
+  {
+    "constituency_code": "PK-103",
+    "constituency_name": "North Waziristan-I",
+    "member_name": "Muhammad Iqbal Wazir",
+    "party": "PTI-P",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "North Waziristan"
+  },
+  {
+    "constituency_code": "PK-104",
+    "constituency_name": "North Waziristan-II",
+    "member_name": "Nek Muhammad Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "North Waziristan"
+  },
+  {
+    "constituency_code": "PK-105",
+    "constituency_name": "Lakki Marwat-I",
+    "member_name": "Johar Muhammad",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lakki Marwat"
+  },
+  {
+    "constituency_code": "PK-106",
+    "constituency_name": "Lakki Marwat-II",
+    "member_name": "Hisham Inamullah Khan",
+    "party": "PML(N)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lakki Marwat"
+  },
+  {
+    "constituency_code": "PK-107",
+    "constituency_name": "Lakki Marwat-III",
+    "member_name": "Tariq Saeed",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lakki Marwat"
+  },
+  {
+    "constituency_code": "PK-108",
+    "constituency_name": "Tank",
+    "member_name": "Muhammad Usman",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Tank"
+  },
+  {
+    "constituency_code": "PK-109",
+    "constituency_name": "Upper South Waziristan",
+    "member_name": "Asif Khan",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Upper South Waziristan"
+  },
+  {
+    "constituency_code": "PK-110",
+    "constituency_name": "Lower South Waziristan",
+    "member_name": "Ajab Gul",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Lower South Waziristan"
+  },
+  {
+    "constituency_code": "PK-111",
+    "constituency_name": "Dera Ismail Khan-I",
+    "member_name": "Makhdoom Zada Muhammad Aftab Haider",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Dera Ismail Khan"
+  },
+  {
+    "constituency_code": "PK-112",
+    "constituency_name": "Dera Ismail Khan-II",
+    "member_name": "Ahmad Kundi",
+    "party": "PPP",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Dera Ismail Khan"
+  },
+  {
+    "constituency_code": "PK-113",
+    "constituency_name": "Dera Ismail Khan-III",
+    "member_name": "Ali Amin Gandapur",
+    "party": "SIC",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Dera Ismail Khan"
+  },
+  {
+    "constituency_code": "PK-114",
+    "constituency_name": "Dera Ismail Khan-IV",
+    "member_name": "Luftur Rehman",
+    "party": "JUI(F)",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Dera Ismail Khan"
+  },
+  {
+    "constituency_code": "PK-115",
+    "constituency_name": "Dera Ismail Khan-V",
+    "member_name": "Ehsanullah Khan",
+    "party": "PPP",
+    "province": "Khyber Pakhtunkhwa",
+    "district": "Dera Ismail Khan"
+  }
+]

@@ -1,0 +1,594 @@
+constituency_code,constituency_name,member_name,party,province,district
+PP-1,Attock-I,Qazi Ahmed Akbar,Sunni Ittehad Council,Punjab,Attock
+PP-2,Attock-II,Sardar Mohammad Ali Khan,Sunni Ittehad Council,Punjab,Attock
+PP-3,Attock-III,Ejaz Hussain Bukhari,Sunni Ittehad Council,Punjab,Attock
+PP-4,Attock-IV,Chaudhry Sher Ali Khan,Pakistan Muslim League (N),Punjab,Attock
+PP-5,Attock-V,Malik Aitbar Khan,Pakistan Muslim League (N),Punjab,Attock
+PP-6,Murree,Muhammad Bilal Yamin,Pakistan Muslim League (N),Punjab,Murree
+PP-7,Rawalpindi-I,Raja Sagheer Ahmed,Pakistan People’s Party,Punjab,Rawalpindi
+PP-8,Rawalpindi-II,Chaudhary Javed Kausar,Sunni Ittehad Council,Punjab,Rawalpindi
+PP-9,Rawalpindi-III,Raja Shoukat Aziz Bhatti,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-10,Rawalpindi-IV,Naeem Ejaz,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-11,Rawalpindi-V,Imran Ilyas Chaudhry,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-12,Rawalpindi-VI,Mohsin Ayub Khan,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-13,Rawalpindi-VII,Malik Fahad Masood,Sunni Ittehad Council,Punjab,Rawalpindi
+PP-14,Rawalpindi-VIII,Malik Iftikhar Ahmed,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-15,Rawalpindi-IX,Malik Mansoor Afsar,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-16,Rawalpindi-X,Zia Ullah Shah,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-17,Rawalpindi-XI,Raja Abdul Hanif,Pakistan Muslim League (N),Punjab,Rawalpindi
+PP-18,Rawalpindi-XII,Asad Abbas,Majlis Wahdat-e-Muslimeen,Punjab,Rawalpindi
+PP-19,Rawalpindi-XIII,Muhammad Tanveer Aslam,Sunni Ittehad Council,Punjab,Rawalpindi
+PP-20,Chakwal-I,Sultan Haider Ali Khan,Pakistan Muslim League (N),Punjab,Chakwal
+PP-21,Chakwal-II,Tanveer Aslam Malik,Pakistan Muslim League (N),Punjab,Chakwal
+PP-22,Chakwal-cum-Talagang,Malik Falak Sher Awan,Pakistan Muslim League (N),Punjab,Chakwal-cum
+PP-23,Talagang,Shehryar Malik,Pakistan Muslim League (N),Punjab,Talagang
+PP-24,Jhelum-I,Syed Riffat Mehmood,Sunni Ittehad Council,Punjab,Jhelum
+PP-25,Jhelum-II,Yasir Mehmood Qureshi,Sunni Ittehad Council,Punjab,Jhelum
+PP-26,Jhelum-III,Mushtaq Ahmed,Sunni Ittehad Council,Punjab,Jhelum
+PP-27,Gujrat-I,Raja Muhammad Aslam Khan,Pakistan Muslim League (Q),Punjab,Gujrat
+PP-28,Gujrat-II,Shahid Raza,Sunni Ittehad Council,Punjab,Gujrat
+PP-29,Gujrat-III,Khalid Javed Asghar Ghural,Pakistan Muslim League (Q),Punjab,Gujrat
+PP-30,Gujrat-IV,Muhammad Abdullah Warraich,Sunni Ittehad Council,Punjab,Gujrat
+PP-31,Gujrat-V,Shafay Hussain,Pakistan Muslim League (Q),Punjab,Gujrat
+PP-32,Gujrat-VI,Chaudhry Musa Elahi,Pakistan Muslim League (Q),Punjab,Gujrat
+PP-33,Gujrat-VII,Syed Madad Ali Shah,Pakistan Muslim League (Q),Punjab,Gujrat
+PP-34,Gujrat-VIII,Chaudhry ljaz Ahmad,Pakistan Muslim League (Q),Punjab,Gujrat
+PP-35,Wazirabad-I,Waqar Ahmad Cheema,Pakistan Muslim League (N),Punjab,Wazirabad
+PP-36,Wazirabad-II,Adnan Afzal Chattha,Pakistan Muslim League (N),Punjab,Wazirabad
+PP-37,Hafizabad-I,Shahid Hussain Bhatti,Pakistan Muslim League (N),Punjab,Hafizabad
+PP-38,Hafizabad-II,Zameer Ul Hassan Bhatti,Sunni Ittehad Council,Punjab,Hafizabad
+PP-39,Hafizabad-III,Muhammad Aoun Jahangir,Pakistan Muslim League (N),Punjab,Hafizabad
+PP-40,Mandi Bahauddin-I,Zarnab Sher,Sunni Ittehad Council,Punjab,Mandi Bahauddin
+PP-41,Mandi Bahauddin-II,Basma Riaz Choudhry,Sunni Ittehad Council,Punjab,Mandi Bahauddin
+PP-42,Mandi Bahauddin-III,Khalid Mahmood Ranjha,Pakistan Muslim League (N),Punjab,Mandi Bahauddin
+PP-43,Mandi Bahauddin-IV,Chaudhry Akhtar Abbas Bosal,Pakistan Muslim League (N),Punjab,Mandi Bahauddin
+PP-44,Sialkot-I,Rana Muhammad Arif Iqbal Harnah,Pakistan Muslim League (N),Punjab,Sialkot
+PP-45,Sialkot-II,Tariq Subhani,Pakistan Muslim League (N),Punjab,Sialkot
+PP-46,Sialkot-III,Faisal Akram,Pakistan Muslim League (N),Punjab,Sialkot
+PP-47,Sialkot-IV,Muhammad Mansha Ullah Butt,Pakistan Muslim League (N),Punjab,Sialkot
+PP-48,Sialkot-V,Khurram Khan Virk,Pakistan Muslim League (N),Punjab,Sialkot
+PP-49,Sialkot-VI,Muhammad Fiaz,Pakistan Muslim League (N),Punjab,Sialkot
+PP-50,Sialkot-VII,Chaudhry Naveed Ashraf,Pakistan Muslim League (N),Punjab,Sialkot
+PP-51,Sialkot-VIII,Zeeshan Rafiq,Pakistan Muslim League (N),Punjab,Sialkot
+PP-52,Sialkot-IX,Hina Arshad Warraich,Pakistan Muslim League (N),Punjab,Sialkot
+PP-53,Sialkot-X,Rana Abdul Sattar,Pakistan Muslim League (N),Punjab,Sialkot
+PP-54,Narowal-I,Ahmad Iqbal Chaudhary,Pakistan Muslim League (N),Punjab,Narowal
+PP-55,Narowal-II,Chaudhry Mehmood Ahmad Sungran,Sunni Ittehad Council,Punjab,Narowal
+PP-56,Narowal-III,Rana Mannan Khan,Pakistan Muslim League (N),Punjab,Narowal
+PP-57,Narowal-IV,Khawaja Muhammad Waseem,Pakistan Muslim League (N),Punjab,Narowal
+PP-58,Narowal-V,Bilal Akbar Khan,Pakistan Muslim League (N),Punjab,Narowal
+PP-59,Gujranwala-I,Muhammad Nasir Cheema,Sunni Ittehad Council,Punjab,Gujranwala
+PP-60,Gujranwala-II,Kaleem Ullah Khan,Sunni Ittehad Council,Punjab,Gujranwala
+PP-61,Gujranwala-III,Imran Khalid Butt,Pakistan Muslim League (N),Punjab,Gujranwala
+PP-62,Gujranwala-IV,Muhammad Nawaz Chohan,Pakistan Muslim League (N),Punjab,Gujranwala
+PP-63,Gujranwala-V,Chaudhry Muhammad Tariq,Sunni Ittehad Council,Punjab,Gujranwala
+PP-64,Gujranwala-VI,Umar Farooq Dar,Pakistan Muslim League (N),Punjab,Gujranwala
+PP-65,Gujranwala-VII,Hassan Ali,Sunni Ittehad Council,Punjab,Gujranwala
+PP-66,Gujranwala-VIII,Qaiser Iqbal Sindhu,Pakistan Muslim League (N),Punjab,Gujranwala
+PP-67,Gujranwala-IX,Chaudhry Akhtar Ali Khan,Pakistan Muslim League (N),Punjab,Gujranwala
+PP-68,Gujranwala-X,Mian Arqam Khan,Sunni Ittehad Council,Punjab,Gujranwala
+PP-69,Gujranwala-XI,Irfan Bashir,Pakistan Muslim League (N),Punjab,Gujranwala
+PP-70,Gujranwala-XII,Tashakul Abbas Warraich,Sunni Ittehad Council,Punjab,Gujranwala
+PP-71,Sargodha-I,Sohaib Ahmad Malik,Pakistan Muslim League (N),Punjab,Sargodha
+PP-72,Sargodha-II,Mansoor Azam,Pakistan Muslim League (N),Punjab,Sargodha
+PP-73,Sargodha-III,Mian Sultan Ali Ranjha,Pakistan Muslim League (N),Punjab,Sargodha
+PP-74,Sargodha-IV,Ikram Ul Haq,Pakistan Muslim League (N),Punjab,Sargodha
+PP-75,Sargodha-V,Ali Asif,Sunni Ittehad Council,Punjab,Sargodha
+PP-76,Sargodha-VI,Zulfiqar Ali Bhatti,Sunni Ittehad Council,Punjab,Sargodha
+PP-77,Sargodha-VII,Safdar Hussain Sahi,Pakistan Muslim League (N),Punjab,Sargodha
+PP-78,Sargodha-VIII,Rana Munawar Hussain,Pakistan Muslim League (N),Punjab,Sargodha
+PP-79,Sargodha-IX,Taimur Ali Khan,Pakistan Muslim League (N),Punjab,Sargodha
+PP-80,Sargodha-X,Sardar Muhammad Asim Sher Maken,Pakistan Muslim League (N),Punjab,Sargodha
+PP-81,Khushab-I,Hassan Malik,Sunni Ittehad Council,Punjab,Khushab
+PP-82,Khushab-II,Muhammad Asif Malik,Pakistan Muslim League (N),Punjab,Khushab
+PP-83,Khushab-III,Ali Hussain Khan,Pakistan Muslim League (N),Punjab,Khushab
+PP-84,Khushab-IV,Fateh Khaliq,Sunni Ittehad Council,Punjab,Khushab
+PP-85,Mianwali-I,Muhammad Iqbal,Sunni Ittehad Council,Punjab,Mianwali
+PP-86,Mianwali-II,Amin Ullah Khan,Sunni Ittehad Council,Punjab,Mianwali
+PP-87,Mianwali-III,Ali Haider Noor Khan Niazi,Pakistan Muslim League (N),Punjab,Mianwali
+PP-88,Mianwali-IV,Mumtaz Ahmad,Sunni Ittehad Council,Punjab,Mianwali
+PP-89,Bhakkar-I,Ameer Muhammad Khan,Pakistan People's Party,Punjab,Bhakkar
+PP-90,Bhakkar-II,Ahmad Nawaz Khan,Pakistan Muslim League (N),Punjab,Bhakkar
+PP-91,Bhakkar-III,Ghazanfar Abbas Cheena,Istehkam-e-Pakistan Party,Punjab,Bhakkar
+PP-92,Bhakkar-IV,Amir Inayat Khan Shahani,Istehkam-e-Pakistan Party,Punjab,Bhakkar
+PP-93,Bhakkar-V,Saeed Akbar Khan Nawani,Istehkam-e-Pakistan Party,Punjab,Bhakkar
+PP-94,Chiniot-I,Taimoor Ali Lali,Istehkam-e-Pakistan Party,Punjab,Chiniot
+PP-95,Chiniot-II,Ilyas Chinioti,Pakistan Muslim League (N),Punjab,Chiniot
+PP-96,Chiniot-III,Zulfiqar Ali Shah,Pakistan Muslim League (N),Punjab,Chiniot
+PP-97,Chiniot-IV,Saqib Khan Chadhar,Pakistan Muslim League (N),Punjab,Chiniot
+PP-98,Faisalabad-I,Azad Ali Tabassum,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-99,Faisalabad-II,Ahmad Mujtaba Chaudhry,Sunni Ittehad Council,Punjab,Faisalabad
+PP-100,Faisalabad-III,Sardar Khan Bahadur Dogar,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-101,Faisalabad-IV,Muhammad Akram Chaudhary,Sunni Ittehad Council,Punjab,Faisalabad
+PP-102,Faisalabad-V,Jafar Ali Hocha,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-103,Faisalabad-VI,Noor Shahid Noor,Sunni Ittehad Council,Punjab,Faisalabad
+PP-104,Faisalabad-VII,Arif Mahmood Gill,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-105,Faisalabad-VIII,Rao Kashif Raheem Khan,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-106,Faisalabad-IX,Ahsan Raza,Sunni Ittehad Council,Punjab,Faisalabad
+PP-107,Faisalabad-X,Javed Niaz Manj,Sunni Ittehad Council,Punjab,Faisalabad
+PP-108,Faisalabad-XI,Rana Aftab Ahmad Khan,Sunni Ittehad Council,Punjab,Faisalabad
+PP-109,Faisalabad-XII,Chaudhry Zafar Iqbal Nagra,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-110,Faisalabad-XIII,Hassan Zaka,Sunni Ittehad Council,Punjab,Faisalabad
+PP-111,Faisalabad-XIV,Basharat Ali,Sunni Ittehad Council,Punjab,Faisalabad
+PP-112,Faisalabad-XV,Asad Mehmood,Sunni Ittehad Council,Punjab,Faisalabad
+PP-113,Faisalabad-XVI,Nadeem Sadiq Dogar,Sunni Ittehad Council,Punjab,Faisalabad
+PP-114,Faisalabad-XVII,Chaudhry Latif Nazar Gujjar,Sunni Ittehad Council,Punjab,Faisalabad
+PP-115,Faisalabad-XVIII,Mian Tahir Pervaz,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-116,Faisalabad-XIX,Rana Ahmad Sheheryar Khan,Pakistan Muslim League (N),Punjab,Faisalabad
+PP-117,Faisalabad-XX,Abdul Razzaq Khan,Sunni Ittehad Council,Punjab,Faisalabad
+PP-118,Faisalabad-XXI,Khayal Ahmad Kastro,Sunni Ittehad Council,Punjab,Faisalabad
+PP-119,Toba Tek Singh-I,Asad Zaman,Sunni Ittehad Council,Punjab,Toba Tek Singh
+PP-120,Toba Tek Singh-II,Muhammad Ahsan Ihsan,Sunni Ittehad Council,Punjab,Toba Tek Singh
+PP-121,Toba Tek Singh-III,Chaudhry Amjad Ali Javed,Pakistan Muslim League (N),Punjab,Toba Tek Singh
+PP-122,Toba Tek Singh-IV,Sardar Muhammad Ayub Khan,Pakistan Muslim League (N),Punjab,Toba Tek Singh
+PP-123,Toba Tek Singh-V,Ashifa Riaz Fatyana,Sunni Ittehad Council,Punjab,Toba Tek Singh
+PP-124,Toba Tek Singh-VI,Syeda Sonia Ali Raza Shah,Sunni Ittehad Council,Punjab,Toba Tek Singh
+PP-125,Jhang-I,Ghulam Ahmed Khan Gadi,Sunni Ittehad Council,Punjab,Jhang
+PP-126,Jhang-II,Mehar Muhammad Nawaz,Sunni Ittehad Council,Punjab,Jhang
+PP-127,Jhang-III,Sheikh Muhammad Akram,Sunni Ittehad Council,Punjab,Jhang
+PP-128,Jhang-IV,Ghazanfar Abbas Shah,Istehkam-e-Pakistan Party,Punjab,Jhang
+PP-129,Jhang-V,Mian Muhammad Asif Kathia,Sunni Ittehad Council,Punjab,Jhang
+PP-130,Jhang-VI,Rana Shahbaz Ahmad,Sunni Ittehad Council,Punjab,Jhang
+PP-131,Jhang-VII,Mian Muhammad Azam,Sunni Ittehad Council,Punjab,Jhang
+PP-132,Nankana Sahib-I,Sultan Bajwa,Pakistan Muslim League (N),Punjab,Nankana Sahib
+PP-133,Nankana Sahib-II,Rana Muhammad Arshad,Pakistan Muslim League (N),Punjab,Nankana Sahib
+PP-134,Nankana Sahib-III,Mahr Muhammad Kashif,Pakistan Muslim League (N),Punjab,Nankana Sahib
+PP-135,Nankana Sahib-IV,Agha Ali Haidar,Pakistan Muslim League (N),Punjab,Nankana Sahib
+PP-136,Sheikhupura-I,Hassaan Riaz,Pakistan Muslim League (N),Punjab,Sheikhupura
+PP-137,Sheikhupura-II,Khurram Ijaz Chattha,Sunni Ittehad Council,Punjab,Sheikhupura
+PP-138,Sheikhupura-III,Pir Muhammad Ashraf Rasool,Pakistan Muslim League (N),Punjab,Sheikhupura
+PP-139,Sheikhupura-IV,Rana Tahir Iqbal,Pakistan Muslim League (N),Punjab,Sheikhupura
+PP-140,Sheikhupura-V,Muhammad Awais,Sunni Ittehad Council,Punjab,Sheikhupura
+PP-141,Sheikhupura-VI,Tayyab Rashid,Sunni Ittehad Council,Punjab,Sheikhupura
+PP-142,Sheikhupura-VII,Waqas Mahmood Maan,Sunni Ittehad Council,Punjab,Sheikhupura
+PP-143,Sheikhupura-VIII,Khan Sher Akbar Khan,Sunni Ittehad Council,Punjab,Sheikhupura
+PP-144,Sheikhupura-IX,Muhammad Sarfraz Dogar,Sunni Ittehad Council,Punjab,Sheikhupura
+PP-145,Lahore-I,Sami Ullah Khan,Pakistan Muslim League (N),Punjab,Lahore
+PP-146,Lahore-II,Ghazali Saleem Butt,Pakistan Muslim League (N),Punjab,Lahore
+PP-147,Lahore-III,Muhammad Riaz Malik,Pakistan Muslim League (N),Punjab,Lahore
+PP-148,Lahore-IV,Mian Mujtaba Shuja-ur-Rehman,Pakistan Muslim League (N),Punjab,Lahore
+PP-149,Lahore-V,Muhammad Shoaib Siddiqui,Istehkam-e-Pakistan Party,Punjab,Lahore
+PP-150,Lahore-VI,Khawaja Imran Nazir,Pakistan Muslim League (N),Punjab,Lahore
+PP-151,Lahore-VII,Sohail Shaukat Butt,Pakistan Muslim League (N),Punjab,Lahore
+PP-152,Lahore-VIII,Malik Muhammad Waheed,Pakistan Muslim League (N),Punjab,Lahore
+PP-153,Lahore-IX,Khawaja Salman Rafique,Pakistan Muslim League (N),Punjab,Lahore
+PP-154,Lahore-X,Malik Ghulam Habib Awan,Pakistan Muslim League (N),Punjab,Lahore
+PP-155,Lahore-XI,Imtiaz Mehmood,Sunni Ittehad Council,Punjab,Lahore
+PP-156,Lahore-XII,Ali Imtiaz,Sunni Ittehad Council,Punjab,Lahore
+PP-157,Lahore-XIII,Hafiz Farhat Abbas,Sunni Ittehad Council,Punjab,Lahore
+PP-158,Lahore-XIV,Chaudhary Muhammad Nawaz Ladhar,Pakistan Muslim League (N),Punjab,Lahore
+PP-159,Lahore-XV,Maryam Nawaz,Pakistan Muslim League (N),Punjab,Lahore
+PP-160,Lahore-XVI,Malik Asad Ali Khokhar,Pakistan Muslim League (Z),Punjab,Lahore
+PP-161,Lahore-XVII,Farrukh Javaid,Sunni Ittehad Council,Punjab,Lahore
+PP-162,Lahore-XVIII,Shahbaz Ali Khokhar,Pakistan Muslim League (N),Punjab,Lahore
+PP-163,Lahore-XIX,Imran Javed,Pakistan Muslim League (N),Punjab,Lahore
+PP-164,Lahore-XX,Rana Rashid Minhas,Pakistan Muslim League (N),Punjab,Lahore
+PP-165,Lahore-XXI,Ahmer Rasheed Bhatti,Sunni Ittehad Council,Punjab,Lahore
+PP-166,Lahore-XXII,Muhammad Anas Mehmood,Pakistan Muslim League (N),Punjab,Lahore
+PP-167,Lahore-XXIII,Irfan Shafi Khokhar,Pakistan Muslim League (N),Punjab,Lahore
+PP-168,Lahore-XXIV,Faisal Ayub Khokhar,Pakistan Muslim League (N),Punjab,Lahore
+PP-169,Lahore-XXV,Malik Khalid Pervaz Khokhar,Pakistan Muslim League (N),Punjab,Lahore
+PP-170,Lahore-XXVI,Mian Muhammad Haroon Akbar,Sunni Ittehad Council,Punjab,Lahore
+PP-171,Lahore-XXVII,Mian Aslam Iqbal,Sunni Ittehad Council,Punjab,Lahore
+PP-172,Lahore-XXVIII,Misbah Wajid,Sunni Ittehad Council,Punjab,Lahore
+PP-173,Lahore-XXIX,Mian Marghoob Ahmad,Pakistan Muslim League (N),Punjab,Lahore
+PP-174,Lahore-XXX,Bilal Yasin,Pakistan Muslim League (N),Punjab,Lahore
+PP-175,Kasur-I,Rashid Tufail,Sunni Ittehad Council,Punjab,Kasur
+PP-176,Kasur-II,Muhammad Ilyas Khan,Pakistan Muslim League (N),Punjab,Kasur
+PP-177,Kasur-III,Muhammad Naeem Safdar Ansari,Pakistan Muslim League (N),Punjab,Kasur
+PP-178,Kasur-IV,Malik Ahmad Saeed Khan,Pakistan Muslim League (N),Punjab,Kasur
+PP-179,Kasur-V,Malik Ahmad Khan,Pakistan Muslim League (N),Punjab,Kasur
+PP-180,Kasur-VI,Ahsan Raza Khan,Pakistan Muslim League (N),Punjab,Kasur
+PP-181,Kasur-VII,Mian Humble Sana Kareemi,Sunni Ittehad Council,Punjab,Kasur
+PP-182,Kasur-VIII,Mehmood Anwar,Pakistan Muslim League (N),Punjab,Kasur
+PP-183,Kasur-IX,Rana Sikandar Hayat,Pakistan Muslim League (N),Punjab,Kasur
+PP-184,Kasur-X,Rana Muhammad Iqbal Khan,Pakistan Muslim League (N),Punjab,Kasur
+PP-185,Okara-I,Javaid Alla-ud-Din Sajid,Pakistan Muslim League (N),Punjab,Okara
+PP-186,Okara-II,Ashiq Husain Khan,Pakistan Muslim League (N),Punjab,Okara
+PP-187,Okara-III,Chaudry Iftikhar Hussain Chachar,Pakistan Muslim League (N),Punjab,Okara
+PP-188,Okara-IV,Noor Ul Amin Wattoo,Pakistan Muslim League (N),Punjab,Okara
+PP-189,Okara-V,Malik Ali Abbas Khokhar,Pakistan Muslim League (N),Punjab,Okara
+PP-190,Okara-VI,Mian Yawar Zaman,Pakistan Muslim League (N),Punjab,Okara
+PP-191,Okara-VII,Mian Muhammad Munir,Pakistan Muslim League (N),Punjab,Okara
+PP-192,Okara-VIII,Ghulam Raza,Pakistan Muslim League (N),Punjab,Okara
+PP-193,Pakpattan-I,Farooq Ahmad Khan Maneka,Pakistan Muslim League (N),Punjab,Pakpattan
+PP-194,Pakpattan-II,Chaudhry Javed Ahmad,Pakistan Muslim League (N),Punjab,Pakpattan
+PP-195,Pakpattan-III,Imran Akram,Pakistan Muslim League (N),Punjab,Pakpattan
+PP-196,Pakpattan-IV,Farrukh Javed,Pakistan Muslim League (N),Punjab,Pakpattan
+PP-197,Pakpattan-V,Sardar Mansab Ali Dogar,Istehkam-e-Pakistan Party,Punjab,Pakpattan
+PP-198,Sahiwal-I,Walayat Shah Khagga,Pakistan Muslim League (N),Punjab,Sahiwal
+PP-199,Sahiwal-II,Qasim Nadeem,Pakistan Muslim League (N),Punjab,Sahiwal
+PP-200,Sahiwal-III,Muhammad Arshad Malik,Pakistan Muslim League (N),Punjab,Sahiwal
+PP-201,Sahiwal-IV,Naveed Aslam Khan Lodhi,Pakistan Muslim League (N),Punjab,Sahiwal
+PP-202,Sahiwal-V,Rana Riaz Ahmad,Pakistan Muslim League (N),Punjab,Sahiwal
+PP-203,Sahiwal-VI,Chaudhry Muhammad Hanif,Pakistan Muslim League (N),Punjab,Sahiwal
+PP-204,Sahiwal-VII,Muhammad Ghulam Sarwar,Sunni Ittehad Council,Punjab,Sahiwal
+PP-205,Khanewal-I,Muhammad Akbar Hayat Hiraj,Pakistan People’s Party,Punjab,Khanewal
+PP-206,Khanewal-II,Chaudhary Usama Fazal,Pakistan Muslim League (N),Punjab,Khanewal
+PP-207,Khanewal-III,Amir Hayat Hiraj,Pakistan Muslim League (N),Punjab,Khanewal
+PP-208,Khanewal-IV,Rana Babar Hussain Abid,Pakistan Muslim League (N),Punjab,Khanewal
+PP-209,Khanewal-V,Chaudhry Zia Ur Rehman,Pakistan Muslim League (N),Punjab,Khanewal
+PP-210,Khanewal-VI,Khalid Javed,Sunni Ittehad Council,Punjab,Khanewal
+PP-211,Khanewal-VII,Rana Muhammad Saleem,Pakistan Muslim League (N),Punjab,Khanewal
+PP-212,Khanewal-VIII,Asghar Hayat,Pakistan Muslim League (N),Punjab,Khanewal
+PP-213,Multan-I,Ali Haider Gillani,Pakistan People's Party,Punjab,Multan
+PP-214,Multan-II,Nawabzada Waseem Khan Badozai,Sunni Ittehad Council,Punjab,Multan
+PP-215,Multan-III,Muhammad Moeen Ud Din Riaz,Sunni Ittehad Council,Punjab,Multan
+PP-216,Multan-IV,Muhammad Adnan Dogar,Sunni Ittehad Council,Punjab,Multan
+PP-217,Multan-V,Muhammad Nadeem Qureshi,Sunni Ittehad Council,Punjab,Multan
+PP-218,Multan-VI,Muhammad Salman Naeem,Pakistan Muslim League (Z),Punjab,Multan
+PP-219,Multan-VII,Malik Wasif Mazhar Raan,Istehkam-e-Pakistan Party,Punjab,Multan
+PP-220,Multan-VIII,Muhammad Iqbal,Pakistan People's Party,Punjab,Multan
+PP-221,Multan-IX,Mian Kamran Muhammad Abdullah,Pakistan People's Party,Punjab,Multan
+PP-222,Multan-X,Ayaz Ahmed,Sunni Ittehad Council,Punjab,Multan
+PP-223,Multan-XI,Muhammad Nazik Kareem,Pakistan Muslim League (N),Punjab,Multan
+PP-224,Multan-XII,Malik Lal Muhammad,Pakistan Muslim League (N),Punjab,Multan
+PP-225,Lodhran-I,Shazia Hayyat,Pakistan Muslim League (N),Punjab,Lodhran
+PP-226,Lodhran-II,Razi Ullah Khan,Sunni Ittehad Council,Punjab,Lodhran
+PP-227,Lodhran-III,Muhammad Zubair Khan Baloch,Pakistan Muslim League (N),Punjab,Lodhran
+PP-228,Lodhran-IV,Izzat Javaid Khan,Sunni Ittehad Council,Punjab,Lodhran
+PP-229,Vehari-I,Chaudhry Muhammad Yousaf Kaselya,Pakistan Muslim League (N),Punjab,Vehari
+PP-230,Vehari-II,Salman Shahid,Sunni Ittehad Council,Punjab,Vehari
+PP-231,Vehari-III,Khalid Zubair Nisar,Sunni Ittehad Council,Punjab,Vehari
+PP-232,Vehari-IV,Malik Nosher Khan Anjam Lungerial,Pakistan Muslim League (N),Punjab,Vehari
+PP-233,Vehari-V,Mian Muhammad Saqib Khurshid,Pakistan Muslim League (N),Punjab,Vehari
+PP-234,Vehari-VI,Muhammad Naeem Akhtar Khan Bhabha,Pakistan Muslim League (N),Punjab,Vehari
+PP-235,Vehari-VII,Muhammad Jahanzaib Khan Khichi,Sunni Ittehad Council,Punjab,Vehari
+PP-236,Vehari-VIII,Muhammad Ali Raza Khan Khakwani,Sunni Ittehad Council,Punjab,Vehari
+PP-237,Bahawalnagar-I,Mian Fida Hussain Wattoo,Pakistan Muslim League (N),Punjab,Bahawalnagar
+PP-238,Bahawalnagar-II,Inam Bari,Pakistan People's Party,Punjab,Bahawalnagar
+PP-239,Bahawalnagar-III,Muhammad Atif Aurangzeb,Sunni Ittehad Council,Punjab,Bahawalnagar
+PP-240,Bahawalnagar-IV,Muhammad Sohail Khan Zahid,Pakistan Muslim League (N),Punjab,Bahawalnagar
+PP-241,Bahawalnagar-V,Chaudhry Ghulam Murtaza,Pakistan Muslim League (Z),Punjab,Bahawalnagar
+PP-242,Bahawalnagar-VI,Kashif Naveed,Pakistan Muslim League (N),Punjab,Bahawalnagar
+PP-243,Bahawalnagar-VII,Chaudhry Zahid Akram,Pakistan Muslim League (N),Punjab,Bahawalnagar
+PP-244,Bahawalnagar-VIII,Suryia Sultana,Sunni Ittehad Council,Punjab,Bahawalnagar
+PP-245,Bahawalpur-I,Kazim Ali Pirzada,Pakistan Muslim League (N),Punjab,Bahawalpur
+PP-246,Bahawalpur-II,Farzana Khalil,Sunni Ittehad Council,Punjab,Bahawalpur
+PP-247,Bahawalpur-III,Chaudhry Khalid Mehmood Jajja,Pakistan Muslim League (N),Punjab,Bahawalpur
+PP-248,Bahawalpur-IV,Hassan Askari Sheikh,Pakistan Muslim League (Q),Punjab,Bahawalpur
+PP-249,Bahawalpur-V,Sahibzada Gazain Abbasi,Istehkam-e-Pakistan Party,Punjab,Bahawalpur
+PP-250,Bahawalpur-VI,Syed Amir Ali Shah,Pakistan People's Party,Punjab,Bahawalpur
+PP-251,Bahawalpur-VII,Malik Khalid Mehmood Babar,Pakistan Muslim League (N),Punjab,Bahawalpur
+PP-252,Bahawalpur-VIII,Mian Muhammad Shoaib Awaisi,Pakistan Muslim League (N),Punjab,Bahawalpur
+PP-253,Bahawalpur-IX,Zaheer Iqbal Channar,Pakistan Muslim League (N),Punjab,Bahawalpur
+PP-254,Bahawalpur-X,Rana Muhammad Tariq Khan,Pakistan Muslim League (N),Punjab,Bahawalpur
+PP-255,Rahim Yar Khan-I,Ghazanfar Ali Khan,Pakistan People's Party,Punjab,Rahim Yar Khan
+PP-256,Rahim Yar Khan-II,Qazi Ahmad Saeed,Pakistan People's Party,Punjab,Rahim Yar Khan
+PP-257,Rahim Yar Khan-III,Chaudhry Mahmood Ahmed,Pakistan Muslim League (N),Punjab,Rahim Yar Khan
+PP-258,Rahim Yar Khan-IV,Muhammad Ejaz Shafi,Sunni Ittehad Council,Punjab,Rahim Yar Khan
+PP-259,Rahim Yar Khan-V,Faisal Jamil,Istehkam-e-Pakistan Party,Punjab,Rahim Yar Khan
+PP-260,Rahim Yar Khan-VI,Saima Kanwal,Sunni Ittehad Council,Punjab,Rahim Yar Khan
+PP-261,Rahim Yar Khan-VII,Jam Aman Ullah,Sunni Ittehad Council,Punjab,Rahim Yar Khan
+PP-262,Rahim Yar Khan-VIII,Chaudhry Asif Majeed,Sunni Ittehad Council,Punjab,Rahim Yar Khan
+PP-263,Rahim Yar Khan-IX,Chaudhary Naeem Shafiq,Sunni Ittehad Council,Punjab,Rahim Yar Khan
+PP-264,Rahim Yar Khan-X,Sardar Habib Ur Rehman Khan,Pakistan People's Party,Punjab,Rahim Yar Khan
+PP-265,Rahim Yar Khan-XI,Sajjad Ahmad,Sunni Ittehad Council,Punjab,Rahim Yar Khan
+PP-266,Rahim Yar Khan-XII,Mumtaz Ali Khan Chang,Pakistan People's Party,Punjab,Rahim Yar Khan
+PP-267,Rahim Yar Khan-XIII,Rais Nabeel Ahmad,Pakistan People's Party,Punjab,Rahim Yar Khan
+PP-268,Muzaffargarh-I,Muhammad Ajmal Khan Chandia,Pakistan Muslim League (N),Punjab,Muzaffargarh
+PP-269,Muzaffargarh-II,Mian Alamdar Abbas Qureshi,Pakistan People's Party,Punjab,Muzaffargarh
+PP-270,Muzaffargarh-III,Zahid Ismail Bhutta,Istehkam-e-Pakistan Party,Punjab,Muzaffargarh
+PP-271,Muzaffargarh-IV,Muhammad Aoon Hamid,Istehkam-e-Pakistan Party,Punjab,Muzaffargarh
+PP-272,Muzaffargarh-V,Rana Abdul Manan Sajid,Pakistan Muslim League (N),Punjab,Muzaffargarh
+PP-273,Muzaffargarh-VI,Daud Khan Jatoi,Sunni Ittehad Council,Punjab,Muzaffargarh
+PP-274,Muzaffargarh-VII,Syed Muhammad Sibtain Raza,Istehkam-e-Pakistan Party,Punjab,Muzaffargarh
+PP-275,Muzaffargarh-VIII,Nawab Khan Gopang,Pakistan Muslim League (N),Punjab,Muzaffargarh
+PP-276,Kot Addu-I,Rana Aurangzaib,Sunni Ittehad Council,Punjab,Kot Addu
+PP-277,Kot Addu-II,Nadia Khar,Sunni Ittehad Council,Punjab,Kot Addu
+PP-278,Kot Addu-III,Muhammad Ahsan Ali,Sunni Ittehad Council,Punjab,Kot Addu
+PP-279,Layyah-I,Muhammad Athar Maqbool,Sunni Ittehad Council,Punjab,Layyah
+PP-280,Layyah-II,Sardar Shahab-ud-Din Khan,Sunni Ittehad Council,Punjab,Layyah
+PP-281,Layyah-III,Shoaib Ameer,Sunni Ittehad Council,Punjab,Layyah
+PP-282,Layyah-IV,Usama Asghar Ali Gujjar,Sunni Ittehad Council,Punjab,Layyah
+PP-283,Layyah-V,Ghulam Asghar Khan,Pakistan Muslim League (N),Punjab,Layyah
+PP-284,Tonsa-I,Muhammad Tahir,Istehkam-e-Pakistan Party,Punjab,Tonsa
+PP-285,Tonsa-II,Khawaja Salah Ud Din Akbar,Sunni Ittehad Council,Punjab,Tonsa
+PP-286,Dera Ghazi Khan-I,Salah Ud Din Khan,Pakistan Muslim League (N),Punjab,Dera Ghazi Khan
+PP-287,Dera Ghazi Khan-II,Usama Leghari,Pakistan Muslim League (N),Punjab,Dera Ghazi Khan
+PP-288,Dera Ghazi Khan-III,Hanif Khan Pitafi,Pakistan People’s Party,Punjab,Dera Ghazi Khan
+PP-289,Dera Ghazi Khan-IV,Muhammad Taufeeq Butt,Pakistan Muslim League (N),Punjab,Dera Ghazi Khan
+PP-290,Dera Ghazi Khan-V,Sardar Ali Ahmed Khan Leghari,Pakistan Muslim League (N),Punjab,Dera Ghazi Khan
+PP-291,Dera Ghazi Khan-VI,Muhammad Ahmad Khan Leghari,Pakistan Muslim League (N),Punjab,Dera Ghazi Khan
+PP-292,Rajanpur-I,Sardar Sher Afgan Gorchani,Pakistan Muslim League (N),Punjab,Rajanpur
+PP-293,Rajanpur-II,Sardar Sher Ali Gorchani,Pakistan Muslim League (N),Punjab,Rajanpur
+PP-294,Rajanpur-III,Sardar Pervaz Iqbal Gorchani,Pakistan Muslim League (N),Punjab,Rajanpur
+PP-295,Rajanpur-IV,Abdul Aziz Khan Dreshak,Pakistan Muslim League (N),Punjab,Rajanpur
+PP-296,Rajanpur-V,Awais Dareshak,Istehkam-e-Pakistan Party,Punjab,Rajanpur
+PP-297,Rajanpur-VI,Khizer Hussain Mazari,Pakistan Muslim League (N),Punjab,Rajanpur
+PS-1,Jacobabad-I,Sher Muhammad Khan Mugheri,PPP,Sindh,Jacobabad
+PS-2,Jacobabad-II,Sohrab Khan Sarki,PPP,Sindh,Jacobabad
+PS-3,Jacobabad-III,Mumtaz Hussain Khan,PPP,Sindh,Jacobabad
+PS-4,Kashmore-I,Abdul Rauf Khoso,PPP,Sindh,Kashmore
+PS-5,Kashmore-II,Ghulam Abid Khan,PPP,Sindh,Kashmore
+PS-6,Kashmore-III,Mir Mehboob Ali Khan Bijarani,PPP,Sindh,Kashmore
+PS-7,Shikarpur-I,Imtiaz Ahmed Shaikh,PPP,Sindh,Shikarpur
+PS-8,Shikarpur-II,Muhammad Arif Khan Mahar,PPP,Sindh,Shikarpur
+PS-9,Shikarpur-III,Vacant,,Sindh,Shikarpur
+PS-10,Larkana-I,Faryal Talpur,PPP,Sindh,Larkana
+PS-11,Larkana-II,Jameel Ahmed Soomro,PPP,Sindh,Larkana
+PS-12,Larkana-III,Sohail Anwar Siyal,PPP,Sindh,Larkana
+PS-13,Larkana-IV,Adil Altaf Unnar,PPP,Sindh,Larkana
+PS-14,Qambar Shahdadkot-I,Mir Nadir Ali Khan Magsi,PPP,Sindh,Qambar Shahdadkot
+PS-15,Qambar Shahdadkot-II,Nisar Khuhro,PPP,Sindh,Qambar Shahdadkot
+PS-16,Qambar Shahdadkot-III,Nawab Ghaibi Sardar Khan Chandio,PPP,Sindh,Qambar Shahdadkot
+PS-17,Qambar Shahdadkot-IV,Burhan Chandio,PPP,Sindh,Qambar Shahdadkot
+PS-18,Ghotki-I,Jam Mehtab Hussain Dahar,PPP,Sindh,Ghotki
+PS-19,Ghotki-II,Sardar Nadir Akmal Khan Leghari,PPP,Sindh,Ghotki
+PS-20,Ghotki-III,Sardar Muhammad Bakhsh Khan Mahar,PPP,Sindh,Ghotki
+PS-21,Ghotki-IV,Ali Nawaz Khan Mahar,PPP,Sindh,Ghotki
+PS-22,Sukkur-I,Ikramullah Khan Dharejo,PPP,Sindh,Sukkur
+PS-23,Sukkur-II,Awais Qadir Shah,PPP,Sindh,Sukkur
+PS-24,Sukkur-III,Syed Farukh Ahmed Shah,PPP,Sindh,Sukkur
+PS-25,Sukkur-IV,Nasir Hussain Shah,PPP,Sindh,Sukkur
+PS-26,Khairpur-I,Syed Qaim Ali Shah,PPP,Sindh,Khairpur
+PS-27,Khairpur-II,Hallar Wassan,PPP,Sindh,Khairpur
+PS-28,Khairpur-III,Sajid Ali Banbhan,PPP,Sindh,Khairpur
+PS-29,Khairpur-IV,Shiraz Shaukat Rajpar,PPP,Sindh,Khairpur
+PS-30,Khairpur-V,Naeem Ahmed Kharal,PPP,Sindh,Khairpur
+PS-31,Khairpur-VI,Muhammad Rashid Shah,GDA,Sindh,Khairpur
+PS-32,Naushahro Feroze-I,Syed Serfraz Hussain Shah,PPP,Sindh,Naushahro Feroze
+PS-33,Naushahro Feroze-II,Syed Hassan Ali Shah,PPP,Sindh,Naushahro Feroze
+PS-34,Naushahro Feroze-III,Mumtaz Ali Chandio,PPP,Sindh,Naushahro Feroze
+PS-35,Naushahro Feroze-IV,Zia Ul Hassan Lanjar,PPP,Sindh,Naushahro Feroze
+PS-36,Shaheed Benazirabad-I,Azra Fazal Pechuho,PPP,Sindh,Shaheed Benazirabad
+PS-37,Shaheed Benazirabad-II,Chaudhary Javed Iqbal Arain,PPP,Sindh,Shaheed Benazirabad
+PS-38,Shaheed Benazirabad-III,Ghulam Qadir Chandio,PPP,Sindh,Shaheed Benazirabad
+PS-39,Shaheed Benazirabad-IV,Bahadur Khan Dahri,PPP,Sindh,Shaheed Benazirabad
+PS-40,Sanghar-I,Ghulam Dastageer Rajar,GDA,Sindh,Sanghar
+PS-41,Sanghar-II,Ali Hassan Hingorjo,PPP,Sindh,Sanghar
+PS-42,Sanghar-III,Jam Shabbir Ali Khan,GDA,Sindh,Sanghar
+PS-43,Sanghar-IV,Sardar Paras Dero,PPP,Sindh,Sanghar
+PS-44,Sanghar-V,Shahid Abdul Salam Thahim,PPP,Sindh,Sanghar
+PS-45,Mirpur Khas-I,Hari Ram,PPP,Sindh,Mirpur Khas
+PS-46,Mirpur Khas-II,Syed Zulfiqar Ali Shah,PPP,Sindh,Mirpur Khas
+PS-47,Mirpur Khas-III,Noor Ahmed Bhurgri,PPP,Sindh,Mirpur Khas
+PS-48,Mirpur Khas-IV,Mir Tariq Ali Khan Talpur,PPP,Sindh,Mirpur Khas
+PS-49,Umerkot-I,Syed Sardar Ali Shah,PPP,Sindh,Umerkot
+PS-50,Umerkot-II,Syed Ameer Ali Shah,PPP,Sindh,Umerkot
+PS-51,Umerkot-III,Nawab Muhammad Taimur Talpur,PPP,Sindh,Umerkot
+PS-52,Tharparkar-I,Dost Muhammad Rahimoon,PPP,Sindh,Tharparkar
+PS-53,Tharparkar-II,Muhammad Qasim Soomro,PPP,Sindh,Tharparkar
+PS-54,Tharparkar-III,Fakeer Sher Muhammad Bilalani,PPP,Sindh,Tharparkar
+PS-55,Tharparkar-IV,Arbab Lutfullah,PPP,Sindh,Tharparkar
+PS-56,Matiari-I,Makhdoom Mehboob Zaman,PPP,Sindh,Matiari
+PS-57,Matiari-II,Makhdoom Fakhar Zaman,PPP,Sindh,Matiari
+PS-58,Tando Allahyar-I,Syed Zia Abbas Shah,PPP,Sindh,Tando Allahyar
+PS-59,Tando Allahyar-II,Imdad Ali Pitafi,PPP,Sindh,Tando Allahyar
+PS-60,Hyderabad-I,Jam Khan Shoro,PPP,Sindh,Hyderabad
+PS-61,Hyderabad-II,Sharjeel Memon,PPP,Sindh,Hyderabad
+PS-62,Hyderabad-III,Sabir Hussain Qaimkhani,MQM-P,Sindh,Hyderabad
+PS-63,Hyderabad-IV,Rehan Rajpoot,SIC,Sindh,Hyderabad
+PS-64,Hyderabad-V,Muhammad Rashid Khan,MQM-P,Sindh,Hyderabad
+PS-65,Hyderabad-VI,Nasir Hussain Qureshi,MQM-P,Sindh,Hyderabad
+PS-66,Tando Muhammad Khan-I,Syed Aijaz Hussain Shah,PPP,Sindh,Tando Muhammad Khan
+PS-67,Tando Muhammad Khan-II,Khurram Karim Soomro,PPP,Sindh,Tando Muhammad Khan
+PS-68,Badin-I,Muhammad Halepoto,PPP,Sindh,Badin
+PS-69,Badin-II,Allah Bux Talpur,PPP,Sindh,Badin
+PS-70,Badin-III,Sardar Arbab Ameer Amanullah Khan,PPP,Sindh,Badin
+PS-71,Badin-IV,Taj Muhammad Mallah,PPP,Sindh,Badin
+PS-72,Badin-V,Ismail Rahoo,PPP,Sindh,Badin
+PS-73,Sujawal-I,Shah Hussain Shah Sheerazi,PPP,Sindh,Sujawal
+PS-74,Sujawal-II,Muhammad Ali Malkani,PPP,Sindh,Sujawal
+PS-75,Thatta-I,Riaz Hussain Shah Sheerazi,PPP,Sindh,Thatta
+PS-76,Thatta-II,Ali Hassan Zardari,PPP,Sindh,Thatta
+PS-77,Jamshoro-I,Murad Ali Shah,PPP,Sindh,Jamshoro
+PS-78,Jamshoro-II,Sikandar Ali Shoro,PPP,Sindh,Jamshoro
+PS-79,Jamshoro-III,Malik Sikandar Khan,PPP,Sindh,Jamshoro
+PS-80,Dadu-I,Zubair Ahmed Junejo,PPP,Sindh,Dadu
+PS-81,Dadu-II,Fayaz Ali Butt,PPP,Sindh,Dadu
+PS-82,Dadu-III,Pir Mujeeb ul Haq,PPP,Sindh,Dadu
+PS-83,Dadu-IV,Pir Saleh Shah Jeelani,PPP,Sindh,Dadu
+PS-84,Karachi Malir-I,Muhammad Yousuf Murtaza Baloch,PPP,Sindh,Karachi Malir
+PS-85,Karachi Malir-II,Muhammad Sajid Jokhio,PPP,Sindh,Karachi Malir
+PS-86,Karachi Malir-III,Abdul Razak Raja,PPP,Sindh,Karachi Malir
+PS-87,Karachi Malir-IV,Mehmood Alam Jamot,PPP,Sindh,Karachi Malir
+PS-88,Karachi Malir-V,Ajaz Khan Swati,PPP,Sindh,Karachi Malir
+PS-89,Karachi Malir-VI,Muhammad Saleem Baloch,PPP,Sindh,Karachi Malir
+PS-90,Karachi Korangi-I,Syed Shariq Jamal,MQM-P,Sindh,Karachi Korangi
+PS-91,Karachi Korangi-II,Muhammad Farooq Farhan,JIP,Sindh,Karachi Korangi
+PS-92,Karachi Korangi-III,Wajid Hussain Khan,SIC,Sindh,Karachi Korangi
+PS-93,Karachi Korangi-IV,Sajid Hussain Mir,SIC,Sindh,Karachi Korangi
+PS-94,Karachi Korangi-V,Najam Mirza,MQM-P,Sindh,Karachi Korangi
+PS-95,Karachi Korangi-VI,Muhammad Farooq Awan,PPP,Sindh,Karachi Korangi
+PS-96,Karachi Korangi-VII,Muhammad Owais,SIC,Sindh,Karachi Korangi
+PS-97,Karachi East-I,Rana Shoukat Ali,MQM-P,Sindh,Karachi East
+PS-98,Karachi East-II,Arsalan Perwaiz Siddiqui,MQM-P,Sindh,Karachi East
+PS-99,Karachi East-III,Syed Farhan Ansari,MQM-P,Sindh,Karachi East
+PS-100,Karachi East-IV,Syed Muhammad Usman,MQM-P,Sindh,Karachi East
+PS-101,Karachi East-V,Moeed Anwar,MQM-P,Sindh,Karachi East
+PS-102,Karachi East-VI,Muhammad Aamir Siddiqui,MQM-P,Sindh,Karachi East
+PS-103,Karachi East-VII,Faisal Rafiq,MQM-P,Sindh,Karachi East
+PS-104,Karachi East-VIII,Muhammad Daniyal,MQM-P,Sindh,Karachi East
+PS-105,Karachi East-IX,Saeed Ghani,PPP,Sindh,Karachi East
+PS-106,Karachi South-I,Sajjad Ali Soomro,SIC,Sindh,Karachi South
+PS-107,Karachi South-II,Muhammad Yousuf Baloch,PPP,Sindh,Karachi South
+PS-108,Karachi South-III,Muhammad Dilawar,MQM-P,Sindh,Karachi South
+PS-109,Karachi South-IV,Bilal Hussain Khan Jadoon,SIC,Sindh,Karachi South
+PS-110,Karachi South-V,Rehan Bandukda,SIC,Sindh,Karachi South
+PS-111,Karachi Keamari-I,Liaquat Ali Askani,PPP,Sindh,Karachi Keamari
+PS-112,Karachi Keamari-II,Asif Moosa[3],PPP,Sindh,Karachi Keamari
+PS-113,Karachi Keamari-III,Faheem Ahmed Patni,MQM-P,Sindh,Karachi Keamari
+PS-114,Karachi Keamari-IV,Muhammad Shabbir Qureshi,SIC,Sindh,Karachi Keamari
+PS-115,Karachi Keamari-V,Muhammad Asif Khan,PPP,Sindh,Karachi Keamari
+PS-116,Karachi West-I,Ali Ahmed Jan,PPP,Sindh,Karachi West
+PS-117,Karachi West-II,Sheikh Abdullah,MQM-P,Sindh,Karachi West
+PS-118,Karachi West-III,Naseer Ahmed,MQM-P,Sindh,Karachi West
+PS-119,Karachi West-IV,Ali Khursheedi,MQM-P,Sindh,Karachi West
+PS-120,Karachi West-V,Mazahir Amir Khan,MQM-P,Sindh,Karachi West
+PS-121,Karachi West-VI,Syed Ejaz Ul Haque,MQM-P,Sindh,Karachi West
+PS-122,Karachi Central-I,Rehan (politician),MQM-P,Sindh,Karachi Central
+PS-123,Karachi Central-II,Abdul Waseem,MQM-P,Sindh,Karachi Central
+PS-124,Karachi Central-III,Abdul Basit,MQM-P,Sindh,Karachi Central
+PS-125,Karachi Central-IV,Syed Adil Askari,MQM-P,Sindh,Karachi Central
+PS-126,Karachi Central-V,Iftikhar Alam,MQM-P,Sindh,Karachi Central
+PS-127,Karachi Central-VI,Muhammad Maaz Mehboob,MQM-P,Sindh,Karachi Central
+PS-128,Karachi Central-VII,Taha Ahmed Khan,MQM-P,Sindh,Karachi Central
+PS-129,Karachi Central-VIII,Maaz Mukaddam,MQM-P,Sindh,Karachi Central
+PS-130,Karachi Central-IX,Jamal Ahmed,MQM-P,Sindh,Karachi Central
+PK-1,Upper Chitral,Suraya Bibi,SIC,Khyber Pakhtunkhwa,Upper Chitral
+PK-2,Lower Chitral,Fateh-ul-Mulk Ali Nasir,SIC,Khyber Pakhtunkhwa,Lower Chitral
+PK-3,Swat-I,Sharafat Ali,SIC,Khyber Pakhtunkhwa,Swat
+PK-4,Swat-II,Ali Shah,SIC,Khyber Pakhtunkhwa,Swat
+PK-5,Swat-III,Akhtar Khan,SIC,Khyber Pakhtunkhwa,Swat
+PK-6,Swat-IV,Fazal Hakim,SIC,Khyber Pakhtunkhwa,Swat
+PK-7,Swat-V,Amjad Ali,SIC,Khyber Pakhtunkhwa,Swat
+PK-8,Swat-VI,Hamid Ur Rahman,SIC,Khyber Pakhtunkhwa,Swat
+PK-9,Swat-VII,Sultan e Rum,SIC,Khyber Pakhtunkhwa,Swat
+PK-10,Swat-VIII,Muhammad Naeem Khan,SIC,Khyber Pakhtunkhwa,Swat
+PK-11,Upper Dir-I,Gul Ibrahim Khan,SIC,Khyber Pakhtunkhwa,Upper Dir
+PK-12,Upper Dir-II,Muhammad Yamin,SIC,Khyber Pakhtunkhwa,Upper Dir
+PK-13,Upper Dir-III,Muhammad Anwar Khan,SIC,Khyber Pakhtunkhwa,Upper Dir
+PK-14,Lower Dir-I,Muhammad Azam Khan,SIC,Khyber Pakhtunkhwa,Lower Dir
+PK-15,Lower Dir-II,Hamayun Khan,SIC,Khyber Pakhtunkhwa,Lower Dir
+PK-16,Lower Dir-III,Shafi Ullah,SIC,Khyber Pakhtunkhwa,Lower Dir
+PK-17,Lower Dir-IV,Ubaidur Rahman,SIC,Khyber Pakhtunkhwa,Lower Dir
+PK-18,Lower Dir-V,Liaqat Ali Khan,SIC,Khyber Pakhtunkhwa,Lower Dir
+PK-19,Bajaur-I,Hamid Ur Rehman,SIC,Khyber Pakhtunkhwa,Bajaur
+PK-20,Bajaur-II,Anwar Zeb Khan,SIC,Khyber Pakhtunkhwa,Bajaur
+PK-21,Bajaur-III,Ajmal Khan,SIC,Khyber Pakhtunkhwa,Bajaur
+PK-22,Bajaur-IV,Nisar Baaz,ANP,Khyber Pakhtunkhwa,Bajaur
+PK-23,Malakand-I,Shakeel Ahmad,SIC,Khyber Pakhtunkhwa,Malakand
+PK-24,Malakand-II,Musavir Khan,SIC,Khyber Pakhtunkhwa,Malakand
+PK-25,Buner-I,Riaz Khan,SIC,Khyber Pakhtunkhwa,Buner
+PK-26,Buner-II,Syed Fakhr e Jehan,SIC,Khyber Pakhtunkhwa,Buner
+PK-27,Buner-III,Abdul Kabir Khan,SIC,Khyber Pakhtunkhwa,Buner
+PK-28,Shangla-I,Muhammad Rashad Khan,PML(N),Khyber Pakhtunkhwa,Shangla
+PK-29,Shangla-II,Abdul Munim,SIC,Khyber Pakhtunkhwa,Shangla
+PK-30,Shangla-III,Ibadullah Khan,PML(N),Khyber Pakhtunkhwa,Shangla
+PK-31,Kohistan Upper,Fazal-e Haq,SIC,Khyber Pakhtunkhwa,Kohistan Upper
+PK-32,Kohistan Lower,Sajjad Ullah,JUI(F),Khyber Pakhtunkhwa,Kohistan Lower
+PK-33,Kolai Palas,Muhammad Riaz,SIC,Khyber Pakhtunkhwa,Kolai Palas
+PK-34,Battagram-I,Zubair Khan,SIC,Khyber Pakhtunkhwa,Battagram
+PK-35,Battagram-II,Taj Muhammad,SIC,Khyber Pakhtunkhwa,Battagram
+PK-36,Mansehra-I,Munir Hussain,SIC,Khyber Pakhtunkhwa,Mansehra
+PK-37,Mansehra-II,Babar Saleem Swati,SIC,Khyber Pakhtunkhwa,Mansehra
+PK-38,Mansehra-III,Zahid Chanzeb,SIC,Khyber Pakhtunkhwa,Mansehra
+PK-39,Mansehra-IV,Ikram Ullah,SIC,Khyber Pakhtunkhwa,Mansehra
+PK-40,Mansehra-V,Shahjahan Yousuf,PML(N),Khyber Pakhtunkhwa,Mansehra
+PK-41,Torghar,Laiq Muhammad Khan,SIC,Khyber Pakhtunkhwa,Torghar
+PK-42,Abbottabad-I,Nazir Ahmed Abbasi,SIC,Khyber Pakhtunkhwa,Abbottabad
+PK-43,Abbottabad-II,Rajab Ali Khan Abbasi,SIC,Khyber Pakhtunkhwa,Abbottabad
+PK-44,Abbottabad-III,Iftikhar Ahmad Khan Jadoon,SIC,Khyber Pakhtunkhwa,Abbottabad
+PK-45,Abbottabad-IV,Mushtaq Ahmed Ghani,SIC,Khyber Pakhtunkhwa,Abbottabad
+PK-46,Haripur-I,Akbar Ayub Khan,SIC,Khyber Pakhtunkhwa,Haripur
+PK-47,Haripur-II,Arshad Ayub Khan,SIC,Khyber Pakhtunkhwa,Haripur
+PK-48,Haripur-III,Malik Adeel Iqbal,SIC,Khyber Pakhtunkhwa,Haripur
+PK-49,Swabi-I,Rangez Ahmad,SIC,Khyber Pakhtunkhwa,Swabi
+PK-50,Swabi-II,Aqibullah Khan,SIC,Khyber Pakhtunkhwa,Swabi
+PK-51,Swabi-III,Abdul Kareem,SIC,Khyber Pakhtunkhwa,Swabi
+PK-52,Swabi-IV,Faisal Khan Tarakai,SIC,Khyber Pakhtunkhwa,Swabi
+PK-53,Swabi-V,Murtaza Khan Tarakai,SIC,Khyber Pakhtunkhwa,Swabi
+PK-54,Mardan-I,Zarshad Khan,SIC,Khyber Pakhtunkhwa,Mardan
+PK-55,Mardan-II,Tufail Anjum,SIC,Khyber Pakhtunkhwa,Mardan
+PK-56,Mardan-III,Amir Farzand Khan,SIC,Khyber Pakhtunkhwa,Mardan
+PK-57,Mardan-IV,Muhammad Zahir Shah,SIC,Khyber Pakhtunkhwa,Mardan
+PK-58,Mardan-V,Muhammad Abdul Salam,SIC,Khyber Pakhtunkhwa,Mardan
+PK-59,Mardan-VI,Tariq Mehmood Aryani,SIC,Khyber Pakhtunkhwa,Mardan
+PK-60,Mardan-VII,Iftikhar Ali Mushwani,SIC,Khyber Pakhtunkhwa,Mardan
+PK-61,Mardan-VIII,Ihtisham Ali,SIC,Khyber Pakhtunkhwa,Mardan
+PK-62,Charsadda-I,Khalid Khan,SIC,Khyber Pakhtunkhwa,Charsadda
+PK-63,Charsadda-II,Arshad Ali,SIC,Khyber Pakhtunkhwa,Charsadda
+PK-64,Charsadda-III,Iftikhar Ullah Jan,SIC,Khyber Pakhtunkhwa,Charsadda
+PK-65,Charsadda-IV,Fazle Shakoor Khan,SIC,Khyber Pakhtunkhwa,Charsadda
+PK-66,Charsadda-V,Mohammad Arif,SIC,Khyber Pakhtunkhwa,Charsadda
+PK-67,Mohmand-I,Mehboob Sher,SIC,Khyber Pakhtunkhwa,Mohmand
+PK-68,Mohmand-II,Muhammad Israr,SIC,Khyber Pakhtunkhwa,Mohmand
+PK-69,Khyber-I,Muhammad Adnan Qadri,SIC,Khyber Pakhtunkhwa,Khyber
+PK-70,Khyber-II,Muhammad Sohail Afridi,SIC,Khyber Pakhtunkhwa,Khyber
+PK-71,Khyber-III,Abdul Ghani,SIC,Khyber Pakhtunkhwa,Khyber
+PK-72,Peshawar-I,Kiramat Ullah Khan,PPP,Khyber Pakhtunkhwa,Peshawar
+PK-73,Peshawar-II,Arbab Muhammad Wasim Khan,PTI-P,Khyber Pakhtunkhwa,Peshawar
+PK-74,Peshawar-III,Ijaz Muhammad,JUI(F),Khyber Pakhtunkhwa,Peshawar
+PK-75,Peshawar-IV,Arbab Muhammad Usman Khan,ANP,Khyber Pakhtunkhwa,Peshawar
+PK-76,Peshawar-V,Samiullah Khan,SIC,Khyber Pakhtunkhwa,Peshawar
+PK-77,Peshawar-VI,Sher Ali Afridi,SIC,Khyber Pakhtunkhwa,Peshawar
+PK-78,Peshawar-VII,Zahir Khan,PML(N),Khyber Pakhtunkhwa,Peshawar
+PK-79,Peshawar-VIII,Jalal Khan,PML(N),Khyber Pakhtunkhwa,Peshawar
+PK-80,Peshawar-IX,Arbab Zarak Khan,PPP,Khyber Pakhtunkhwa,Peshawar
+PK-81,Peshawar-X,Syed Qasim Ali Shah,SIC,Khyber Pakhtunkhwa,Peshawar
+PK-82,Peshawar-XI,Malik Tariq Awan,PML(N),Khyber Pakhtunkhwa,Peshawar
+PK-83,Peshawar-XII,Meena Khan,SIC,Khyber Pakhtunkhwa,Peshawar
+PK-84,Peshawar-XIII,Fazal Elahi,SIC,Khyber Pakhtunkhwa,Peshawar
+PK-85,Nowshera-I,Zar Alam Khan,SIC,Khyber Pakhtunkhwa,Nowshera
+PK-86,Nowshera-II,Muhammad Idrees,SIC,Khyber Pakhtunkhwa,Nowshera
+PK-87,Nowshera-III,Khaliq-ur-Rehman,SIC,Khyber Pakhtunkhwa,Nowshera
+PK-88,Nowshera-IV,Mian Muhammad Umar,SIC,Khyber Pakhtunkhwa,Nowshera
+PK-89,Nowshera-V,Ishfaq Ahmed,SIC,Khyber Pakhtunkhwa,Nowshera
+PK-90,Kohat-I,Aftab Alam Afridi,SIC,Khyber Pakhtunkhwa,Kohat
+PK-91,Kohat-II,Daud Shah Afridi,SIC,Khyber Pakhtunkhwa,Kohat
+PK-92,Kohat-III,Shafi Ullah Jan,SIC,Khyber Pakhtunkhwa,Kohat
+PK-93,Hangu,Shah Abu Tarab Khan Bangash,SIC,Khyber Pakhtunkhwa,Hangu
+PK-94,Orakzai,Aurangzeb Khan,SIC,Khyber Pakhtunkhwa,Orakzai
+PK-95,Kurram-I,Muhammad Riaz Shaheen,JUI(F),Khyber Pakhtunkhwa,Kurram
+PK-96,Kurram-II,Ali Hadi,PTI-P,Khyber Pakhtunkhwa,Kurram
+PK-97,Karak-I,Muhammad Khurshid,SIC,Khyber Pakhtunkhwa,Karak
+PK-98,Karak-II,Muhammad Sajjad,SIC,Khyber Pakhtunkhwa,Karak
+PK-99,Bannu-I,Zahid Ullah Khan,SIC,Khyber Pakhtunkhwa,Bannu
+PK-100,Bannu-II,Pakhtoon Yar Khan,SIC,Khyber Pakhtunkhwa,Bannu
+PK-101,Bannu-III,Adnan Wazir,JUI(F),Khyber Pakhtunkhwa,Bannu
+PK-102,Bannu-IV,Akram Khan Durrani,JUI(F),Khyber Pakhtunkhwa,Bannu
+PK-103,North Waziristan-I,Muhammad Iqbal Wazir,PTI-P,Khyber Pakhtunkhwa,North Waziristan
+PK-104,North Waziristan-II,Nek Muhammad Khan,SIC,Khyber Pakhtunkhwa,North Waziristan
+PK-105,Lakki Marwat-I,Johar Muhammad,SIC,Khyber Pakhtunkhwa,Lakki Marwat
+PK-106,Lakki Marwat-II,Hisham Inamullah Khan,PML(N),Khyber Pakhtunkhwa,Lakki Marwat
+PK-107,Lakki Marwat-III,Tariq Saeed,SIC,Khyber Pakhtunkhwa,Lakki Marwat
+PK-108,Tank,Muhammad Usman,SIC,Khyber Pakhtunkhwa,Tank
+PK-109,Upper South Waziristan,Asif Khan,SIC,Khyber Pakhtunkhwa,Upper South Waziristan
+PK-110,Lower South Waziristan,Ajab Gul,SIC,Khyber Pakhtunkhwa,Lower South Waziristan
+PK-111,Dera Ismail Khan-I,Makhdoom Zada Muhammad Aftab Haider,JUI(F),Khyber Pakhtunkhwa,Dera Ismail Khan
+PK-112,Dera Ismail Khan-II,Ahmad Kundi,PPP,Khyber Pakhtunkhwa,Dera Ismail Khan
+PK-113,Dera Ismail Khan-III,Ali Amin Gandapur,SIC,Khyber Pakhtunkhwa,Dera Ismail Khan
+PK-114,Dera Ismail Khan-IV,Luftur Rehman,JUI(F),Khyber Pakhtunkhwa,Dera Ismail Khan
+PK-115,Dera Ismail Khan-V,Ehsanullah Khan,PPP,Khyber Pakhtunkhwa,Dera Ismail Khan
+PB-1,Sherani-Cum-Zhob,Nawaz Kibzai,JUI(F),Balochistan,Sherani-Cum
+PB-2,Zhob,Fazal Qadir Mandokhail,JUI(F),Balochistan,Zhob
+PB-3,Killa Saifullah,Maulana Noorullah,PPP,Balochistan,Killa Saifullah
+PB-4,Musakhel-cum-Barkhan,Abdul Rehman Khetran,NP,Balochistan,Musakhel-cum
+PB-5,Loralai,Muhammad Khan Toor Utmankhel,HDTB,Balochistan,Loralai
+PB-6,Duki,Sardar Masood Ali Khan Luni,PML(N),Balochistan,Duki
+PB-7,Ziarat cum Harnai,Noor Muhammad Dummar,JIP,Balochistan,Ziarat cum Harnai
+PB-8,Sibi,Mir Kohyar Khan Domki,PPP,Balochistan,Sibi
+PB-9,Kohlu,Changez Khan Marri,PML(N),Balochistan,Kohlu
+PB-10,Dera Bugti,Sarfraz Bugti,PPP,Balochistan,Dera Bugti
+PB-11,Jhal Magsi,Nawabzada Tariq Magsi,BAP,Balochistan,Jhal Magsi
+PB-12,Kachhi,Mir Mohammad Asim Kurd Gello,PML(N),Balochistan,Kachhi
+PB-13,Nasirabad-I,Mir Muhammad Sadiq Umrani,PPP,Balochistan,Nasirabad
+PB-14,Nasirabad-II,Muhammad Khan Lehri,ANP,Balochistan,Nasirabad
+PB-15,Sohbatpur,Mir Saleem Ahmed Khoso,PPP,Balochistan,Sohbatpur
+PB-16,Jafarabad,Abdul Majeed Badini,JIP,Balochistan,Jafarabad
+PB-17,Usta Muhammad,Faisal Khan Jamali,PPP,Balochistan,Usta Muhammad
+PB-18,Khuzdar-I,Sanaullah Khan Zehri,JUI(F),Balochistan,Khuzdar
+PB-19,Khuzdar-II,Mir Younus Aziz Zehri,JUI(F),Balochistan,Khuzdar
+PB-20,Khuzdar-III,Mir Jahanzaib Mengal,BNP(M),Balochistan,Khuzdar
+PB-21,Hub,Mohammad Saleh Bhootani,BAP,Balochistan,Hub
+PB-22,Lasbela,Nawabzada Mir Muhammad Zarain Khan Magsi,PML(N),Balochistan,Lasbela
+PB-23,Awaran,Khair Jan Baloch,NP,Balochistan,Awaran
+PB-24,Gwadar,Hidayat ur Rehman Baloch,HDT,Balochistan,Gwadar
+PB-25,Kech-I,Zahoor Ahmed Buledi,PPP,Balochistan,Kech
+PB-26,Kech-II,Abdul Malik Baloch,NP,Balochistan,Kech
+PB-27,Kech-III,Barkat Ali Rind,PML(N),Balochistan,Kech
+PB-28,Kech-IV,Mir Asghar Rind,PPP,Balochistan,Kech
+PB-29,Panjgur-I,Mir Asadullah Baloch,BNP(A),Balochistan,Panjgur
+PB-30,Panjgur-II,Rahmat Saleh Baloch,NP,Balochistan,Panjgur
+PB-31,Washuk,Mir Zabid Ali Reki,JUI(F),Balochistan,Washuk
+PB-32,Chagai,Sadiq Sanjrani,BAP,Balochistan,Chagai
+PB-33,Kharan,Mir Shoaib Nosherwani,PML(N),Balochistan,Kharan
+PB-34,Nushki,Haji Ghulam Dastagir Badeni,JUI(F),Balochistan,Nushki
+PB-35,Surab,Mir Zafarullah Khan Zehri,JUI(F),Balochistan,Surab
+PB-36,Kalat,Mir Ziaullah Langau,BAP,Balochistan,Kalat
+PB-37,Mastung,Aslam Raisani,JUI(F),Balochistan,Mastung
+PB-38,Quetta-I,Malik Naeem Khan Bazai,ANP,Balochistan,Quetta
+PB-39,Quetta-II,Bakht Muhammad Kakar,PML(N),Balochistan,Quetta
+PB-40,Quetta-III,Samad Khan Gorgage,PPP,Balochistan,Quetta
+PB-41,Quetta-IV,Wali Muhammad Noorzai,PML(N),Balochistan,Quetta
+PB-42,Quetta-V,Sheikh Zarak Khan Mandokhail,PML(N),Balochistan,Quetta
+PB-43,Quetta-VI,Mir Liaquat Ali Lehri,PPP,Balochistan,Quetta
+PB-44,Quetta-VII,Mir Ubaidullah Gorgage,PPP,Balochistan,Quetta
+PB-45,Quetta-VIII,Ali Madad Jattak,PPP,Balochistan,Quetta
+PB-46,Quetta-IX,Prince Ahmed Umer Ahmedzai,BAP,Balochistan,Quetta
+PB-47,Pishin-I,Asfand Yar Khan Kakar,PPP,Balochistan,Pishin
+PB-48,Pishin-II,Asghar Ali Tareen,JUI(F),Balochistan,Pishin
+PB-49,Pishin-II,Syed Zafar Ali Agha,JUI(F),Balochistan,Pishin
+PB-50,Killa Abdullah,Zmarak Khan Achakzai,ANP,Balochistan,Killa Abdullah
+PB-51,Chaman,Abdul Khaliq Khan Achakzai,PML(N),Balochistan,Chaman

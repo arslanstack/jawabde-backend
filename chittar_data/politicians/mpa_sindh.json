@@ -1,0 +1,1042 @@
+[
+  {
+    "constituency_code": "PS-1",
+    "constituency_name": "Jacobabad-I",
+    "member_name": "Sher Muhammad Khan Mugheri",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Jacobabad"
+  },
+  {
+    "constituency_code": "PS-2",
+    "constituency_name": "Jacobabad-II",
+    "member_name": "Sohrab Khan Sarki",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Jacobabad"
+  },
+  {
+    "constituency_code": "PS-3",
+    "constituency_name": "Jacobabad-III",
+    "member_name": "Mumtaz Hussain Khan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Jacobabad"
+  },
+  {
+    "constituency_code": "PS-4",
+    "constituency_name": "Kashmore-I",
+    "member_name": "Abdul Rauf Khoso",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Kashmore"
+  },
+  {
+    "constituency_code": "PS-5",
+    "constituency_name": "Kashmore-II",
+    "member_name": "Ghulam Abid Khan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Kashmore"
+  },
+  {
+    "constituency_code": "PS-6",
+    "constituency_name": "Kashmore-III",
+    "member_name": "Mir Mehboob Ali Khan Bijarani",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Kashmore"
+  },
+  {
+    "constituency_code": "PS-7",
+    "constituency_name": "Shikarpur-I",
+    "member_name": "Imtiaz Ahmed Shaikh",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Shikarpur"
+  },
+  {
+    "constituency_code": "PS-8",
+    "constituency_name": "Shikarpur-II",
+    "member_name": "Muhammad Arif Khan Mahar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Shikarpur"
+  },
+  {
+    "constituency_code": "PS-9",
+    "constituency_name": "Shikarpur-III",
+    "member_name": "Vacant",
+    "party": "",
+    "province": "Sindh",
+    "district": "Shikarpur"
+  },
+  {
+    "constituency_code": "PS-10",
+    "constituency_name": "Larkana-I",
+    "member_name": "Faryal Talpur",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Larkana"
+  },
+  {
+    "constituency_code": "PS-11",
+    "constituency_name": "Larkana-II",
+    "member_name": "Jameel Ahmed Soomro",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Larkana"
+  },
+  {
+    "constituency_code": "PS-12",
+    "constituency_name": "Larkana-III",
+    "member_name": "Sohail Anwar Siyal",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Larkana"
+  },
+  {
+    "constituency_code": "PS-13",
+    "constituency_name": "Larkana-IV",
+    "member_name": "Adil Altaf Unnar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Larkana"
+  },
+  {
+    "constituency_code": "PS-14",
+    "constituency_name": "Qambar Shahdadkot-I",
+    "member_name": "Mir Nadir Ali Khan Magsi",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Qambar Shahdadkot"
+  },
+  {
+    "constituency_code": "PS-15",
+    "constituency_name": "Qambar Shahdadkot-II",
+    "member_name": "Nisar Khuhro",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Qambar Shahdadkot"
+  },
+  {
+    "constituency_code": "PS-16",
+    "constituency_name": "Qambar Shahdadkot-III",
+    "member_name": "Nawab Ghaibi Sardar Khan Chandio",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Qambar Shahdadkot"
+  },
+  {
+    "constituency_code": "PS-17",
+    "constituency_name": "Qambar Shahdadkot-IV",
+    "member_name": "Burhan Chandio",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Qambar Shahdadkot"
+  },
+  {
+    "constituency_code": "PS-18",
+    "constituency_name": "Ghotki-I",
+    "member_name": "Jam Mehtab Hussain Dahar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Ghotki"
+  },
+  {
+    "constituency_code": "PS-19",
+    "constituency_name": "Ghotki-II",
+    "member_name": "Sardar Nadir Akmal Khan Leghari",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Ghotki"
+  },
+  {
+    "constituency_code": "PS-20",
+    "constituency_name": "Ghotki-III",
+    "member_name": "Sardar Muhammad Bakhsh Khan Mahar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Ghotki"
+  },
+  {
+    "constituency_code": "PS-21",
+    "constituency_name": "Ghotki-IV",
+    "member_name": "Ali Nawaz Khan Mahar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Ghotki"
+  },
+  {
+    "constituency_code": "PS-22",
+    "constituency_name": "Sukkur-I",
+    "member_name": "Ikramullah Khan Dharejo",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sukkur"
+  },
+  {
+    "constituency_code": "PS-23",
+    "constituency_name": "Sukkur-II",
+    "member_name": "Awais Qadir Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sukkur"
+  },
+  {
+    "constituency_code": "PS-24",
+    "constituency_name": "Sukkur-III",
+    "member_name": "Syed Farukh Ahmed Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sukkur"
+  },
+  {
+    "constituency_code": "PS-25",
+    "constituency_name": "Sukkur-IV",
+    "member_name": "Nasir Hussain Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sukkur"
+  },
+  {
+    "constituency_code": "PS-26",
+    "constituency_name": "Khairpur-I",
+    "member_name": "Syed Qaim Ali Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Khairpur"
+  },
+  {
+    "constituency_code": "PS-27",
+    "constituency_name": "Khairpur-II",
+    "member_name": "Hallar Wassan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Khairpur"
+  },
+  {
+    "constituency_code": "PS-28",
+    "constituency_name": "Khairpur-III",
+    "member_name": "Sajid Ali Banbhan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Khairpur"
+  },
+  {
+    "constituency_code": "PS-29",
+    "constituency_name": "Khairpur-IV",
+    "member_name": "Shiraz Shaukat Rajpar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Khairpur"
+  },
+  {
+    "constituency_code": "PS-30",
+    "constituency_name": "Khairpur-V",
+    "member_name": "Naeem Ahmed Kharal",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Khairpur"
+  },
+  {
+    "constituency_code": "PS-31",
+    "constituency_name": "Khairpur-VI",
+    "member_name": "Muhammad Rashid Shah",
+    "party": "GDA",
+    "province": "Sindh",
+    "district": "Khairpur"
+  },
+  {
+    "constituency_code": "PS-32",
+    "constituency_name": "Naushahro Feroze-I",
+    "member_name": "Syed Serfraz Hussain Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Naushahro Feroze"
+  },
+  {
+    "constituency_code": "PS-33",
+    "constituency_name": "Naushahro Feroze-II",
+    "member_name": "Syed Hassan Ali Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Naushahro Feroze"
+  },
+  {
+    "constituency_code": "PS-34",
+    "constituency_name": "Naushahro Feroze-III",
+    "member_name": "Mumtaz Ali Chandio",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Naushahro Feroze"
+  },
+  {
+    "constituency_code": "PS-35",
+    "constituency_name": "Naushahro Feroze-IV",
+    "member_name": "Zia Ul Hassan Lanjar",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Naushahro Feroze"
+  },
+  {
+    "constituency_code": "PS-36",
+    "constituency_name": "Shaheed Benazirabad-I",
+    "member_name": "Azra Fazal Pechuho",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Shaheed Benazirabad"
+  },
+  {
+    "constituency_code": "PS-37",
+    "constituency_name": "Shaheed Benazirabad-II",
+    "member_name": "Chaudhary Javed Iqbal Arain",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Shaheed Benazirabad"
+  },
+  {
+    "constituency_code": "PS-38",
+    "constituency_name": "Shaheed Benazirabad-III",
+    "member_name": "Ghulam Qadir Chandio",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Shaheed Benazirabad"
+  },
+  {
+    "constituency_code": "PS-39",
+    "constituency_name": "Shaheed Benazirabad-IV",
+    "member_name": "Bahadur Khan Dahri",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Shaheed Benazirabad"
+  },
+  {
+    "constituency_code": "PS-40",
+    "constituency_name": "Sanghar-I",
+    "member_name": "Ghulam Dastageer Rajar",
+    "party": "GDA",
+    "province": "Sindh",
+    "district": "Sanghar"
+  },
+  {
+    "constituency_code": "PS-41",
+    "constituency_name": "Sanghar-II",
+    "member_name": "Ali Hassan Hingorjo",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sanghar"
+  },
+  {
+    "constituency_code": "PS-42",
+    "constituency_name": "Sanghar-III",
+    "member_name": "Jam Shabbir Ali Khan",
+    "party": "GDA",
+    "province": "Sindh",
+    "district": "Sanghar"
+  },
+  {
+    "constituency_code": "PS-43",
+    "constituency_name": "Sanghar-IV",
+    "member_name": "Sardar Paras Dero",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sanghar"
+  },
+  {
+    "constituency_code": "PS-44",
+    "constituency_name": "Sanghar-V",
+    "member_name": "Shahid Abdul Salam Thahim",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sanghar"
+  },
+  {
+    "constituency_code": "PS-45",
+    "constituency_name": "Mirpur Khas-I",
+    "member_name": "Hari Ram",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Mirpur Khas"
+  },
+  {
+    "constituency_code": "PS-46",
+    "constituency_name": "Mirpur Khas-II",
+    "member_name": "Syed Zulfiqar Ali Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Mirpur Khas"
+  },
+  {
+    "constituency_code": "PS-47",
+    "constituency_name": "Mirpur Khas-III",
+    "member_name": "Noor Ahmed Bhurgri",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Mirpur Khas"
+  },
+  {
+    "constituency_code": "PS-48",
+    "constituency_name": "Mirpur Khas-IV",
+    "member_name": "Mir Tariq Ali Khan Talpur",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Mirpur Khas"
+  },
+  {
+    "constituency_code": "PS-49",
+    "constituency_name": "Umerkot-I",
+    "member_name": "Syed Sardar Ali Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Umerkot"
+  },
+  {
+    "constituency_code": "PS-50",
+    "constituency_name": "Umerkot-II",
+    "member_name": "Syed Ameer Ali Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Umerkot"
+  },
+  {
+    "constituency_code": "PS-51",
+    "constituency_name": "Umerkot-III",
+    "member_name": "Nawab Muhammad Taimur Talpur",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Umerkot"
+  },
+  {
+    "constituency_code": "PS-52",
+    "constituency_name": "Tharparkar-I",
+    "member_name": "Dost Muhammad Rahimoon",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tharparkar"
+  },
+  {
+    "constituency_code": "PS-53",
+    "constituency_name": "Tharparkar-II",
+    "member_name": "Muhammad Qasim Soomro",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tharparkar"
+  },
+  {
+    "constituency_code": "PS-54",
+    "constituency_name": "Tharparkar-III",
+    "member_name": "Fakeer Sher Muhammad Bilalani",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tharparkar"
+  },
+  {
+    "constituency_code": "PS-55",
+    "constituency_name": "Tharparkar-IV",
+    "member_name": "Arbab Lutfullah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tharparkar"
+  },
+  {
+    "constituency_code": "PS-56",
+    "constituency_name": "Matiari-I",
+    "member_name": "Makhdoom Mehboob Zaman",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Matiari"
+  },
+  {
+    "constituency_code": "PS-57",
+    "constituency_name": "Matiari-II",
+    "member_name": "Makhdoom Fakhar Zaman",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Matiari"
+  },
+  {
+    "constituency_code": "PS-58",
+    "constituency_name": "Tando Allahyar-I",
+    "member_name": "Syed Zia Abbas Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tando Allahyar"
+  },
+  {
+    "constituency_code": "PS-59",
+    "constituency_name": "Tando Allahyar-II",
+    "member_name": "Imdad Ali Pitafi",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tando Allahyar"
+  },
+  {
+    "constituency_code": "PS-60",
+    "constituency_name": "Hyderabad-I",
+    "member_name": "Jam Khan Shoro",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Hyderabad"
+  },
+  {
+    "constituency_code": "PS-61",
+    "constituency_name": "Hyderabad-II",
+    "member_name": "Sharjeel Memon",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Hyderabad"
+  },
+  {
+    "constituency_code": "PS-62",
+    "constituency_name": "Hyderabad-III",
+    "member_name": "Sabir Hussain Qaimkhani",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Hyderabad"
+  },
+  {
+    "constituency_code": "PS-63",
+    "constituency_name": "Hyderabad-IV",
+    "member_name": "Rehan Rajpoot",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Hyderabad"
+  },
+  {
+    "constituency_code": "PS-64",
+    "constituency_name": "Hyderabad-V",
+    "member_name": "Muhammad Rashid Khan",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Hyderabad"
+  },
+  {
+    "constituency_code": "PS-65",
+    "constituency_name": "Hyderabad-VI",
+    "member_name": "Nasir Hussain Qureshi",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Hyderabad"
+  },
+  {
+    "constituency_code": "PS-66",
+    "constituency_name": "Tando Muhammad Khan-I",
+    "member_name": "Syed Aijaz Hussain Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tando Muhammad Khan"
+  },
+  {
+    "constituency_code": "PS-67",
+    "constituency_name": "Tando Muhammad Khan-II",
+    "member_name": "Khurram Karim Soomro",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Tando Muhammad Khan"
+  },
+  {
+    "constituency_code": "PS-68",
+    "constituency_name": "Badin-I",
+    "member_name": "Muhammad Halepoto",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Badin"
+  },
+  {
+    "constituency_code": "PS-69",
+    "constituency_name": "Badin-II",
+    "member_name": "Allah Bux Talpur",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Badin"
+  },
+  {
+    "constituency_code": "PS-70",
+    "constituency_name": "Badin-III",
+    "member_name": "Sardar Arbab Ameer Amanullah Khan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Badin"
+  },
+  {
+    "constituency_code": "PS-71",
+    "constituency_name": "Badin-IV",
+    "member_name": "Taj Muhammad Mallah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Badin"
+  },
+  {
+    "constituency_code": "PS-72",
+    "constituency_name": "Badin-V",
+    "member_name": "Ismail Rahoo",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Badin"
+  },
+  {
+    "constituency_code": "PS-73",
+    "constituency_name": "Sujawal-I",
+    "member_name": "Shah Hussain Shah Sheerazi",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sujawal"
+  },
+  {
+    "constituency_code": "PS-74",
+    "constituency_name": "Sujawal-II",
+    "member_name": "Muhammad Ali Malkani",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Sujawal"
+  },
+  {
+    "constituency_code": "PS-75",
+    "constituency_name": "Thatta-I",
+    "member_name": "Riaz Hussain Shah Sheerazi",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Thatta"
+  },
+  {
+    "constituency_code": "PS-76",
+    "constituency_name": "Thatta-II",
+    "member_name": "Ali Hassan Zardari",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Thatta"
+  },
+  {
+    "constituency_code": "PS-77",
+    "constituency_name": "Jamshoro-I",
+    "member_name": "Murad Ali Shah",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Jamshoro"
+  },
+  {
+    "constituency_code": "PS-78",
+    "constituency_name": "Jamshoro-II",
+    "member_name": "Sikandar Ali Shoro",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Jamshoro"
+  },
+  {
+    "constituency_code": "PS-79",
+    "constituency_name": "Jamshoro-III",
+    "member_name": "Malik Sikandar Khan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Jamshoro"
+  },
+  {
+    "constituency_code": "PS-80",
+    "constituency_name": "Dadu-I",
+    "member_name": "Zubair Ahmed Junejo",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Dadu"
+  },
+  {
+    "constituency_code": "PS-81",
+    "constituency_name": "Dadu-II",
+    "member_name": "Fayaz Ali Butt",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Dadu"
+  },
+  {
+    "constituency_code": "PS-82",
+    "constituency_name": "Dadu-III",
+    "member_name": "Pir Mujeeb ul Haq",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Dadu"
+  },
+  {
+    "constituency_code": "PS-83",
+    "constituency_name": "Dadu-IV",
+    "member_name": "Pir Saleh Shah Jeelani",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Dadu"
+  },
+  {
+    "constituency_code": "PS-84",
+    "constituency_name": "Karachi Malir-I",
+    "member_name": "Muhammad Yousuf Murtaza Baloch",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Malir"
+  },
+  {
+    "constituency_code": "PS-85",
+    "constituency_name": "Karachi Malir-II",
+    "member_name": "Muhammad Sajid Jokhio",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Malir"
+  },
+  {
+    "constituency_code": "PS-86",
+    "constituency_name": "Karachi Malir-III",
+    "member_name": "Abdul Razak Raja",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Malir"
+  },
+  {
+    "constituency_code": "PS-87",
+    "constituency_name": "Karachi Malir-IV",
+    "member_name": "Mehmood Alam Jamot",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Malir"
+  },
+  {
+    "constituency_code": "PS-88",
+    "constituency_name": "Karachi Malir-V",
+    "member_name": "Ajaz Khan Swati",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Malir"
+  },
+  {
+    "constituency_code": "PS-89",
+    "constituency_name": "Karachi Malir-VI",
+    "member_name": "Muhammad Saleem Baloch",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Malir"
+  },
+  {
+    "constituency_code": "PS-90",
+    "constituency_name": "Karachi Korangi-I",
+    "member_name": "Syed Shariq Jamal",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-91",
+    "constituency_name": "Karachi Korangi-II",
+    "member_name": "Muhammad Farooq Farhan",
+    "party": "JIP",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-92",
+    "constituency_name": "Karachi Korangi-III",
+    "member_name": "Wajid Hussain Khan",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-93",
+    "constituency_name": "Karachi Korangi-IV",
+    "member_name": "Sajid Hussain Mir",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-94",
+    "constituency_name": "Karachi Korangi-V",
+    "member_name": "Najam Mirza",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-95",
+    "constituency_name": "Karachi Korangi-VI",
+    "member_name": "Muhammad Farooq Awan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-96",
+    "constituency_name": "Karachi Korangi-VII",
+    "member_name": "Muhammad Owais",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi Korangi"
+  },
+  {
+    "constituency_code": "PS-97",
+    "constituency_name": "Karachi East-I",
+    "member_name": "Rana Shoukat Ali",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-98",
+    "constituency_name": "Karachi East-II",
+    "member_name": "Arsalan Perwaiz Siddiqui",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-99",
+    "constituency_name": "Karachi East-III",
+    "member_name": "Syed Farhan Ansari",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-100",
+    "constituency_name": "Karachi East-IV",
+    "member_name": "Syed Muhammad Usman",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-101",
+    "constituency_name": "Karachi East-V",
+    "member_name": "Moeed Anwar",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-102",
+    "constituency_name": "Karachi East-VI",
+    "member_name": "Muhammad Aamir Siddiqui",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-103",
+    "constituency_name": "Karachi East-VII",
+    "member_name": "Faisal Rafiq",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-104",
+    "constituency_name": "Karachi East-VIII",
+    "member_name": "Muhammad Daniyal",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-105",
+    "constituency_name": "Karachi East-IX",
+    "member_name": "Saeed Ghani",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi East"
+  },
+  {
+    "constituency_code": "PS-106",
+    "constituency_name": "Karachi South-I",
+    "member_name": "Sajjad Ali Soomro",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi South"
+  },
+  {
+    "constituency_code": "PS-107",
+    "constituency_name": "Karachi South-II",
+    "member_name": "Muhammad Yousuf Baloch",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi South"
+  },
+  {
+    "constituency_code": "PS-108",
+    "constituency_name": "Karachi South-III",
+    "member_name": "Muhammad Dilawar",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi South"
+  },
+  {
+    "constituency_code": "PS-109",
+    "constituency_name": "Karachi South-IV",
+    "member_name": "Bilal Hussain Khan Jadoon",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi South"
+  },
+  {
+    "constituency_code": "PS-110",
+    "constituency_name": "Karachi South-V",
+    "member_name": "Rehan Bandukda",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi South"
+  },
+  {
+    "constituency_code": "PS-111",
+    "constituency_name": "Karachi Keamari-I",
+    "member_name": "Liaquat Ali Askani",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Keamari"
+  },
+  {
+    "constituency_code": "PS-112",
+    "constituency_name": "Karachi Keamari-II",
+    "member_name": "Asif Moosa[3]",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Keamari"
+  },
+  {
+    "constituency_code": "PS-113",
+    "constituency_name": "Karachi Keamari-III",
+    "member_name": "Faheem Ahmed Patni",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Keamari"
+  },
+  {
+    "constituency_code": "PS-114",
+    "constituency_name": "Karachi Keamari-IV",
+    "member_name": "Muhammad Shabbir Qureshi",
+    "party": "SIC",
+    "province": "Sindh",
+    "district": "Karachi Keamari"
+  },
+  {
+    "constituency_code": "PS-115",
+    "constituency_name": "Karachi Keamari-V",
+    "member_name": "Muhammad Asif Khan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi Keamari"
+  },
+  {
+    "constituency_code": "PS-116",
+    "constituency_name": "Karachi West-I",
+    "member_name": "Ali Ahmed Jan",
+    "party": "PPP",
+    "province": "Sindh",
+    "district": "Karachi West"
+  },
+  {
+    "constituency_code": "PS-117",
+    "constituency_name": "Karachi West-II",
+    "member_name": "Sheikh Abdullah",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi West"
+  },
+  {
+    "constituency_code": "PS-118",
+    "constituency_name": "Karachi West-III",
+    "member_name": "Naseer Ahmed",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi West"
+  },
+  {
+    "constituency_code": "PS-119",
+    "constituency_name": "Karachi West-IV",
+    "member_name": "Ali Khursheedi",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi West"
+  },
+  {
+    "constituency_code": "PS-120",
+    "constituency_name": "Karachi West-V",
+    "member_name": "Mazahir Amir Khan",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi West"
+  },
+  {
+    "constituency_code": "PS-121",
+    "constituency_name": "Karachi West-VI",
+    "member_name": "Syed Ejaz Ul Haque",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi West"
+  },
+  {
+    "constituency_code": "PS-122",
+    "constituency_name": "Karachi Central-I",
+    "member_name": "Rehan (politician)",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-123",
+    "constituency_name": "Karachi Central-II",
+    "member_name": "Abdul Waseem",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-124",
+    "constituency_name": "Karachi Central-III",
+    "member_name": "Abdul Basit",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-125",
+    "constituency_name": "Karachi Central-IV",
+    "member_name": "Syed Adil Askari",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-126",
+    "constituency_name": "Karachi Central-V",
+    "member_name": "Iftikhar Alam",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-127",
+    "constituency_name": "Karachi Central-VI",
+    "member_name": "Muhammad Maaz Mehboob",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-128",
+    "constituency_name": "Karachi Central-VII",
+    "member_name": "Taha Ahmed Khan",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-129",
+    "constituency_name": "Karachi Central-VIII",
+    "member_name": "Maaz Mukaddam",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  },
+  {
+    "constituency_code": "PS-130",
+    "constituency_name": "Karachi Central-IX",
+    "member_name": "Jamal Ahmed",
+    "party": "MQM-P",
+    "province": "Sindh",
+    "district": "Karachi Central"
+  }
+]
