@@ -1,0 +1,570 @@
+[
+  {
+    "code": "NA-1",
+    "name": "Abdul Latif"
+  },
+  {
+    "code": "NA-3",
+    "name": "Salim Rehman"
+  },
+  {
+    "code": "NA-14",
+    "name": "Sardar Muhammad Yousuf"
+  },
+  {
+    "code": "NA-18",
+    "name": "Omar Ayub"
+  },
+  {
+    "code": "NA-22",
+    "name": "Atif Khan"
+  },
+  {
+    "code": "NA-30",
+    "name": "Shandana Gulzar"
+  },
+  {
+    "code": "NA-35",
+    "name": "Shehryar Afridi"
+  },
+  {
+    "code": "NA-36",
+    "name": "Yousuf Khan"
+  },
+  {
+    "code": "NA-40",
+    "name": "Misbahuddin"
+  },
+  {
+    "code": "NA-41",
+    "name": "Sher Afzal Marwat"
+  },
+  {
+    "code": "NA-45",
+    "name": "Fatehullah Khan Miankhel"
+  },
+  {
+    "code": "NA-47",
+    "name": "Tariq Fazal Chaudhry"
+  },
+  {
+    "code": "NA-48",
+    "name": "Khurram Shehzad Nawaz"
+  },
+  {
+    "code": "NA-53",
+    "name": "Qamar-ul-Islam Raja"
+  },
+  {
+    "code": "NA-57",
+    "name": "Daniyal Chaudhary"
+  },
+  {
+    "code": "NA-62",
+    "name": "Muhammad Ilyas Chaudhary"
+  },
+  {
+    "code": "NA-63",
+    "name": "Chaudhry Hussain Elahi"
+  },
+  {
+    "code": "NA-66",
+    "name": "Muhammad Ahmed Chattha"
+  },
+  {
+    "code": "NA-67",
+    "name": "Aneeqa Mehdi"
+  },
+  {
+    "code": "NA-68",
+    "name": "Imtiaz Ahmed Chaudhary"
+  },
+  {
+    "code": "NA-70",
+    "name": "Armaghan Subhani"
+  },
+  {
+    "code": "NA-75",
+    "name": "Anwaarul Haq Chaudhary"
+  },
+  {
+    "code": "NA-76",
+    "name": "Ahsan Iqbal"
+  },
+  {
+    "code": "NA-77",
+    "name": "Chaudhry Mehmood Bashir"
+  },
+  {
+    "code": "NA-78",
+    "name": "Chaudhary Mubeen Arif Jutt"
+  },
+  {
+    "code": "NA-79",
+    "name": "Chaudhary Ahsaanullah Virk"
+  },
+  {
+    "code": "NA-81",
+    "name": "Chaudhry Bilal Ijaz"
+  },
+  {
+    "code": "NA-82",
+    "name": "Mukhtar Ahmad Bharath"
+  },
+  {
+    "code": "NA-83",
+    "name": "Usama Ghias Mela"
+  },
+  {
+    "code": "NA-84",
+    "name": "Malik Shafqat Abbas Awan"
+  },
+  {
+    "code": "NA-98",
+    "name": "Chaudhry Shehbaz Babar"
+  },
+  {
+    "code": "NA-99",
+    "name": "Malik Umar Farooq Mushtaq"
+  },
+  {
+    "code": "NA-100",
+    "name": "Nisar Ahmad Jutt"
+  },
+  {
+    "code": "NA-104",
+    "name": "Sahibzada Hamid Raza"
+  },
+  {
+    "code": "NA-108",
+    "name": "Sahabzada Mehboob Sultan"
+  },
+  {
+    "code": "NA-113",
+    "name": "Rana Ahmed Ateeq Anwar"
+  },
+  {
+    "code": "NA-118",
+    "name": "Hamza Shahbaz"
+  },
+  {
+    "code": "NA-120",
+    "name": "Ayaz Sadiq"
+  },
+  {
+    "code": "NA-122",
+    "name": "Latif Khosa"
+  },
+  {
+    "code": "NA-125",
+    "name": "Afzal Khokhar"
+  },
+  {
+    "code": "NA-126",
+    "name": "Malik Saif ul Malook Khokhar"
+  },
+  {
+    "code": "NA-128",
+    "name": "Aun Chaudhry"
+  },
+  {
+    "code": "NA-129",
+    "name": "Mian Muhammad Azhar"
+  },
+  {
+    "code": "NA-132",
+    "name": "Malik Rasheed Ahmed Khan"
+  },
+  {
+    "code": "NA-133",
+    "name": "Azeemuddin Zahid Lakhvi"
+  },
+  {
+    "code": "NA-136",
+    "name": "Riaz-ul-Haq"
+  },
+  {
+    "code": "NA-138",
+    "name": "Muhammad Moeen Wattoo"
+  },
+  {
+    "code": "NA-143",
+    "name": "Rai Hassan Nawaz"
+  },
+  {
+    "code": "NA-144",
+    "name": "Raza Hayat Hiraj"
+  },
+  {
+    "code": "NA-148",
+    "name": "Yusuf Raza Gilani"
+  },
+  {
+    "code": "NA-150",
+    "name": "Zain Qureshi"
+  },
+  {
+    "code": "NA-152",
+    "name": "Abdul Qadir Gillani"
+  },
+  {
+    "code": "NA-154",
+    "name": "Rana Muhammad Faraz Noon"
+  },
+  {
+    "code": "NA-160",
+    "name": "Abdul Ghaffar Wattoo"
+  },
+  {
+    "code": "NA-161",
+    "name": "Alam Dad Lalika"
+  },
+  {
+    "code": "NA-162",
+    "name": "Ehsan Ul Haq Bajwa"
+  },
+  {
+    "code": "NA-163",
+    "name": "Ijaz-ul-Haq"
+  },
+  {
+    "code": "NA-166",
+    "name": "Makhdoom Syed Sami Ul Hassan Gillani"
+  },
+  {
+    "code": "NA-167",
+    "name": "Usman Owaisi"
+  },
+  {
+    "code": "NA-169",
+    "name": "Makhdoom Syed Murtaza Mehmood"
+  },
+  {
+    "code": "NA-171",
+    "name": "Mumtaz Mustafa"
+  },
+  {
+    "code": "NA-172",
+    "name": "Javed Iqbal Warraich"
+  },
+  {
+    "code": "NA-174",
+    "name": "Azhar Laghari"
+  },
+  {
+    "code": "NA-175",
+    "name": "Jamshed Dasti"
+  },
+  {
+    "code": "NA-177",
+    "name": "Moazam Ali Khan Jatoi"
+  },
+  {
+    "code": "NA-182",
+    "name": "Malik Awais Jakhar"
+  },
+  {
+    "code": "NA-185",
+    "name": "Zartaj Gul"
+  },
+  {
+    "code": "NA-186",
+    "name": "Awais Leghari"
+  },
+  {
+    "code": "NA-187",
+    "name": "Ammar Ahmed Khan Laghari"
+  },
+  {
+    "code": "NA-188",
+    "name": "Hafeez-ur-Rehman Dreshak"
+  },
+  {
+    "code": "NA-195",
+    "name": "Nazeer Ahmed Baghio"
+  },
+  {
+    "code": "NA-207",
+    "name": "Asif Ali Zardari"
+  },
+  {
+    "code": "NA-208",
+    "name": "Syed Ghulam Mustafa Shah"
+  },
+  {
+    "code": "NA-213",
+    "name": "Nawab Yousuf Talpur"
+  },
+  {
+    "code": "NA-216",
+    "name": "Makhdoom Jamiluzaman"
+  },
+  {
+    "code": "NA-219",
+    "name": "Abdul Aleem Khanzada"
+  },
+  {
+    "code": "NA-223",
+    "name": "Rasool Bakhsh Chandio"
+  },
+  {
+    "code": "NA-227",
+    "name": "Irfan Zafar Leghari"
+  },
+  {
+    "code": "NA-232",
+    "name": "Aasia Ishaque"
+  },
+  {
+    "code": "NA-239",
+    "name": "Nabil Gabol"
+  },
+  {
+    "code": "NA-246",
+    "name": "Syed Aminul Haque"
+  },
+  {
+    "code": "NA-247",
+    "name": "Khawaja Izharul Hassan"
+  },
+  {
+    "code": "NA-249",
+    "name": "Ahmed Salim Siddiqui"
+  },
+  {
+    "code": "NA-251",
+    "name": "Syed Samiullah"
+  },
+  {
+    "code": "NA-252",
+    "name": "Sardar Yaqoob Nasir"
+  },
+  {
+    "code": "NA-256",
+    "name": "Akhtar Mengal"
+  },
+  {
+    "code": "NA-264",
+    "name": "Jamal Raisani"
+  },
+  {
+    "code": "NA-265",
+    "name": "Fazal-ur-Rehman"
+  },
+  {
+    "code": "PP-171",
+    "name": "Mian Aslam Iqbal"
+  },
+  {
+    "code": "PS-9",
+    "name": "Vacant"
+  },
+  {
+    "code": "PS-11",
+    "name": "Jameel Ahmed Soomro"
+  },
+  {
+    "code": "PS-13",
+    "name": "Adil Altaf Unnar"
+  },
+  {
+    "code": "PS-24",
+    "name": "Syed Farukh Ahmed Shah"
+  },
+  {
+    "code": "PS-26",
+    "name": "Syed Qaim Ali Shah"
+  },
+  {
+    "code": "PS-29",
+    "name": "Shiraz Shaukat Rajpar"
+  },
+  {
+    "code": "PS-31",
+    "name": "Muhammad Rashid Shah"
+  },
+  {
+    "code": "PS-32",
+    "name": "Syed Serfraz Hussain Shah"
+  },
+  {
+    "code": "PS-33",
+    "name": "Syed Hassan Ali Shah"
+  },
+  {
+    "code": "PS-35",
+    "name": "Zia Ul Hassan Lanjar"
+  },
+  {
+    "code": "PS-37",
+    "name": "Chaudhary Javed Iqbal Arain"
+  },
+  {
+    "code": "PS-40",
+    "name": "Ghulam Dastageer Rajar"
+  },
+  {
+    "code": "PS-41",
+    "name": "Ali Hassan Hingorjo"
+  },
+  {
+    "code": "PS-42",
+    "name": "Jam Shabbir Ali Khan"
+  },
+  {
+    "code": "PS-44",
+    "name": "Shahid Abdul Salam Thahim"
+  },
+  {
+    "code": "PS-46",
+    "name": "Syed Zulfiqar Ali Shah"
+  },
+  {
+    "code": "PS-48",
+    "name": "Mir Tariq Ali Khan Talpur"
+  },
+  {
+    "code": "PS-49",
+    "name": "Syed Sardar Ali Shah"
+  },
+  {
+    "code": "PS-50",
+    "name": "Syed Ameer Ali Shah"
+  },
+  {
+    "code": "PS-52",
+    "name": "Dost Muhammad Rahimoon"
+  },
+  {
+    "code": "PS-53",
+    "name": "Muhammad Qasim Soomro"
+  },
+  {
+    "code": "PS-58",
+    "name": "Syed Zia Abbas Shah"
+  },
+  {
+    "code": "PS-66",
+    "name": "Syed Aijaz Hussain Shah"
+  },
+  {
+    "code": "PS-76",
+    "name": "Ali Hassan Zardari"
+  },
+  {
+    "code": "PS-87",
+    "name": "Mehmood Alam Jamot"
+  },
+  {
+    "code": "PS-129",
+    "name": "Maaz Mukaddam"
+  },
+  {
+    "code": "PK-3",
+    "name": "Sharafat Ali"
+  },
+  {
+    "code": "PK-7",
+    "name": "Amjad Ali"
+  },
+  {
+    "code": "PK-16",
+    "name": "Shafi Ullah"
+  },
+  {
+    "code": "PK-23",
+    "name": "Shakeel Ahmad"
+  },
+  {
+    "code": "PK-24",
+    "name": "Musavir Khan"
+  },
+  {
+    "code": "PK-25",
+    "name": "Riaz Khan"
+  },
+  {
+    "code": "PK-26",
+    "name": "Syed Fakhr e Jehan"
+  },
+  {
+    "code": "PK-34",
+    "name": "Zubair Khan"
+  },
+  {
+    "code": "PK-37",
+    "name": "Babar Saleem Swati"
+  },
+  {
+    "code": "PK-42",
+    "name": "Nazir Ahmed Abbasi"
+  },
+  {
+    "code": "PK-46",
+    "name": "Akbar Ayub Khan"
+  },
+  {
+    "code": "PK-47",
+    "name": "Arshad Ayub Khan"
+  },
+  {
+    "code": "PK-50",
+    "name": "Aqibullah Khan"
+  },
+  {
+    "code": "PK-55",
+    "name": "Tufail Anjum"
+  },
+  {
+    "code": "PK-57",
+    "name": "Muhammad Zahir Shah"
+  },
+  {
+    "code": "PK-58",
+    "name": "Muhammad Abdul Salam"
+  },
+  {
+    "code": "PK-66",
+    "name": "Mohammad Arif"
+  },
+  {
+    "code": "PK-73",
+    "name": "Arbab Muhammad Wasim Khan"
+  },
+  {
+    "code": "PK-84",
+    "name": "Fazal Elahi"
+  },
+  {
+    "code": "PK-86",
+    "name": "Muhammad Idrees"
+  },
+  {
+    "code": "PK-87",
+    "name": "Khaliq-ur-Rehman"
+  },
+  {
+    "code": "PK-102",
+    "name": "Akram Khan Durrani"
+  },
+  {
+    "code": "PK-103",
+    "name": "Muhammad Iqbal Wazir"
+  },
+  {
+    "code": "PK-106",
+    "name": "Hisham Inamullah Khan"
+  },
+  {
+    "code": "PK-112",
+    "name": "Ahmad Kundi"
+  },
+  {
+    "code": "PK-114",
+    "name": "Luftur Rehman"
+  },
+  {
+    "code": "PB-21",
+    "name": "Mohammad Saleh Bhootani"
+  }
+]

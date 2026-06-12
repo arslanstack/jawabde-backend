@@ -1,0 +1,447 @@
+[
+  {
+    "url": "https://www.pakp.gov.pk/members/suriya-bibi-pk-01-2024/",
+    "name": "Suriya Bibi\n\t\t\tPK-1 Chitral Upper",
+    "code": "PK-1"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/fateh-ul-mulk-ali-nasir-pk-02-2024/",
+    "name": "Fateh Ul Mulk Ali Nasir\n\t\t\tPK-2 Chitral Lower",
+    "code": "PK-2"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ali-shah-pk-04-2024/",
+    "name": "Ali Shah\n\t\t\tPK-4 Swat-II",
+    "code": "PK-4"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/akhtar-khan-pk-05-2024/",
+    "name": "Akhtar Khan\n\t\t\tPK-5 Swat-III",
+    "code": "PK-5"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/amjad-ali-pk-06-2018-13/",
+    "name": "Amjad Ali\n\t\t\tPK-7 Swat-V",
+    "code": "PK-6"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/hamid-ur-rahman-pk-08-2024/",
+    "name": "Hamid Ur Rahman\n\t\t\tPK-8 Swat-VI",
+    "code": "PK-8"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/sultan-room-pk-09-2024/",
+    "name": "Sultan Room\n\t\t\tPK-9 Swat-VII",
+    "code": "PK-9"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-naeem-pk-10-2024/",
+    "name": "Muhammad Naeem\n\t\t\tPK-10 Swat-VIII",
+    "code": "PK-10"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/gul-ibrahim-khan-pk-11-2024/",
+    "name": "Gul Ibrahim Khan\n\t\t\tPK-11 Upper Dir-I",
+    "code": "PK-11"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-yamin-pk-12-2024/",
+    "name": "Muhammad Yamin\n\t\t\tPK-12 Upper Dir-II",
+    "code": "PK-12"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-anwar-khan-pk-13-2024/",
+    "name": "Muhammad Anwar Khan\n\t\t\tPK-13 Upper Dir-III",
+    "code": "PK-13"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/humayun-khan-pk-14-2018/",
+    "name": "Humayun Khan\n\t\t\tPK-15 Lower Dir-II",
+    "code": "PK-14"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/shafi-ullah-pk-15-2018/",
+    "name": "Shafi Ullah\n\t\t\tPK-16 Lower Dir-III",
+    "code": "PK-15"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ubaidur-rahman-pk-17-2024/",
+    "name": "Ubaidur Rahman\n\t\t\tPK-17 Lower Dir IV",
+    "code": "PK-17"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/hamid-ur-rehman-pk-19-2024/",
+    "name": "Hamid Ur Rehman\n\t\t\tPK-19 Bajaur-I",
+    "code": "PK-19"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/anwar-zeb-khan-pk-100-2018/",
+    "name": "Anwar Zeb Khan\n\t\t\tPK-20 Bajaur-II",
+    "code": "PK-100"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ajmal-khan-pk-101-2018/",
+    "name": "Ajmal Khan\n\t\t\tPK-21 Bajaur-III",
+    "code": "PK-101"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-nisar-pk-22-2024/",
+    "name": "Muhammad Nisar Baaz\n\t\t\tPK-22 Bajaur-IV",
+    "code": "PK-22"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/shakeel-khan-pk-18-2018-13/",
+    "name": "Shakeel Ahmed\n\t\t\tPK-23 Malakand-I",
+    "code": "PK-18"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/riaz-khan-pk-20-2018/",
+    "name": "Riaz Khan\n\t\t\tPK-25 Buner-I",
+    "code": "PK-20"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/syed-fakhar-jehan-pk-21-2018/",
+    "name": "Syed Fakhar Jehan\n\t\t\tPK-26 Buner-II",
+    "code": "PK-21"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/abdul-kabir-khan-pk-27-2024/",
+    "name": "Abdul Kabir Khan\n\t\t\tPK-27 Buner-III",
+    "code": "PK-27"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-rashad-khan-pk-28-2024/",
+    "name": "Muhammad Rashad Khan\n\t\t\tPK-28 Shangla-I",
+    "code": "PK-28"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/abdul-munim-pk-29-2024/",
+    "name": "Abdul Munim\n\t\t\tPK-29 Shangla-II",
+    "code": "PK-29"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ibadullah-khan-pk-30-2024/",
+    "name": "Ibadullah Khan\n\t\t\tPK-30 Shangla-III",
+    "code": "PK-30"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/fazal-haq-pk-31-2024/",
+    "name": "Fazal Haq\n\t\t\tPK-31 Kohistan Upper",
+    "code": "PK-31"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/sajjad-ullah-pk-32-2024/",
+    "name": "Sajjad Ullah\n\t\t\tPK-32 Kohistan Lower",
+    "code": "PK-32"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-riaz-pk-33-2024/",
+    "name": "Muhammad Riaz\n\t\t\tPK-33 Kolai Palas Kohistan",
+    "code": "PK-33"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/munir-hussain-pk-36-2024/",
+    "name": "Munir Hussain\n\t\t\tPK-36 Mansehra-I",
+    "code": "PK-36"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/zahid-chanzeb-pk-38-2024/",
+    "name": "Zahid Chanzeb\n\t\t\tPK-38 Mansehra-III",
+    "code": "PK-38"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ikram-ullah-pk-39-2024/",
+    "name": "Ikram Ullah\n\t\t\tPK-39 Mansehra-IV",
+    "code": "PK-39"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/sardar-shahjehan-yousaf-pk-40-2024/",
+    "name": "Sardar Shahjehan Yousaf\n\t\t\tPK-40 Mansehra-V",
+    "code": "PK-40"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/laiq-muhammad-khan-pk-35-2018/",
+    "name": "Laiq Muhammad Khan\n\t\t\tPK-41 Tor Ghar",
+    "code": "PK-35"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/rajab-ali-khan-abbasi-pk-43-2024/",
+    "name": "Rajab Ali Khan Abbasi\n\t\t\tPK-43 Abbottabad-II",
+    "code": "PK-43"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/iftikhar-jadoon-pk-44-2024/",
+    "name": "Iftikhar Jadoon\n\t\t\tPK-44 Abbottabad-III",
+    "code": "PK-44"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/arshad-ayub-khan-pk-41-2018/",
+    "name": "Arshad Ayub Khan\n\t\t\tPK-47 Haripur-II",
+    "code": "PK-41"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/malik-adeel-lqbal-pk-48-2024/",
+    "name": "Malik Adeel lqbal\n\t\t\tPK-48 Haripur-III",
+    "code": "PK-48"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/abdul-karim-khan-pk-45-2018-13/",
+    "name": "Abdul Karim Khan\n\t\t\tPK-51 Swabi-III",
+    "code": "PK-45"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/faisal-khan-pk-52-2024/",
+    "name": "Faisal Khan Tarakai\n\t\t\tPK-52 Swabi-IV",
+    "code": "PK-52"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/murtaza-khan-pk-53-2024/",
+    "name": "Murtaza Khan Tarakai\n\t\t\tPK-53 Swabi-V",
+    "code": "PK-53"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/zarshad-khan-pk-54-2024/",
+    "name": "Zarshad Khan\n\t\t\tPK-54 Mardan-I",
+    "code": "PK-54"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/tufail-anjum-pk-49-2018-13/",
+    "name": "Tufail Anjum\n\t\t\tPK-55 Mardan-II",
+    "code": "PK-49"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/amir-farzand-khan-pk-51-2018/",
+    "name": "Amir Farzand Khan\n\t\t\tPK-56-Mardan-III",
+    "code": "PK-51"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/tariq-mehmood-aryani-pk-59-2024/",
+    "name": "Tariq Mehmood Aryani\n\t\t\tPK-59 Mardan-VI",
+    "code": "PK-59"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/lhtisham-ali-pk-61-2024/",
+    "name": "Ihtisham Ali\n\t\t\tPK-61 Mardan-VIII",
+    "code": "PK-61"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/khalid-khan-pk-56-2018-13/",
+    "name": "Khalid Khan\n\t\t\tPK-62 Charsadda-I",
+    "code": "PK-56"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/arshad-ali-pk-63-2024/",
+    "name": "Arshad Ali\n\t\t\tPK-63 Charsadda-II",
+    "code": "PK-63"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/lftikhar-ullah-jan-pk-64-2024/",
+    "name": "Iftikhar Ullah Jan\n\t\t\tPK-64 Charsadda-III",
+    "code": "PK-64"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-arif-pk-60-2018-13/",
+    "name": "Muhammad Arif\n\t\t\tPK-66 Charsadda-V",
+    "code": "PK-60"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/mahboob-sher-pk-67-2024/",
+    "name": "Mahboob Sher\n\t\t\tPK-67 Mohmand-I",
+    "code": "PK-67"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-lsrar-pk-68-2024/",
+    "name": "Muhammad Israr\n\t\t\tPK-68 Mohmand-II",
+    "code": "PK-68"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-adnan-qadri-pk-69-2024/",
+    "name": "Muhammad Adnan Qadri\n\t\t\tPK-69 Khyber-I",
+    "code": "PK-69"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-sohail-afridi-pk-70-2024/",
+    "name": "Muhammad Sohail Afridi\n\t\t\tPK-70 Khyber-II",
+    "code": "PK-70"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/abdul-ghani-pk-71-2024/",
+    "name": "Abdul Ghani\n\t\t\tPK-71 Khyber-III",
+    "code": "PK-71"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/kiramat-ullah-khan-pk-72-2024/",
+    "name": "Kiramat Ullah Khan\n\t\t\tPK-72 Peshawar-I",
+    "code": "PK-72"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ljaz-muhammad-pk-74-2024/",
+    "name": "Ijaz Muhammad\n\t\t\tPK-74 Peshawar-III",
+    "code": "PK-74"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/arbab-muhammad-usman-khan-pk-75-2024/",
+    "name": "Arbab Muhammad Usman Khan\n\t\t\tPK-75 Peshawar-IV",
+    "code": "PK-75"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/sami-ullah-khan-pk-76-2024/",
+    "name": "Sami Ullah Khan\n\t\t\tPK-76 Peshawar-V",
+    "code": "PK-76"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/sher-ali-afridi-pk-77-2024/",
+    "name": "Sher Ali Afridi\n\t\t\tPK-77 Peshawar-VI",
+    "code": "PK-77"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/zahir-khan-pk-78-2024/",
+    "name": "Zahir Khan\n\t\t\tPK-78 Peshawar-VII",
+    "code": "PK-78"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/jalal-khan-pk-79-2024/",
+    "name": "Jalal Khan\n\t\t\tPK-79 Peshawar-VIII",
+    "code": "PK-79"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/arbab-zarak-khan-pk-80-2024/",
+    "name": "Arbab Zarak Khan\n\t\t\tPK-80 Peshawar-IX",
+    "code": "PK-80"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/syed-qasim-ali-shah-pk-81-2024/",
+    "name": "Syed Qasim Ali Shah\n\t\t\tPK-81 Peshawar-X",
+    "code": "PK-81"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/malik-tariq-awan-pk-82-2024/",
+    "name": "Malik Tariq Awan\n\t\t\tPK-82 Peshawar-XI",
+    "code": "PK-82"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/meena-khan-pk-83-2024/",
+    "name": "Meena Khan\n\t\t\tPK-83 Peshawar-XII",
+    "code": "PK-83"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/zar-alam-khan-pk-85-2024/",
+    "name": "Zar Alam Khan\n\t\t\tPK-85 Nowshera-I",
+    "code": "PK-85"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-idrees-pk-62-2018-13/",
+    "name": "Muhammad Idrees\n\t\t\tPK-86 Nowshera-II",
+    "code": "PK-62"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/khaleeq-ur-rahman-pk-65-2018-13/",
+    "name": "Khaleeq ur Rehman\n\t\t\tPK-87 Nowshera-III",
+    "code": "PK-65"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/mian-muhammad-umar-pk-88-2024/",
+    "name": "Mian Muhammad Umar\n\t\t\tPK-88 Nowshera-IV",
+    "code": "PK-88"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/lshfaq-ahmad-pk-89-2024-2/",
+    "name": "Ishfaq Ahmad\n\t\t\tPK-89 Nowshera-V",
+    "code": "PK-89"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/aftab-alam-afridi-pk-90-2024/",
+    "name": "Aftab Alam\n\t\t\tPK-90 Kohat-I",
+    "code": "PK-90"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/daud-shah-pk-91-2024/",
+    "name": "Daud Shah\n\t\t\tPK-91 Kohat-II",
+    "code": "PK-91"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/shafi-ullah-jan-pk-92-2024/",
+    "name": "Shafi Ullah Jan\n\t\t\tPK-92 Kohat-III",
+    "code": "PK-92"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/shah-abu-turab-khan-bangash-pk-93-2024/",
+    "name": "Shah Abu Turab Khan Bangash\n\t\t\tPK-93 Hangu",
+    "code": "PK-93"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/aurangzeb-khan-pk-94-2024/",
+    "name": "Aurangzeb Khan\n\t\t\tPK-94 Orakzai",
+    "code": "PK-94"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-riaz-pk-95-2024/",
+    "name": "Muhammad Riaz\n\t\t\tPK-95 Kurram-I",
+    "code": "PK-95"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ali-hadi-pk-96-2024/",
+    "name": "Ali Hadi\n\t\t\tPK-96 Kurram-II",
+    "code": "PK-96"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-khursheed-pk-97-2024/",
+    "name": "Muhammad Khursheed\n\t\t\tPK-97 Karak-I",
+    "code": "PK-97"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-sajjad-pk-98-2024/",
+    "name": "Muhammad Sajjad\n\t\t\tPK-98 Karak-II",
+    "code": "PK-98"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/zahid-ullah-khan-pk-99-2024/",
+    "name": "Zahid Ullah Khan\n\t\t\tPK-99 Bannu-I",
+    "code": "PK-99"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-iqbal-khan-pk-111-2018/",
+    "name": "Muhammad Iqbal Khan\n\t\t\tPK-103 North Waziristan-I",
+    "code": "PK-111"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/nek-muhammad-khan-pk-104-2024/",
+    "name": "Nek Muhammad Khan\n\t\t\tPK-104 North Waziristan-II",
+    "code": "PK-104"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/johar-muhammad-pk-105-2024/",
+    "name": "Johar Muhammad\n\t\t\tPK-105 Lakki Marwat-I",
+    "code": "PK-105"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/tariq-saeed-pk-107-2024/",
+    "name": "Tariq Saeed\n\t\t\tPK-107 Lakki Marwat-III",
+    "code": "PK-107"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/muhammad-usman-pk-108-2024-2/",
+    "name": "Muhammad Usman\n\t\t\tPK-108 Tank",
+    "code": "PK-108"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/asif-khan-pk-109-2024/",
+    "name": "Asif Khan\n\t\t\tPK-109 South Waziristan Upper",
+    "code": "PK-109"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ajab-gul-pk-110-2024/",
+    "name": "Ajab Gul\n\t\t\tPK-110 South Waziristan Lower",
+    "code": "PK-110"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ali-amin-gandapur-pk-113-2024/",
+    "name": "Ali Amin Gandapur\n\t\t\tPK-113 Dera Ismail Khan-III",
+    "code": "PK-113"
+  },
+  {
+    "url": "https://www.pakp.gov.pk/members/ehsan-ullah-khan-pk-115-2024/",
+    "name": "Ehsan Ullah Khan\n\t\t\tPK-115 Dera Ismail Khan-V",
+    "code": "PK-115"
+  }
+]

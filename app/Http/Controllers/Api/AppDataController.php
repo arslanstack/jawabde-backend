@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
-use App\Models\Complaint;
 use App\Models\ComplaintType;
 use App\Models\Constituency;
 use App\Models\ConstituencyType;
@@ -28,7 +27,8 @@ class AppDataController extends Controller
     {
         $payload = Cache::remember('app_data_seed', 3600, function () {
             $provinces = Province::orderBy('name')
-                ->get(['id', 'name', 'code']);
+                ->get(['id', 'name', 'code'])
+                ->toArray();
 
             $districts = District::with('province:id,name')
                 ->orderBy('name')
@@ -40,10 +40,11 @@ class AppDataController extends Controller
                     'province'    => $d->province?->name,
                     'center_lat'  => $d->center_lat,
                     'center_lon'  => $d->center_lon,
-                ]);
+                ])->values()->toArray();
 
             $constituencyTypes = ConstituencyType::orderBy('name')
-                ->get(['id', 'name', 'short_code', 'level']);
+                ->get(['id', 'name', 'short_code', 'level'])
+                ->toArray();
 
             $constituencies = Constituency::with('type:id,short_code')
                 ->orderBy('code')
@@ -55,7 +56,7 @@ class AppDataController extends Controller
                     'type_id'     => $c->type_id,
                     'short_code'  => $c->type?->short_code,
                     'district_id' => $c->district_id,
-                ]);
+                ])->values()->toArray();
 
             $politicians = Politician::with([
                 'terms' => fn ($q) => $q->where('is_current', true)
@@ -67,20 +68,21 @@ class AppDataController extends Controller
                 ->map(function ($p) {
                     $term = $p->terms->first();
                     return [
-                        'id'               => $p->id,
-                        'name'             => $p->name,
-                        'party'            => $p->party,
-                        'photo_url'        => $p->photo_url,
-                        'constituency_code'=> $term?->constituency?->code,
-                        'constituency_id'  => $term?->constituency?->id,
-                        'district_id'      => $term?->constituency?->district_id,
-                        'term_id'          => $term?->id,
+                        'id'                => $p->id,
+                        'name'              => $p->name,
+                        'party'             => $p->party,
+                        'photo_url'         => $p->photo_url,
+                        'constituency_code' => $term?->constituency?->code,
+                        'constituency_id'   => $term?->constituency?->id,
+                        'district_id'       => $term?->constituency?->district_id,
+                        'term_id'           => $term?->id,
                     ];
-                });
+                })->values()->toArray();
 
             $complaintTypes = ComplaintType::where('is_active', true)
                 ->orderBy('sort_order')
-                ->get(['id', 'name', 'slug', 'icon', 'sort_order']);
+                ->get(['id', 'name', 'slug', 'icon', 'sort_order'])
+                ->toArray();
 
             return compact(
                 'provinces',

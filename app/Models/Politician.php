@@ -11,7 +11,7 @@ class Politician extends Model
 {
     use HasUlids;
 
-    protected $fillable = ['name', 'party', 'photo_path'];
+    protected $fillable = ['name', 'party', 'photo_path', 'bio', 'email', 'phone', 'facebook_url', 'twitter_handle', 'data_source'];
 
     protected $appends = ['photo_url'];
 

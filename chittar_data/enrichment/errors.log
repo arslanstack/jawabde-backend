@@ -1,0 +1,191 @@
+[BAL 2026-06-12T05:30:34.209Z] Fatal: Could not find Chrome (ver. 149.0.7827.22). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\MuhammadArslan\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+[BAL 2026-06-12T05:33:02.240Z] Fatal: Could not find Chrome (ver. 149.0.7827.22). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\MuhammadArslan\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+[BAL 2026-06-12T05:33:24.073Z] Fatal: Failed to launch the browser process:  Code: 2147483651
+
+stderr:
+
+
+TROUBLESHOOTING: https://pptr.dev/troubleshooting
+
+[NA 2026-06-12T08:52:31.722Z] No UID match for: NA-1 â€” Abdul Latif
+[NA 2026-06-12T08:52:31.728Z] No UID match for: NA-3 â€” Salim Rehman
+[NA 2026-06-12T08:52:31.729Z] No UID match for: NA-14 â€” Sardar Muhammad Yousuf
+[NA 2026-06-12T08:52:31.729Z] No UID match for: NA-18 â€” Omar Ayub
+[NA 2026-06-12T08:52:31.730Z] No UID match for: NA-22 â€” Atif Khan
+[NA 2026-06-12T08:52:31.730Z] No UID match for: NA-30 â€” Shandana Gulzar
+[NA 2026-06-12T08:52:31.731Z] No UID match for: NA-35 â€” Shehryar Afridi
+[NA 2026-06-12T08:52:31.731Z] No UID match for: NA-36 â€” Yousuf Khan
+[NA 2026-06-12T08:52:31.732Z] No UID match for: NA-40 â€” Misbahuddin
+[NA 2026-06-12T08:52:31.733Z] No UID match for: NA-41 â€” Sher Afzal Marwat
+[NA 2026-06-12T08:52:31.733Z] No UID match for: NA-45 â€” Fatehullah Khan Miankhel
+[NA 2026-06-12T08:52:31.733Z] No UID match for: NA-47 â€” Tariq Fazal Chaudhry
+[NA 2026-06-12T08:52:31.734Z] No UID match for: NA-48 â€” Khurram Shehzad Nawaz
+[NA 2026-06-12T08:52:31.734Z] No UID match for: NA-53 â€” Qamar-ul-Islam Raja
+[NA 2026-06-12T08:52:31.735Z] No UID match for: NA-57 â€” Daniyal Chaudhary
+[NA 2026-06-12T08:52:31.735Z] No UID match for: NA-62 â€” Muhammad Ilyas Chaudhary
+[NA 2026-06-12T08:52:31.735Z] No UID match for: NA-63 â€” Chaudhry Hussain Elahi
+[NA 2026-06-12T08:52:31.736Z] No UID match for: NA-66 â€” Muhammad Ahmed Chattha
+[NA 2026-06-12T08:52:31.736Z] No UID match for: NA-67 â€” Aneeqa Mehdi
+[NA 2026-06-12T08:52:31.736Z] No UID match for: NA-68 â€” Imtiaz Ahmed Chaudhary
+[NA 2026-06-12T08:52:31.737Z] No UID match for: NA-70 â€” Armaghan Subhani
+[NA 2026-06-12T08:52:31.737Z] No UID match for: NA-75 â€” Anwaarul Haq Chaudhary
+[NA 2026-06-12T08:52:31.738Z] No UID match for: NA-76 â€” Ahsan Iqbal
+[NA 2026-06-12T08:52:31.738Z] No UID match for: NA-77 â€” Chaudhry Mehmood Bashir
+[NA 2026-06-12T08:52:31.738Z] No UID match for: NA-78 â€” Chaudhary Mubeen Arif Jutt
+[NA 2026-06-12T08:52:31.739Z] No UID match for: NA-79 â€” Chaudhary Ahsaanullah Virk
+[NA 2026-06-12T08:52:31.739Z] No UID match for: NA-81 â€” Chaudhry Bilal Ijaz
+[NA 2026-06-12T08:52:31.739Z] No UID match for: NA-82 â€” Mukhtar Ahmad Bharath
+[NA 2026-06-12T08:52:31.740Z] No UID match for: NA-83 â€” Usama Ghias Mela
+[NA 2026-06-12T08:52:31.740Z] No UID match for: NA-84 â€” Malik Shafqat Abbas Awan
+[NA 2026-06-12T08:52:31.741Z] No UID match for: NA-98 â€” Chaudhry Shehbaz Babar
+[NA 2026-06-12T08:52:31.741Z] No UID match for: NA-99 â€” Malik Umar Farooq Mushtaq
+[NA 2026-06-12T08:52:31.741Z] No UID match for: NA-100 â€” Nisar Ahmad Jutt
+[NA 2026-06-12T08:52:31.742Z] No UID match for: NA-104 â€” Sahibzada Hamid Raza
+[NA 2026-06-12T08:52:31.742Z] No UID match for: NA-108 â€” Sahabzada Mehboob Sultan
+[NA 2026-06-12T08:52:31.743Z] No UID match for: NA-113 â€” Rana Ahmed Ateeq Anwar
+[NA 2026-06-12T08:52:31.743Z] No UID match for: NA-118 â€” Hamza Shahbaz
+[NA 2026-06-12T08:52:31.743Z] No UID match for: NA-120 â€” Ayaz Sadiq
+[NA 2026-06-12T08:52:31.744Z] No UID match for: NA-122 â€” Latif Khosa
+[NA 2026-06-12T08:52:31.744Z] No UID match for: NA-125 â€” Afzal Khokhar
+[NA 2026-06-12T08:52:31.745Z] No UID match for: NA-126 â€” Malik Saif ul Malook Khokhar
+[NA 2026-06-12T08:52:31.745Z] No UID match for: NA-128 â€” Aun Chaudhry
+[NA 2026-06-12T08:52:31.745Z] No UID match for: NA-129 â€” Mian Muhammad Azhar
+[NA 2026-06-12T08:52:31.746Z] No UID match for: NA-132 â€” Malik Rasheed Ahmed Khan
+[NA 2026-06-12T08:52:31.746Z] No UID match for: NA-133 â€” Azeemuddin Zahid Lakhvi
+[NA 2026-06-12T08:52:31.746Z] No UID match for: NA-136 â€” Riaz-ul-Haq
+[NA 2026-06-12T08:52:31.746Z] No UID match for: NA-138 â€” Muhammad Moeen Wattoo
+[NA 2026-06-12T08:52:31.747Z] No UID match for: NA-143 â€” Rai Hassan Nawaz
+[NA 2026-06-12T08:52:31.748Z] No UID match for: NA-144 â€” Raza Hayat Hiraj
+[NA 2026-06-12T08:52:31.748Z] No UID match for: NA-148 â€” Yusuf Raza Gilani
+[NA 2026-06-12T08:52:31.748Z] No UID match for: NA-150 â€” Zain Qureshi
+[NA 2026-06-12T08:52:31.749Z] No UID match for: NA-152 â€” Abdul Qadir Gillani
+[NA 2026-06-12T08:52:31.749Z] No UID match for: NA-154 â€” Rana Muhammad Faraz Noon
+[NA 2026-06-12T08:52:31.749Z] No UID match for: NA-160 â€” Abdul Ghaffar Wattoo
+[NA 2026-06-12T08:52:31.750Z] No UID match for: NA-161 â€” Alam Dad Lalika
+[NA 2026-06-12T08:52:31.750Z] No UID match for: NA-162 â€” Ehsan Ul Haq Bajwa
+[NA 2026-06-12T08:52:31.750Z] No UID match for: NA-163 â€” Ijaz-ul-Haq
+[NA 2026-06-12T08:52:31.750Z] No UID match for: NA-166 â€” Makhdoom Syed Sami Ul Hassan Gillani
+[NA 2026-06-12T08:52:31.751Z] No UID match for: NA-167 â€” Usman Owaisi
+[NA 2026-06-12T08:52:31.751Z] No UID match for: NA-169 â€” Makhdoom Syed Murtaza Mehmood
+[NA 2026-06-12T08:52:31.751Z] No UID match for: NA-171 â€” Mumtaz Mustafa
+[NA 2026-06-12T08:52:31.751Z] No UID match for: NA-172 â€” Javed Iqbal Warraich
+[NA 2026-06-12T08:52:31.752Z] No UID match for: NA-174 â€” Azhar Laghari
+[NA 2026-06-12T08:52:31.752Z] No UID match for: NA-175 â€” Jamshed Dasti
+[NA 2026-06-12T08:52:31.752Z] No UID match for: NA-177 â€” Moazam Ali Khan Jatoi
+[NA 2026-06-12T08:52:31.753Z] No UID match for: NA-182 â€” Malik Awais Jakhar
+[NA 2026-06-12T08:52:31.753Z] No UID match for: NA-185 â€” Zartaj Gul
+[NA 2026-06-12T08:52:31.753Z] No UID match for: NA-186 â€” Awais Leghari
+[NA 2026-06-12T08:52:31.753Z] No UID match for: NA-187 â€” Ammar Ahmed Khan Laghari
+[NA 2026-06-12T08:52:31.754Z] No UID match for: NA-188 â€” Hafeez-ur-Rehman Dreshak
+[NA 2026-06-12T08:52:31.754Z] No UID match for: NA-195 â€” Nazeer Ahmed Baghio
+[NA 2026-06-12T08:52:31.754Z] No UID match for: NA-207 â€” Asif Ali Zardari
+[NA 2026-06-12T08:52:31.755Z] No UID match for: NA-208 â€” Syed Ghulam Mustafa Shah
+[NA 2026-06-12T08:52:31.755Z] No UID match for: NA-213 â€” Nawab Yousuf Talpur
+[NA 2026-06-12T08:52:31.756Z] No UID match for: NA-216 â€” Makhdoom Jamiluzaman
+[NA 2026-06-12T08:52:31.756Z] No UID match for: NA-219 â€” Abdul Aleem Khanzada
+[NA 2026-06-12T08:52:31.756Z] No UID match for: NA-223 â€” Rasool Bakhsh Chandio
+[NA 2026-06-12T08:52:31.756Z] No UID match for: NA-227 â€” Irfan Zafar Leghari
+[NA 2026-06-12T08:52:31.757Z] No UID match for: NA-232 â€” Aasia Ishaque
+[NA 2026-06-12T08:52:31.757Z] No UID match for: NA-239 â€” Nabil Gabol
+[NA 2026-06-12T08:52:31.757Z] No UID match for: NA-246 â€” Syed Aminul Haque
+[NA 2026-06-12T08:52:31.758Z] No UID match for: NA-247 â€” Khawaja Izharul Hassan
+[NA 2026-06-12T08:52:31.758Z] No UID match for: NA-249 â€” Ahmed Salim Siddiqui
+[NA 2026-06-12T08:52:31.758Z] No UID match for: NA-251 â€” Syed Samiullah
+[NA 2026-06-12T08:52:31.759Z] No UID match for: NA-252 â€” Sardar Yaqoob Nasir
+[NA 2026-06-12T08:52:31.759Z] No UID match for: NA-256 â€” Akhtar Mengal
+[NA 2026-06-12T08:52:31.759Z] No UID match for: NA-264 â€” Jamal Raisani
+[NA 2026-06-12T08:52:31.760Z] No UID match for: NA-265 â€” Fazal-ur-Rehman
+[NA 2026-06-12T09:50:45.381Z] No UID match for: NA-1 — Abdul Latif
+[NA 2026-06-12T09:50:45.383Z] No UID match for: NA-3 — Salim Rehman
+[NA 2026-06-12T09:50:45.383Z] No UID match for: NA-14 — Sardar Muhammad Yousuf
+[NA 2026-06-12T09:50:45.384Z] No UID match for: NA-18 — Omar Ayub
+[NA 2026-06-12T09:50:45.384Z] No UID match for: NA-22 — Atif Khan
+[NA 2026-06-12T09:50:45.385Z] No UID match for: NA-30 — Shandana Gulzar
+[NA 2026-06-12T09:50:45.385Z] No UID match for: NA-35 — Shehryar Afridi
+[NA 2026-06-12T09:50:45.386Z] No UID match for: NA-36 — Yousuf Khan
+[NA 2026-06-12T09:50:45.387Z] No UID match for: NA-40 — Misbahuddin
+[NA 2026-06-12T09:50:45.388Z] No UID match for: NA-41 — Sher Afzal Marwat
+[NA 2026-06-12T09:50:45.389Z] No UID match for: NA-45 — Fatehullah Khan Miankhel
+[NA 2026-06-12T09:50:45.390Z] No UID match for: NA-47 — Tariq Fazal Chaudhry
+[NA 2026-06-12T09:50:45.390Z] No UID match for: NA-48 — Khurram Shehzad Nawaz
+[NA 2026-06-12T09:50:45.390Z] No UID match for: NA-53 — Qamar-ul-Islam Raja
+[NA 2026-06-12T09:50:45.391Z] No UID match for: NA-57 — Daniyal Chaudhary
+[NA 2026-06-12T09:50:45.391Z] No UID match for: NA-62 — Muhammad Ilyas Chaudhary
+[NA 2026-06-12T09:50:45.392Z] No UID match for: NA-63 — Chaudhry Hussain Elahi
+[NA 2026-06-12T09:50:45.392Z] No UID match for: NA-66 — Muhammad Ahmed Chattha
+[NA 2026-06-12T09:50:45.392Z] No UID match for: NA-67 — Aneeqa Mehdi
+[NA 2026-06-12T09:50:45.393Z] No UID match for: NA-68 — Imtiaz Ahmed Chaudhary
+[NA 2026-06-12T09:50:45.393Z] No UID match for: NA-70 — Armaghan Subhani
+[NA 2026-06-12T09:50:45.393Z] No UID match for: NA-75 — Anwaarul Haq Chaudhary
+[NA 2026-06-12T09:50:45.394Z] No UID match for: NA-76 — Ahsan Iqbal
+[NA 2026-06-12T09:50:45.394Z] No UID match for: NA-77 — Chaudhry Mehmood Bashir
+[NA 2026-06-12T09:50:45.394Z] No UID match for: NA-78 — Chaudhary Mubeen Arif Jutt
+[NA 2026-06-12T09:50:45.395Z] No UID match for: NA-79 — Chaudhary Ahsaanullah Virk
+[NA 2026-06-12T09:50:45.395Z] No UID match for: NA-81 — Chaudhry Bilal Ijaz
+[NA 2026-06-12T09:50:45.396Z] No UID match for: NA-82 — Mukhtar Ahmad Bharath
+[NA 2026-06-12T09:50:45.396Z] No UID match for: NA-83 — Usama Ghias Mela
+[NA 2026-06-12T09:50:45.397Z] No UID match for: NA-84 — Malik Shafqat Abbas Awan
+[NA 2026-06-12T09:50:45.397Z] No UID match for: NA-98 — Chaudhry Shehbaz Babar
+[NA 2026-06-12T09:50:45.398Z] No UID match for: NA-99 — Malik Umar Farooq Mushtaq
+[NA 2026-06-12T09:50:45.398Z] No UID match for: NA-100 — Nisar Ahmad Jutt
+[NA 2026-06-12T09:50:45.398Z] No UID match for: NA-104 — Sahibzada Hamid Raza
+[NA 2026-06-12T09:50:45.399Z] No UID match for: NA-108 — Sahabzada Mehboob Sultan
+[NA 2026-06-12T09:50:45.399Z] No UID match for: NA-113 — Rana Ahmed Ateeq Anwar
+[NA 2026-06-12T09:50:45.400Z] No UID match for: NA-118 — Hamza Shahbaz
+[NA 2026-06-12T09:50:45.400Z] No UID match for: NA-120 — Ayaz Sadiq
+[NA 2026-06-12T09:50:45.400Z] No UID match for: NA-122 — Latif Khosa
+[NA 2026-06-12T09:50:45.401Z] No UID match for: NA-125 — Afzal Khokhar
+[NA 2026-06-12T09:50:45.401Z] No UID match for: NA-126 — Malik Saif ul Malook Khokhar
+[NA 2026-06-12T09:50:45.402Z] No UID match for: NA-128 — Aun Chaudhry
+[NA 2026-06-12T09:50:45.402Z] No UID match for: NA-129 — Mian Muhammad Azhar
+[NA 2026-06-12T09:50:45.402Z] No UID match for: NA-132 — Malik Rasheed Ahmed Khan
+[NA 2026-06-12T09:50:45.403Z] No UID match for: NA-133 — Azeemuddin Zahid Lakhvi
+[NA 2026-06-12T09:50:45.403Z] No UID match for: NA-136 — Riaz-ul-Haq
+[NA 2026-06-12T09:50:45.403Z] No UID match for: NA-138 — Muhammad Moeen Wattoo
+[NA 2026-06-12T09:50:45.404Z] No UID match for: NA-143 — Rai Hassan Nawaz
+[NA 2026-06-12T09:50:45.404Z] No UID match for: NA-144 — Raza Hayat Hiraj
+[NA 2026-06-12T09:50:45.405Z] No UID match for: NA-148 — Yusuf Raza Gilani
+[NA 2026-06-12T09:50:45.405Z] No UID match for: NA-150 — Zain Qureshi
+[NA 2026-06-12T09:50:45.406Z] No UID match for: NA-152 — Abdul Qadir Gillani
+[NA 2026-06-12T09:50:45.406Z] No UID match for: NA-154 — Rana Muhammad Faraz Noon
+[NA 2026-06-12T09:50:45.406Z] No UID match for: NA-160 — Abdul Ghaffar Wattoo
+[NA 2026-06-12T09:50:45.407Z] No UID match for: NA-161 — Alam Dad Lalika
+[NA 2026-06-12T09:50:45.407Z] No UID match for: NA-162 — Ehsan Ul Haq Bajwa
+[NA 2026-06-12T09:50:45.407Z] No UID match for: NA-163 — Ijaz-ul-Haq
+[NA 2026-06-12T09:50:45.408Z] No UID match for: NA-166 — Makhdoom Syed Sami Ul Hassan Gillani
+[NA 2026-06-12T09:50:45.408Z] No UID match for: NA-167 — Usman Owaisi
+[NA 2026-06-12T09:50:45.408Z] No UID match for: NA-169 — Makhdoom Syed Murtaza Mehmood
+[NA 2026-06-12T09:50:45.409Z] No UID match for: NA-171 — Mumtaz Mustafa
+[NA 2026-06-12T09:50:45.409Z] No UID match for: NA-172 — Javed Iqbal Warraich
+[NA 2026-06-12T09:50:45.409Z] No UID match for: NA-174 — Azhar Laghari
+[NA 2026-06-12T09:50:45.409Z] No UID match for: NA-175 — Jamshed Dasti
+[NA 2026-06-12T09:50:45.410Z] No UID match for: NA-177 — Moazam Ali Khan Jatoi
+[NA 2026-06-12T09:50:45.410Z] No UID match for: NA-182 — Malik Awais Jakhar
+[NA 2026-06-12T09:50:45.410Z] No UID match for: NA-185 — Zartaj Gul
+[NA 2026-06-12T09:50:45.411Z] No UID match for: NA-186 — Awais Leghari
+[NA 2026-06-12T09:50:45.411Z] No UID match for: NA-187 — Ammar Ahmed Khan Laghari
+[NA 2026-06-12T09:50:45.411Z] No UID match for: NA-188 — Hafeez-ur-Rehman Dreshak
+[NA 2026-06-12T09:50:45.412Z] No UID match for: NA-195 — Nazeer Ahmed Baghio
+[NA 2026-06-12T09:50:45.412Z] No UID match for: NA-207 — Asif Ali Zardari
+[NA 2026-06-12T09:50:45.412Z] No UID match for: NA-208 — Syed Ghulam Mustafa Shah
+[NA 2026-06-12T09:50:45.413Z] No UID match for: NA-213 — Nawab Yousuf Talpur
+[NA 2026-06-12T09:50:45.413Z] No UID match for: NA-216 — Makhdoom Jamiluzaman
+[NA 2026-06-12T09:50:45.414Z] No UID match for: NA-219 — Abdul Aleem Khanzada
+[NA 2026-06-12T09:50:45.414Z] No UID match for: NA-223 — Rasool Bakhsh Chandio
+[NA 2026-06-12T09:50:45.414Z] No UID match for: NA-227 — Irfan Zafar Leghari
+[NA 2026-06-12T09:50:45.414Z] No UID match for: NA-232 — Aasia Ishaque
+[NA 2026-06-12T09:50:45.415Z] No UID match for: NA-239 — Nabil Gabol
+[NA 2026-06-12T09:50:45.415Z] No UID match for: NA-246 — Syed Aminul Haque
+[NA 2026-06-12T09:50:45.416Z] No UID match for: NA-247 — Khawaja Izharul Hassan
+[NA 2026-06-12T09:50:45.416Z] No UID match for: NA-249 — Ahmed Salim Siddiqui
+[NA 2026-06-12T09:50:45.416Z] No UID match for: NA-251 — Syed Samiullah
+[NA 2026-06-12T09:50:45.416Z] No UID match for: NA-252 — Sardar Yaqoob Nasir
+[NA 2026-06-12T09:50:45.417Z] No UID match for: NA-256 — Akhtar Mengal
+[NA 2026-06-12T09:50:45.417Z] No UID match for: NA-264 — Jamal Raisani
+[NA 2026-06-12T09:50:45.417Z] No UID match for: NA-265 — Fazal-ur-Rehman
